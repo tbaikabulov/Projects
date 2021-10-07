@@ -56,9 +56,6 @@ client = TelegramClient(username, api_id, api_hash)
 client.start()
 print("Client Created")
 
-channel = client.get_entity(urls[2])
-members = client.get_participants(channel)
-
 # Проверяем, что мы авторизированы. На этом шаге телеграм запросит пароль и код.
 if not client.is_user_authorized():
     client.send_code_request(phone)
@@ -79,7 +76,6 @@ async def dump_all_participants(channel):
     participants_ids = []   
 
     i = 0
-    global letters
     big_chat = False
 
     participants = await client.get_participants(channel)
@@ -97,19 +93,13 @@ async def dump_all_participants(channel):
         # собираем всех участников чата, делая сначала общий поиск, а потом по 1 букве имени, 
         # чтобы избежать ограничения offset_user < 10000
         filter_user = ChannelParticipantsSearch(letters[i])
-        participants = await client(GetParticipantsRequest(channel,
-            filter_user, offset_user, limit_user, hash=0))
-        for user in participants.users:
+        participants = await client.get_participants(channel, filter = filter_user)
+        for user in participants:
             if user.id not in participants_ids:
                 all_participants+=[user]
                 participants_ids +=[user.id]
         print(title, letters[i], len(all_participants))
-        offset_user += len(participants.users)
-
-        if offset_user > 10000 or not participants.users:
-            i+=1
-            offset_user = 0
-            filter_user = ChannelParticipantsSearch(letters[i])
+        i+=1
         if i>len(letters)-2:
             break
         
@@ -122,9 +112,6 @@ async def dump_all_participants(channel):
     for i in range(len(all_participants)):
         participant = all_participants[i]
         df.loc[df.shape[0]] = [title, name(participant.first_name, participant.last_name), participant.username, participant.id]
-        
-    df = df.drop_duplicates()
-    print('Duplicates dropped')
     df.to_csv('chat_users.csv', index=False)
 
 
