@@ -3,6 +3,7 @@ import json
 import pandas as pd
 import warnings
 import asyncio
+import nest_asyncio
 import string
 from functions import letters, name
 warnings.filterwarnings("ignore")
@@ -12,11 +13,9 @@ from telethon import connection
 
 # для корректного переноса времени сообщений в json
 from datetime import date, datetime
-
 # классы для работы с каналами
 from telethon.tl.functions.channels import GetParticipantsRequest
 from telethon.tl.types import Channel, ChannelParticipantsSearch
-
 # класс для работы с сообщениями
 from telethon.tl.functions.messages import GetHistoryRequest
 
@@ -57,6 +56,9 @@ client = TelegramClient(username, api_id, api_hash)
 client.start()
 print("Client Created")
 
+channel = client.get_entity(urls[2])
+members = client.get_participants(channel)
+
 # Проверяем, что мы авторизированы. На этом шаге телеграм запросит пароль и код.
 if not client.is_user_authorized():
     client.send_code_request(phone)
@@ -65,7 +67,6 @@ if not client.is_user_authorized():
     except SessionPasswordNeededError:
         client.sign_in(password=input('Password: '))
 
-import nest_asyncio
 nest_asyncio.apply()
 df = pd.DataFrame({'group': [], 'name': [], 'username':[],'id':[]})
 df.to_csv('chat_users.csv', index=False)
@@ -74,39 +75,44 @@ async def dump_all_participants(channel):
     title = channel.title
     offset_user = 0    # номер участника, с которого начинается считывание
     limit_user = 100   # максимальное число записей, передаваемых за один раз
-
     all_participants = []   # список всех участников канала
-    participants_ids = []
-    n_users = []
+    participants_ids = []   
 
     i = 0
-    filter_user = ChannelParticipantsSearch(letters[i])
+    global letters
+    big_chat = False
+
+    participants = await client.get_participants(channel)
+
+    for user in participants:
+        if user.id not in participants_ids:
+            all_participants+=[user]
+            participants_ids +=[user.id]
+    print(title, letters[i], len(all_participants))
+    if len(participants) > 8500:
+        big_chat = True
 
 
-    while True:
+    while big_chat:
         # собираем всех участников чата, делая сначала общий поиск, а потом по 1 букве имени, 
         # чтобы избежать ограничения offset_user < 10000
-        #letters = ['', ''] если число участников до 10000, добавляем эту строчку чтобы не искать по всем буквам
+        filter_user = ChannelParticipantsSearch(letters[i])
         participants = await client(GetParticipantsRequest(channel,
             filter_user, offset_user, limit_user, hash=0))
-        if not participants.users:
-            i+=1
-            offset_user = 0
-            filter_user = ChannelParticipantsSearch(letters[i])
-        if offset_user + len(participants.users) > 10000:
-            i+=1
-            offset_user = 0
-            filter_user = ChannelParticipantsSearch(letters[i])
         for user in participants.users:
             if user.id not in participants_ids:
                 all_participants+=[user]
                 participants_ids +=[user.id]
+        print(title, letters[i], len(all_participants))
         offset_user += len(participants.users)
+
+        if offset_user > 10000 or not participants.users:
+            i+=1
+            offset_user = 0
+            filter_user = ChannelParticipantsSearch(letters[i])
         if i>len(letters)-2:
             break
-        n_users += [(letters[i], len(all_participants))]
-        print(title, letters[i], len(all_participants))
-
+        
 
     print('Start saving')
     try:
@@ -163,12 +169,11 @@ async def dump_all_messages(channel):
          json.dump(all_messages, outfile, ensure_ascii=False, cls=DateTimeEncoder)
 
 
-async def main():
-    for url in urls:
-        channel = await client.get_entity(url)
-        await dump_all_participants(channel)
-        print('users downloaded')
+async def main(url):
+    channel = await client.get_entity(url)
+    await dump_all_participants(channel)
+    print('users downloaded')
     #await dump_all_messages(channel)
 
-ans = asyncio.run(main())
+ans = asyncio.run(main(urls[0]))
 print("finished download")
