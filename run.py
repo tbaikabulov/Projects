@@ -5,9 +5,10 @@ import warnings
 import asyncio
 import nest_asyncio
 import string
-from functions import letters, name
+from functions import letters, name, action_to_text
 warnings.filterwarnings("ignore")
 
+import telethon
 from telethon.sync import TelegramClient
 from telethon import connection
 
@@ -30,22 +31,6 @@ config.read("config.ini")
 # phone = +79191001922
 # username = timuret
 
-urls = '''https://t.me/wbchat_wb
-https://t.me/MarketplaceChati
-https://t.me/stat4marketcom
-https://t.me/WBchatik
-https://t.me/sert_ru2
-https://t.me/wildberries_ozon_yandex
-https://t.me/ozon_mplace
-https://t.me/mpstatsio
-https://t.me/tandemseller_4at
-https://t.me/gildia_marketplace
-https://t.me/sellercenter_online
-https://t.me/tovarohkas
-https://t.me/Marketplace_WB
-https://t.me/wbcon4us'''
-urls = urls.split()
-
 # Присваиваем значения внутренним переменным
 api_id   = config['Telegram']['api_id']
 api_hash = config['Telegram']['api_hash']
@@ -65,102 +50,59 @@ if not client.is_user_authorized():
         client.sign_in(password=input('Password: '))
 
 nest_asyncio.apply()
-df = pd.DataFrame({'group': [], 'name': [], 'username':[],'id':[]})
-df.to_csv('chat_users.csv', index=False)
 
 async def dump_all_participants(channel):
+    df = pd.DataFrame({'group': [], 'name': [], 'username':[],'id':[]})
     title = channel.title
-    offset_user = 0    # номер участника, с которого начинается считывание
-    limit_user = 100   # максимальное число записей, передаваемых за один раз
-    all_participants = []   # список всех участников канала
     participants_ids = []   
 
     i = 0
-    big_chat = False
-
-    participants = await client.get_participants(channel)
-
-    for user in participants:
-        if user.id not in participants_ids:
-            all_participants+=[user]
-            participants_ids +=[user.id]
-    print(title, letters[i], len(all_participants))
-    if len(participants) > 8500:
-        big_chat = True
-
-
-    while big_chat:
-        # собираем всех участников чата, делая сначала общий поиск, а потом по 1 букве имени, 
-        # чтобы избежать ограничения offset_user < 10000
+    while True:
+        # делаем поиск по 1 букве имени для всех букв, 
+        # чтобы избежать ограничения на 10000
         filter_user = ChannelParticipantsSearch(letters[i])
-        participants = await client.get_participants(channel, filter = filter_user)
+        if i==0:
+            participants = await client.get_participants(channel)
+        else:
+            participants = await client.get_participants(channel, filter = filter_user)
         for user in participants:
             if user.id not in participants_ids:
-                all_participants+=[user]
                 participants_ids +=[user.id]
-        print(title, letters[i], len(all_participants))
-        i+=1
-        if i>len(letters)-2:
+                df.loc[df.shape[0]] = [title, name(user.first_name, user.last_name), user.username, str(user.id)]
+        #print(title, letters[i], len(participants_ids))
+        if i>len(letters)-2 or (len(participants) < 8500 and i==0):
             break
+        i+=1
         
-
-    print('Start saving')
-    try:
-        df = pd.read_csv('chat_users.csv')
-    except FileNotFoundError:
-        df = pd.DataFrame({'group': [], 'name': [], 'username':[],'id':[]})
-    for i in range(len(all_participants)):
-        participant = all_participants[i]
-        df.loc[df.shape[0]] = [title, name(participant.first_name, participant.last_name), participant.username, participant.id]
     df.to_csv('chat_users.csv', index=False)
 
 
 async def dump_all_messages(channel):
-    """Записывает json-файл с информацией о всех сообщениях канала/чата"""
-    offset_msg = 0    # номер записи, с которой начинается считывание
-    limit_msg = 100   # максимальное число записей, передаваемых за один раз
+    df = pd.DataFrame({'group': [], 'name': [], 'username':[],'id':[],'message':[],'date':[]})
+    title = channel.title
 
-    all_messages = []   # список всех сообщений
-    total_messages = 0
-    total_count_limit = 0  # поменяйте это значение, если вам нужны не все сообщения
+    messages = await client.get_messages(channel, limit = 3000)
+    for m in messages:
+        user = m.sender
+        if m.message == None:
+            t = action_to_text(m.action)
+        if m.action == None:
+            t = m.message
+        if type(user) == telethon.tl.types.User:
+            df.loc[df.shape[0]] = [title, name(user.first_name, user.last_name), user.username, str(user.id), t, m.date]
+        if type(user) == telethon.tl.types.Channel:
+            df.loc[df.shape[0]] = [title, user.title, None, user.id, t, m.date]
 
-    class DateTimeEncoder(json.JSONEncoder):
-        '''Класс для сериализации записи дат в JSON'''
-        def default(self, o):
-            if isinstance(o, datetime):
-                return o.isoformat()
-            if isinstance(o, bytes):
-                return list(o)
-            return json.JSONEncoder.default(self, o)
-
-    while True:
-        print('offset_msg = ' + str(offset_msg))
-        history = await client(GetHistoryRequest(
-            peer=channel,
-            offset_id=offset_msg,
-            offset_date=None, add_offset=0,
-            limit=limit_msg, max_id=0, min_id=0,
-            hash=0))
-        if not history.messages:
-            break
-        messages = history.messages
-        for message in messages:
-            #print(message.message)
-            all_messages.append(message.to_dict())
-        offset_msg = messages[len(messages) - 1].id
-        total_messages = len(all_messages)
-        if total_count_limit != 0 and total_messages >= total_count_limit:
-            break
-
-    with open('channel_messages.json', 'w', encoding='utf8') as outfile:
-         json.dump(all_messages, outfile, ensure_ascii=False, cls=DateTimeEncoder)
+    df.to_csv('chat_messages.csv', index=False)
 
 
 async def main(url):
     channel = await client.get_entity(url)
     await dump_all_participants(channel)
     print('users downloaded')
-    #await dump_all_messages(channel)
+    await dump_all_messages(channel)
+    print('messages downloaded')
 
-ans = asyncio.run(main(urls[0]))
+url = 'https://telegram.me/startupchat'
+ans = asyncio.run(main(url))
 print("finished download")
