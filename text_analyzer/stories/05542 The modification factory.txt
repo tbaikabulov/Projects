@@ -1,0 +1,2072 @@
+BDSM Library - The modification factory
+
+
+
+
+The modification factory
+Provided By: BDSM Librarywww.bdsmlibrary.com
+Synopsis: Our heroine falls down the rabbit hole and find\'s herself in a fetishistic world of intrigue, plotting, ritualized lesbanism and strong willed beastmen.
+
+
+
+
+
+
+
+Fluff
+
+ 
+  Jim
+  Normal
+  Jim
+  2
+  39
+  2007-06-12T19:57:00Z
+  2007-06-12T19:57:00Z
+  1
+  168
+  959
+  Hewlett-Packard Company
+  7
+  2
+  1125
+  12.00
+ 
+
+
+
+
+ 
+  Clean
+  Clean
+  false
+  
+  0
+  0
+  
+  
+  false
+  false
+  false
+  
+  EN-US
+  X-NONE
+  X-NONE
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  MicrosoftInternetExplorer4
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+
+
+
+
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+
+
+ 
+
+ 
+  
+ 
+
+
+
+
+
+
+Notes from the author
+
+&nbsp;
+
+This story
+is slow. If you�re looking for some quick sexual descriptions and/or
+activities, this is not the story for you.
+
+&nbsp;
+
+If you on
+the other hand think that you would enjoy a story about a heroine that falls
+down the veritable rabbit hole and becomes trapped in a fetishistic
+world of intrigue, plotting, ritualized lesbianism,
+institutionalized D/S relationships, the exploration of a artificial culture,
+the odd love triangle and with a occasional furry beastman
+here and there, then you�ll probably like this story. If you can also accept
+that the story is slow and during some parts focuses on nonsexual matters, then
+you�re even likely to enjoy it.
+
+&nbsp;
+
+Drop a
+quick word if you like it, it really helps my process. Other
+than that, peace.
+
+&nbsp;
+
+Oh yeah,
+legal stuff.
+
+&nbsp;
+
+This work
+is not suitable to minors. You must be an adult and have the legal right in
+your place of residence to view sexually explicit or pornographic material in
+order to read this. Also this story is copyrighted by me, and no one else.
+Spread it if you want, but if you do so, you may not under any alter the
+contents of this story.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The modification Factory
+
+ 
+  Jim
+  Normal
+  Jim
+  2
+  4
+  2007-06-12T19:58:00Z
+  2007-06-12T19:58:00Z
+  11
+  4931
+  28111
+  Hewlett-Packard Company
+  234
+  65
+  32977
+  12.00
+ 
+
+
+
+
+ 
+  Clean
+  Clean
+  false
+  
+  0
+  0
+  
+  
+  false
+  false
+  false
+  
+  EN-US
+  X-NONE
+  X-NONE
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  MicrosoftInternetExplorer4
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+
+
+
+
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+
+
+ 
+
+ 
+  
+ 
+
+
+
+
+
+
+The modification Factory
+
+&nbsp;
+
+&nbsp;
+
+The last
+thing I remember before being abducted was going home from work. I had no
+family to go home to, no husband, no boyfriend, no
+lover. During the last couple of years, I had been married to my work, and it
+had taken a toll on my social life. This fact hit my hard in the head last
+month when I turned 40. My biological clock was ticking, I wanted to have kids,
+but didn�t have the time for a relationship and wasn�t sure I even had time for
+kids.
+
+&nbsp;
+
+Then in the
+parking lot under the hospital my life was changed for ever. I don�t remember
+much, just a rag over my face and then darkness.
+
+&nbsp;
+
+&nbsp;
+
+Chapter
+1 - Genesis
+
+&nbsp;
+
+Newly awake
+I hung suspended in the ceiling, unable to move, unable to speak. I could only
+watch the reflection of my own naked body in wall-sized mirror in front of me.
+Two robotic hands held my arms. I could feel the pressure against my skin.
+Then, to my horror, a dozen other mechanical arms swung down from the ceiling,
+all donning scalpels.
+
+&nbsp;
+
+One of them
+put the scalpel to my armpit and made an incision along the arm down to the
+wrist. I tried to scream, but nothing came out. The others made incisions on my
+back, along my legs, along my skull and over my neck. Like razorsharp
+lines, they all converged in my back. I could feel the pinpricks of pressure
+and coldness from the scalpels, but no pain. I could hear my own heartbeat in
+my ears, shouldn�t it beat quicker? I stared wide eyed at what was happening.
+
+&nbsp;
+
+Scalpels
+cut circles around the lips, the aureole, the pussy and the anus. Then, a
+couple of arms simultaneously put their fingers� in the incisions on my skin. I
+didn�t know what they where doing but I could several small long strands snakeing around under my skin. Where they left, the skin
+hung loosely from the body. 
+
+&nbsp;
+
+Suddenly
+with one big jerk, they pulled all the skin of my body. Panic ensued in my
+mind. I saw a skinless woman made out of muscles, bone and tendons in front of
+me. Since I was oblivious to the, what in normal circumstances would be a mind
+crippling, pain I actually was capable of semi rational thought. �How� how come there�s no blood? I should be
+bleeding to death.� I thought. I saw the sack of skin along with my
+shoulder long hair lying on the metal floor. A mechanical arm nimbly picked it
+up and tossed it into a chute in the wall. 
+
+&nbsp;
+
+The
+machines began to remove excess body fat from me by cutting and suction.
+
+&nbsp;
+
+Two arms
+picked up and raised my feet. It started slicing tendons and reattaching them,
+forcing my feet and toes to point downwards. After securing the bones of my
+feet with metallic platings that were screwed to the
+bone, the arms relaxed my feet back down.
+
+Shocked, I
+was barely awared of what was happening to me, but
+the drugs they must have pumped into my system was obviously better than
+anything I had ever worked with. My thought process was uninterrupted, except
+that I couldn�t move nor feel any pain.
+
+&nbsp;
+
+A machine
+made an incision through my abdominal muscle and opened up my bowel. Two arms
+held me open and several others darted inside me and started rummaging around.
+Stunned, I stared as a bloody organ was quickly tossed out. I looked at it, it
+looked like the appendix. �Well, I don�t
+actually need that� I thought. Then the machines started pulling out
+intestines. �Wait! Wait! I need those!�
+I thought, but couldn�t move my mouth. I couldn�t even scream,
+my breathing was controlled by a respirator.
+
+&nbsp;
+
+The machine
+held my intestines like a ball of string outside my belly. It sorted through it
+and hung it up on display on a dozen arms mechanical arms. One of the arms
+extended a blade and without further ado cut off more or less all of my
+intestines. With a disgusting splashing sound, it hit the now bloodied floor.
+After that, I recognized my womb and my ovaries as they got tossed out and hit
+the floor.
+
+&nbsp;
+
+A couple of
+other organs got thrown together with a handful of different glands. I lost
+track of all of it and nearly feinted. But my heart rate and breathing was
+regulated. I was forced to stayed awake and watch.
+
+&nbsp;
+
+A large
+glass jar filled with a water like substance was
+pulled forward along the floor, and in it lay what looked like another set of
+intestines and other masses I couldn�t identify. I felt sick to my stomach and
+wanted to throw up. A bit ironic, as to the fact that most of my stomach was
+gone
+
+&nbsp;
+
+The arms
+pulled out my new intestines from the jar and inserted them into me, I could feel the arms prodding around inside me. I also
+saw how it readied needle and thread and began to sow inside my body. After it
+was satisfied, all arms instantly pulled out of there and closed me up.
+
+&nbsp;
+
+I heard the
+buzzing of a mechanical saw and watched as they cut of my lowest rib. With flat
+sound, they both fell and clattered on the floor.
+
+&nbsp;
+
+Another set
+of arms began to dispose of my old intestines and ribs from the floor. From my
+back, my entire waist and abdominal area was covered in a hardened corset made
+out of steel and rubber. It hugged around my body and was laced down hard. I
+could see my figure in the mirror, my waist was
+diminishing by the seconds as the machine pulled the corset tightly around my
+muscled frame. It fastened the corset in my back in some manner that I couldn�t
+see.
+
+&nbsp;
+
+Two small
+incisions were made in my throat and two small mechanical arms entered. I
+didn�t know what they were doing, but it only took a few minutes before they
+closed me up again. Breathing felt a bit funny, I guess they did something to
+my throat.
+
+&nbsp;
+
+Several
+arms rose up to inspect my breasts. After short consideration, they implanted a
+small implant under the chest muscle to each of my breast.
+
+&nbsp;
+
+I saw how a
+needle injected something, I did not know what, into
+the fatty tissue of my ass. Another small needle approached my face and
+injected my lips with what I could only guess was silicone, or maybe human fat.
+
+&nbsp;
+
+A new
+breathing tube was stuck down my nostrils and the one from the mouth was pulled
+out. Immediately a green paste was pressed into my to my mouth, Within seconds it solidified. The same was applied my pussy
+and my ass. The arms smoothed out this paste to also cover the lips, the vagina
+and the sphincter perfectly. Two small globs covered my ears holes.
+
+&nbsp;
+
+The
+mechanical arms that held me up began to move rapidly in tracks in the ceiling.
+I thought they were going to smash me into the wall, but the wall opened up. I
+entered another room, also with a mirrored wall but most notably was the
+numerous large tubs in the room filled with different liquids. Two small eye
+shields where fastened over my eyes, blinding me.
+
+&nbsp;
+
+I was
+immersed into a thick goo and released. I tried to
+move, to get out of there but realized that I was still paralyzed. The only
+thing between me and death by drowning was a whimsical pair of tubes stuck down
+my nose, breathing for me.
+
+&nbsp;
+
+I lay there
+in the darkness, paralyzed in the liquid goo waiting for something, anything to
+happen. Little did I now that the dermitex
+I was floating in was primed to attach itself and parasite on my DNA-structure.
+The procedure took about 1 hour, but for me it felt like half a day. Suddenly,
+a pair of robotic arms picked my up from the goo.
+
+&nbsp;
+
+I was lifted
+up by my feet and dragged away and dropped down into some other liquid. I fell a couple of meters in the air before I made contact
+with the surface. I tried to scream again but couldn�t. �This was a lot colder� I thought. After just a few minutes I was
+picked up again and the procedure was repeated once again, I was carried away
+and dropped in another tub.
+
+&nbsp;
+
+I could
+feel a rhythmic humming noise of machinery starting as it coursed through the
+tub and my body. It was soothing. I remembered anecdotes how people found dark,
+warm, wet places and rhythmic noises calming as it should supposedly remind
+them of their time in the womb. I always thought it was nonsense but I could
+feel my self doze of.
+
+&nbsp;
+
+I awoke
+when someone grabbed my by the heel and lifted my up once again. This time I
+stayed up. They did something with my feet, but I couldn�t see or feel what. 
+
+&nbsp;
+
+The arms
+detached my eye shields and I could finally see again. But my head was slumped
+back and I could only see the ceiling and the swarm of robotic arms up there.
+They attached what I only could guess was white plastic eyelids. They rummaged
+around at the sides of my eyes for quite a while. I was extremely uncomfortable
+having all that sharp metallic objects mere millimetres from my eyes.
+
+&nbsp;
+
+Suddenly,
+the machine prodded my eyelid and tested it by gently pushing it downwards and
+upwards a couple of times. Satisfied with the result, it withdrew.
+
+&nbsp;
+
+I was
+turned around and set down on the floor, the arms still holding me. I could see
+my self in the mirror now. What I saw was both deeply disturbing and amazingly
+impressive.
+
+&nbsp;
+
+I had skin
+again, but it wasn�t my old skin. That was long gone. It wasn�t even like my
+old skin. In fact, it wasn�t even remotely like my old skin. It was latex. Or
+rubber, or plastic, or whatever you want to call it. White,
+shiny, latex all over my body. Except for select areas
+that was covered in red latex, namely my nipples, my lips and my vagina.
+My anus was also covered red, but I did not know this at the time. All my body
+hair was gone, so I was bald.
+
+&nbsp;
+
+My waist
+had been reduced several sized, it looked almost cartoony. I had an hourglass
+shape that probably no other woman could have without extreme discomfort or
+years of lacing, or both. My feet had been placed in en pointe
+ballet boots, also in white latex. I couldn�t really see where the boot ended
+and my leg started. It seemed to be moulded into the latex from my leg.
+
+&nbsp;
+
+My breasts
+had been slightly enlarged. �Maybe C-cups? D-cups?� I thought. They were also lifted, sitting
+nicely on my chest. My ass together with my lips had been given a dose of fatty
+tissue, enlarged as well. They both had a very sexy pout after the machines was
+done with me.
+
+&nbsp;
+
+�I don�t know if I should feel violated or
+sexy? I am violated, I am deeply violated. But�� I thought as I stared at
+my self. My eyelids was blue, distinctly marked. My
+eye lashes where black and very large. They fluttered effeminately as I
+blinked. �Hey, I blinked. Does that mean
+that I�m regaining�� I thought, but was interrupted by a needle in my arm,
+putting me asleep.
+
+&nbsp;
+
+&nbsp;
+
+Quickening
+
+&nbsp;
+
+Everything
+hurt. My stomach hurt horribly, my feet hurt. My eyes hurt, my ass hurt, my
+mouth hurt, my pussy hurt, and frankly I hurt all over, because my skin hurt. I
+was in a hospital bed, being rolled down a corridor. Finally, it stopped. I
+heard the rhythmic soft beating of several EKG machines. It felt like I was
+back at work. And I manner of speaking, I was at work,
+I just didn�t know it yet.
+
+&nbsp;
+
+�Head
+nurse� a stern voice called out. The clicking of high heeled shoes echoed in
+the hallway. �Yes most honoured subdirector, how may
+I be at service?� He rearranged his suit. �I come bringing news nurse, the factory�s business has been increasing rapidly
+lately. The high director has deemed it necessary to extend all departments
+with several nurses. The recovery department has received no less than ten
+additional nurses, as well as a replacement for nurse Smile Often� he told her.
+
+&nbsp;
+
+�I will
+personally see too their swift recovery and integration into the department
+most honoured subdirector� she said and curtseyed.
+�Very good, now if you�d follow me. I�d like to discuss something in private�
+he chuckled. �Off course subdirector, you must give
+me the opportunity to thank you personally for these new additions to my staff��, they trailed of.
+
+&nbsp;
+
+I felt,
+numb. I opened my eyes, I blinked. I could move again. I started breathing on
+my own, and my throat tried to expel the tube that was stuck in it. A nurse
+hurried in, she looked just like me, except that she wore a white latex apron
+to cover her body. It hugged her waistline, showing of her impossible curves.
+She grabbed my head and deftly slid out the tube from my throat. �There, you
+can breath again on your own� she said with a smile.
+�And let me be the first to welcome you to your new home, to our sisterhood�
+
+&nbsp;
+
+Still foggy
+from drugs and just waking up, I couldn�t really process all that she was
+saying. �W-what?� was about all I could muster. �You used to be a doctor,
+right?� she asked me while checking my vitals. �Yes� I said, astounded and
+confused. �How did you know?� She looked at me and smiled. �Because
+we all were. You�re a nurse now at the factory� she saw my facial
+expression. �Oh don�t be alarmed. We might do nurses work from time to time,
+but we have all the benefits from having been a doctor. If you want to
+administer a med, just go ahead. That is to say, if you have your superior�s
+approval� she giggled and rolled her eyes.
+
+&nbsp;
+
+I looked
+even more confused. �Oh don�t you worry, you�ll get the hang of it soon� she
+said and patted my thigh. �Hey�� I said sleepily and pointed at my leg. �Yeah,
+you probably can�t feel it yet. Don�t worry, your
+nerves will reattach itself to the dermitex, that is�
+your new skin, during the next day or so. After that, you�ll feel touch again.
+By the way, love your eyes� she said. 
+
+&nbsp;
+
+She
+clenched her legs together and flashed a flustered smile. �Ooooh...
+you new nurses are always so cute. I need to find nurse Pink, if you�ll excuse
+me.� She said and walked away. Her apron didn�t cover her back, so you could
+see her pouting well formed ass sticking out and underneath her bright red
+pussy was partly visible. I watched her leave, still bewildered of where I was
+and why. And who were these people? And what did they want with me?
+
+&nbsp;
+
+I looked
+around the room, it looked like a hospital. Very clean, coloured in white and
+chrome. There was a window looking out over a small field and a forest, a
+mountain could be seen in the distance. Three others like me lay in this room,
+but one of them wasn�t white like the others. She had a light blue hue.
+
+&nbsp;
+
+Suddenly,
+three other white nurses, they also looked like me. Difference in posture and
+physique set them aside, but other than that they had the exact same markings.
+White latex skin, red latex lips and an apron. They hurried inside with large
+smiles on their faces. �Look, look!� one of them said. �Yes, isn�t it
+wonderful, maybe we can get out of cock sucking forever?� the other said.
+�Forever!� another shouted happily, and they hugged.
+
+&nbsp;
+
+They began
+looking and prodding at us. �This one seems a bit shy� they said as the blue
+one retracted her leg when one them grabbed it for
+inspection. �Help me turn her around, I want to see her ass� she said and her
+mates closed up to help her. The blue one screamed in panic, but still had a tube
+down her throat, crippling her.
+
+&nbsp;
+
+�Herrrm�� I started, my throat all
+sticky and stale from not using it in God knows how long. �Hey, what do you
+want with her?� I said, sitting up in my bed. They stopped and turned to me.
+�Oh, this one has spirit� I like her already.� One of them said. The three of
+them closed up on me, like vultures. �The question, young one, isn�t what we
+want with you. The question is, what do you want from
+us?� she said with a seductive smile.
+
+&nbsp;
+
+All three
+of them stood leaned over me now, looking intently at me and smiling widely.
+Their latex faces staring down at me. �This
+is some fucked up shit�� I thought and regained my courage. �Look, all I
+want to know what�s going on, I�m not even sure I�m awake right now, this feels
+more like one of my more surreal dreams.� They started laughing, like a pack of
+hyenas.
+
+&nbsp;
+
+�I can
+assure you, this is not a dream. It is very real� one of them said and leaned
+down over me. �I can prove it� she said and took a needle from her apron and
+sunk it an inch into my thigh. �Aow!�
+I yelped. They laughed again. �See, not a dream� I looked at them, I failed the
+share their amusal of the situation. �Then I want to
+know how to get out of here!� I said out loud. �And why would you want to do
+that little one? Where would you go? What would you do? Your body has been
+transformed.� She said and ripped the sheets from me, showing my latex skin,
+deranged feet and laced waist. �You can not function in the outside world, none
+of us can� she grinned again, and the others chuckled.
+
+&nbsp;
+
+�This is a
+whole new world for you. It must be very confusing. You might get lost, you might step on someone�s toe�s unwittingly. Or you
+might fall victim for a stray guardian� She said. Another one of them whispered
+to other �I�d love to see that, I think she�d scream her lungs out�. They both
+giggled. �Ok� this isn�t funny anymore.
+This is beyond fucked up. This is just scary� I thought and pulled the
+sheet back over me. �Luckily, I have the solution for your problems� she
+started. �You?!� one of the others burst out. �What about us?� she demanded.
+�Oh be quiet or I�ll make sure that you spend a week on the woodland pole� she
+hissed back at her. The two of them became instantly quiet.
+
+&nbsp;
+
+�You see,
+I�m offering you my guardianship, like a mentor. Ah, but where are my manners.
+I�m nurse Blackboot�. She said and presented her
+hand. Carefully, I shook it. �I guess I don�t have a name yet�, I said. �Oooh� they swooned. �She�s a smart one�. I looked down on
+the floor and saw that nurse Blackboots en pointe shoes indeed were black. It was painfully apparent
+that she had ulterior motives, but I was terribly scared. �All you have to do
+is to accept to be my ward in front of the head nurse and that will be that�
+she said. �Ooh, I want her first, can I?� one of the others said. �Don�t be
+silly, she�s Blackboots ward. Then I�m having her.� The of them said with a superior snirk.
+
+&nbsp;
+
+I realised
+that this was probably a bad idea. �I�m not so sure this is such a good idea�,
+I said. �I think I�ll wait and see for myself.� Blackboot
+smacked them both on their heads. �Listen now, if you don�t become my ward��
+she looked around and bent down to me and whispered menacingly in my ear. �I�ll
+have my friend Bloodjaw rip your limbs off and sate
+his lusts on your still living torso. Understand?�
+
+&nbsp;
+
+Suddenly, a
+deeper voice was heard from the door way. �You know they only want you to be
+their bitch, don�t you?� someone said. I could see the anger overcoming Blackboot. She turned around. �Go away nigger, I�m in the
+middle of something�. I bent over to see this new nurse. Like the rest of us,
+she had a latex skin and was set in ballet boots, but unlike everyone else, she
+was a deep black. She was also very tall in her boots, surely a head taller
+than Blackboot in front of me. She stood with her
+arms crossed under her breasts and looked at her. 
+
+&nbsp;
+
+�You know��
+she started with a slight grin �It would truly be horrible if someone had a
+stash of wine somewhere here around the hospital. I mean, it is illegal after
+all� the black nurse said. �And would be disastrous if that stash was to be found somewhere, say underneath
+a loose plate in the second floor washroom.� Blackboot
+froze. �And it would an even greater tragedy if someone had dutifully reported
+this crime to one of the guardians, and that guardian is searching through
+every single washroom in this wing as we speak� wouldn�t it?�
+
+&nbsp;
+
+Blackboot
+started sweating. �How can she sweat
+through latex?� I looked at it amazed. �Damn you! If this is the way you
+want it, then so be it!� Blackboot said and pointed
+belligerently at the black nurse. They all hurried out, and I was alone with my
+saviour.
+
+&nbsp;
+
+�Thank you�
+I think� I said to her. She extended her arm. �I�m nurse Ebony�. I took her
+hand. �Do you all have so� eh. Do you all have names that�s
+derived from your looks?� She smiled at me. �I guess it�s easier that way. No
+one clings to their old name, and everyone gets a nick name. Mine was ebony�
+
+&nbsp;
+
+She rolled
+over a stool and sat down next to me. She looked at me intently. �You�re
+awfully calm about all of this� she noted. �Most new nurses tend to cry like
+babies or just stay catatonic for days. Hell, some of them have do be
+terminated due to mental illness� I looked at her and was blunt �I�ve always
+been strong on adversity, it makes me try harder� she nodded �I can see that�.
+She had a beautiful heartshaped face with pronounced
+cheek bones and a slim chin and a nubian
+nose. Velvet black eyes gazed softly at me.
+
+&nbsp;
+
+�Could I
+have something to drink, my throat�s a bit dry� I said. �Sure�, she got up and
+walked over to the sink and filled up a glass. I watched her movements
+minutely. Obviously, she wasn�t hindered by her extreme fetish boots. Her ass
+also had a slight pout to it, and you could see her flashes of her red pussy in
+the deep recesses of her black skin. She returned and gave me the glass. �Now,
+drink very carefully. Your stomach has been reduced in size and your intestines
+are still in the end of the healing processes.
+
+&nbsp;
+
+I took a
+mouth full. It felt a bit weird. �You still don�t have any touch in your mouth,
+but you can feel the cold. Just swallow and you�ll be fine� I swallowed. �Why
+can�t I feel anything in my mouth?� I asked, confused. �Because you�re like the
+rest of us� she said and stuck her tongue out. Her gums, her tongue, going all
+the way to the back of her throat her membranes had been replaced with red
+latex.
+
+&nbsp;
+
+She pulled
+back in. �It will heal in a day or so� I don�t know if it was the sense of
+security and trust that she carried with her, if the fact that even my tongue
+was covered in latex was the final drop that made the cup spill, but I
+instantly felt sad. �What is it?� she asked and laid her hand at my shoulder.
+�I� I don�t understand why I�m here� Her smile vanished. �Oh� Can I be blunt?�
+I nodded. �You are here because you have been kidnapped and enslaved. No two
+ways around it. No one else in here wants to admit to this fact, but it is the
+truth. You are here as a non-paid medical worker to make this hospital, or
+factory as they like to call it, operational. Lately, we�ve been getting a lot
+more clients, so our need for more human resources has expanded�.
+
+&nbsp;
+
+�Oh� What
+should I do?� I asked her. �Play along. Otherwise you�ll die. Or worse� I
+looked even sadder. She softly grabbed my hand. �Don�t worry. Most of us are
+happy here. I promise you, if you�re into medicine, which I�m sure you are,
+you�ll find this entire place extremely interesting. Also, don�t take Blackboot�s acting as an example for the rest of us. Sure,
+there�s a lot of plotting going around here and if you don�t stay on top of things,
+things will stay on top of you. But, all in all� this can be a very satisfying
+life, if you let it be� she finished.
+
+&nbsp;
+
+I started
+to realize that this place was probably more than I could handle. I was good
+with math, I was excellent with biology and I was a downright god with
+biochemistry. But social plotting and scheming was never my strong points. �That�s probably why I never got married,
+couldn�t grab the right man before someone else did�. I looked at her. �I
+think I need a mentor� I said, the reality of the situation now coming down on
+me, I started crying. �Ssshh�� she said as she got up
+and hugged me.
+
+&nbsp;
+
+&nbsp;
+
+Later that day�
+
+&nbsp;
+
+Ebony
+soothed me as I broke into numerous crying fits over the day, realizing that
+all of this was real was a truly soul shattering experience. Weary from the
+surgery and from the emotional distress I fell in and out of sleep, I always
+woke up with her by my side.
+
+&nbsp;
+
+Later I
+tried to get up and walk around against Ebony�s better judgement. Like she
+said, I couldn�t keep my balance without holding onto something. I felt even worse, I�ve never felt so worthless in my entire life. No
+one seemed to think that my mental state was out of the ordinary, least of all
+Ebony. She kept telling me that I was beautiful, and that everything would be
+ok.
+
+&nbsp;
+
+She also
+wanted us to get joined as ward and custodian as quick as possible but not
+before I understood exactly what it meant. �I have to ask you something� she
+said. �I was looking out the window. �Go ahead� I said. �It�s kinda personal�� I saw the sun wink behind ruffling leaves.
+�I don�t think I�ve never felt so exposed in my entire life. How more personal
+can it get?� She licked her lips apprehensively. �Most of the people that get
+here have similar sexual orientations. Are you by any chance homo or bisexual�
+I turned around and looked at her, like she was ridiculous or mad, or both.
+Then I realized �Maybe I am a bit gay? I
+was with a couple of girls in college and I�ve been thinking about it on and
+off.� I thought.
+
+&nbsp;
+
+�Because
+more or less everyone who�s taken here is at least bi,
+and frankly, this can be a rough place if you ain�t�
+I looked up at her again. �It�s not unthinkable, but it was at least 15 years
+since I did it with another woman� I said. I looked at her face. It was truly
+incredible how tightly this latex� no dermitex,
+fitted the body. It was a bit elastic, just like normal skin and had been
+grafted to all the nerves and the muscles on the body, so it covered all types
+of facial expressions. Smiling, angry faces, sadness, it could even crease the
+brow if it�s wearer wanted to.
+
+&nbsp;
+
+�What are
+you looking at� she asked, amused. �Your face, how� how did they do that?� I
+said. �Do what?� I looked he in the eye �How did they
+graft rubber on top of muscles, tendons and nerve, that�s� I�ve never heard of
+anything like it� She smiled her warm smile again �Well, the factory does
+possess medical knowledge far beyond what the scientific community knows�
+
+&nbsp;
+
+My skin
+started to itch. I scratched my arm. �Here, let me give you something to
+alleviate that. Nervous regrowth can be a real prick,
+especially when it happens all over your body at the same time� she said and
+walked off to get a pill and a cup of water. �Just a mild painkiller� she said
+as she handed it to me.
+
+&nbsp;
+
+�Well, as I
+was saying. You feel that you might be gay. That�s good, stay with that
+feeling, it will help you. Another question. Have you
+ever had any fetishist interest, or interest in bdsm
+play� I felt like blushing and looked down at my knees. �Yes� I said. �Can we
+blush? I feel like I�m blushing. �Well, you can blush but it can�t be seen.
+Like normal Africans� I nodded.
+
+&nbsp;
+
+�All right,
+I realize there�s no easy way of telling you this so I�ll just say it.� She
+started. �You can�t eat normal food anymore, your body
+can�t process it. Except for some liquids, there�s
+only two known nutrients that your stomach can digest� I picked up my glass of
+water and took a sip. �The first one is breast milk and the other is semen� I
+spurted water all over the bed. �What?!�
+
+&nbsp;
+
+�That�s the
+way it is� she said and nodded. �But, but� why? They
+could�ve just made us eat grass or leaves or whatever. Why� why those two?
+That�s disgusting!� She laughed a bit. �I�m pretty sure you won�t think that in
+a month or two. Anyway, the thing is, all of us nurses produce a milk like
+substance that we call nectar, or white nectar, or just the white. But our
+production of it only covers the about half the nutritional value you need per
+day.�
+
+&nbsp;
+
+My mind
+started working, analyzing this pretty easy numerical problem. �Ok� so you
+drink your own milk and�� she interrupted me. �We�re allergic to our own milk, we have to feed each other.� I looked at her. �This is getting more insane by the minute�
+I thought. �Ok, so we arrange everyone in a circle, where one feeds the other
+and the rest of the nutrients come from� ugh, this place is insane. Sperm?!�
+
+&nbsp;
+
+She giggled
+at me �That! Would be the mature way to handle it. But
+no, you�re still a few guns short of an army sister� she said. �I don�t feel
+like guessing, just tell me.� She rolled her stool closer to me. �Ok, this is
+how it works. This is where the notion of wards and custodians come into play.
+Every nurse has a custodian and every nurse has two wards. They feed from their
+wards every day, and in turn, their custodian feeds on them. This creates a
+pyramid structure that leads up to the top of the department, and at that top
+there is the head nurse. She together with the other four head nurses of the
+other department feed the three ladies of the court, who in turn feed the
+queen.�
+
+&nbsp;
+
+�Wait a
+minute. That means�� I interrupted myself. �We have a queen?� Ebony nodded at
+me. �That�s so cool!� I called out. �I�m glad you think so, but�� I interrupted
+her again �But wait a minute, if every nurse is fed by two nurses, that can�t
+go around forever, it has to bottom out somewhere� She nodded. �Very astute, it
+does. Nurses that have no wards for themselves are called many things, most
+unpleasant. I like to call them the autarkic� she said. �And that means�?� I
+wondered. �It�s latin for
+self-supporting�
+
+&nbsp;
+
+�Ok, ok.
+But what do they do for food?� I asked. �They go to the guardians for his
+semen. They produce pretty impressive amounts, so it will be enough with two
+per day if you�re average sized. I wanted three when I was fully autarkic. I
+know that nurse Pink has a belly ache after one� I looked at her sceptically.
+�So they sustain themselves only on semen?� She nodded. �Yep� I cooked my
+eyebrow �That�s not only gross, but also biologically impossible. I say that
+you�re trying to fool me�
+
+&nbsp;
+
+She
+shrugged and rolled her eyes. Looking out into the corridor, she saw someone.
+�Hey, nurse Randy come in here� she called out. �Nurse Randy? That�s pretty demeaning� I
+thought. The nurse that woke me up walked in, another petite nurse with bright
+pink skin walked behind her, she was a head shorter
+than Randy and didn�t even stand six feet in her shoes. �Nurse Pink here is
+your only ward, right?� Ebony asked. Randy patted Pink�s head. �That�s true�
+She said with a smile, apparently very happy to have her as a ward.
+
+&nbsp;
+
+�So what did
+you eat yesterday? I�m trying to teach our new nurse here a thing or two about
+life at the factory� Randy looked at me. �Oh, oh yes off course. Well,
+yesterday I fed from Pink�s lovely little titties
+here� she said and patted Pink�s head again. �And then I managed to grab Redclaw before anyone else did.� Ebony sighed. �Tell our
+new nurse here what you did with Redclaw� she walked
+up to me. �Well, I kissed him, and fondled him until he couldn�t deny that fact
+that he wanted me� she stopped to giggle. �Then he took me, fucked me silly
+until he was ready to come, then he pulled out and shot his load in my mouth�
+She leaned forward and whispered to me �Redclaw�s the
+best, his taste�s of cherry� she winked at me.
+
+&nbsp;
+
+�Thank you
+nurse Randy, nurse Pink. You�re excused.� They both curtseyed, something that
+looked painfully impossible in ballet boots, and walked out. �Now you could
+either chose to believe that this is all some kind of elaborate hoax, or you
+could think it is the truth�
+
+&nbsp;
+
+I remained
+silent for a long time. �So you want me to be your ward, to feed you from my
+breasts once per day?� She looked surprised, �Oh, wait. Well� yes. But! The
+ward and custodian relationship is so much more than just food. You will also
+become my responsibility, I will be required to look
+after you. To teach you and to take care of you when you need it, like family.
+Likewise, you�re expected to serve me when I require it�
+
+&nbsp;
+
+�What
+exactly does that mean?� I asked. �That I�m your superior. Legally, a custodian
+can order her ward around to her heart�s content, only a few acts are noted as
+actual crimes. In practice though, mistreating your ward is frowned upon,
+unless she has misbehaved�
+
+&nbsp;
+
+She
+continued, �Also, the rights of the custodian is
+inherited. My custodian, nurse Blacklips, will also
+be your superior. Don�t get yourself worked up on
+that, only vile nurses like Blackboot and her posse
+actually abuses this privilege� I nodded. �So who�s above nurse Blacklips?� I asked. �Nurse Two times� she said.
+
+&nbsp;
+
+Going over
+the hierarchy she just described to me I wondered. �Ok, so how many levels are
+there? And what level are you at?� I asked. �In the recovery department, where
+we work, we�re about 150, so there�s seven full levels and an eighth filling
+out as we speak. And given the structure of the system, about half of the
+population will always be autarkic. I�m at level five.�
+
+&nbsp;
+
+�What will
+happen if I say no?� I asked. �Then you�ll be on your own. I won�t be able to
+protect you.� I nodded and looked her in the eye. �Will you be my custodian?�
+She smiled warmly at me. She needn�t speak her answer,
+we both understood that she wanted it so.
+
+&nbsp;
+
+�May I
+suggest a name for you?� she asked. �By all means�.
+�Do you know what the did to your eyes?� I reflexively
+reached up and touch my face. �What? No� She handed me a mirror. I gingerly
+shifted the mirror in front of me and looked at my face. It was a bizarre
+experience. At first glance, it looked like someone had strapped a latex fetish
+hood on my head, but when you looked closer you saw it clung to the frame of
+the face. I creased my brow and it follow, I wrinkled my nose and it followed.
+�Amazing work�� I remembered thinking
+before I noted my eyes.
+
+&nbsp;
+
+My iris had
+always been blue, but the colour looked much brighter now. A
+soft light blue colour, very vivid. The skin on my eyelids was coloured
+in a light blue eye shade, softly blending into the white of the rest of my
+skin. �I thought we could call you Blue eyes� she said to me. Still perplexed
+by the sight of myself in the mirror I distantly answered �I think I like it�
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The modification factory
+
+ 
+  Jim
+  Normal
+  Jim
+  2
+  1
+  2007-06-12T19:59:00Z
+  2007-06-12T19:59:00Z
+  6
+  2887
+  16461
+  Hewlett-Packard Company
+  137
+  38
+  19310
+  12.00
+ 
+
+
+
+
+ 
+  Clean
+  false
+  
+  0
+  0
+  
+  
+  false
+  false
+  false
+  
+  EN-US
+  X-NONE
+  X-NONE
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  MicrosoftInternetExplorer4
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+
+
+
+
+
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+
+
+ 
+
+ 
+  
+ 
+
+
+
+
+
+
+The modification factory
+
+&nbsp;
+
+Our heroine
+got sedated by a thug paid by an anonymous client to kidnap her, when she woke
+up in the operating room she realized that she�d fallen down the rabbit hole.
+Her body violently rearranged to that of a white latex doll in front her very
+eyes. When she wakes up, she learns that she�s just one of many, and that her
+new duties are to work as a nurse and stay alive from the scheming and plotting
+of her 150 sisters.
+
+&nbsp;
+
+&nbsp;
+
+Chapter 2 - Learning to walk
+
+&nbsp;
+
+After
+resting a day and a night in bed, I woke up from the the bright light of the
+morning sun shining in through the window. A tall white nurse was checking up
+on us. Other than her apron, she had a white hat of sorts. It was more like a
+latex veil fastened in a ribbon at her forehead that swelled down over her
+back, it reached her shoulders. It moved and shifted as she walked around and
+almost gave the illusion of hair.
+
+&nbsp;
+
+She looked
+at me and saw that my eyes were opening. She hurriedly walked up to me. �How do
+you feel nurse?� I sat up, still slumberous. �Fine, I think. My skin doesn�t
+itch anymore� She hummed and made a note in my chart. �Can you feel this?� she
+asked and pinched the skin at my foot. The pain caused me to withdraw quickly.
+�Yes� I said. �Good, you�re clear to go. Report to my office in 15 minutes for
+registration� she quickly said and left the room. I noted that while her ass
+along with her entire backside wasn�t covered by the apron, she had a thong
+that covered her pussy and went up between her cheeks.
+
+&nbsp;
+
+I scratched
+the sleep out of my eyes as Ebony walked in. �Good morning Blue eyes� she said
+with a smile. �Good morning� I said. I sat up in my bed, holding the sheet to
+my chest. �We should get you some clothes� she noted. She walked out and
+quickly came back with a white latex apron. I noticed now that all of them had
+a pretty large red cross on their fronts.
+
+&nbsp;
+
+�You have
+to be standing to� I guess you�ve never walked in en pointe boots before, have
+you?� I shook my head. �Here I�ll help you� she said and took my hand. I swung
+around and sat my feet down on the floor. It felt weird, it felt really weird.
+�No way that anyone can walk with their feet like this� I said laughing and
+shaking my head. 
+
+�Oh, yes
+you can� Ebony said as she grabbed my other hand and swung me up. With a yelp
+she got me up to standing. My knees were wobbling and my ankles as well, the
+only reason I didn�t fall was because Ebony held my hands.
+
+&nbsp;
+
+The sole of
+the boot was on the other hand a lot bigger than I expected. I�ve seen this
+kind of boot before on the internet, but it�s sole, that I the area where the
+toes touch the ground, usually was pretty small. This on the other hand was
+flat and a bit bigger, it made balancing a lot easier.
+
+
+&nbsp;
+
+I saw now
+how tall she must�ve been. I was standing at 5�4�� or so without any shoes.
+These things surely added a foot to my length. She was still taller than me. �Shit, that�s one tall lady� I looked up
+at her, she looked down on me. �How tall are you in those� she grinned at me. �About seven feet. Intimidated?� I
+blushed and turned my eyes away, feeling my nakedness in front of her vividly.
+�Here, hold on to this� she said and put my hands on the wall.
+
+&nbsp;
+
+She drew
+the apron around me, hooked it over my head and tied it snugly in the small of
+my back. She walked around and looked at me, she
+straightened out a crease at my thigh. She took my hands again and lifted them
+from the wall. �Hey, I�� I began but stopped when my eyes met hers. She was
+still smiling softly. �Does she always do
+that?� I wondered.
+
+&nbsp;
+
+�Come on
+now, walk to me� she said and tugged slightly at my hands. I was expecting
+standing to be painful or uncomfortable at best, but I didn�t feel anything.
+Tentatively I took a step forward, and sat down my foot with a distinct
+clicking sound. I laughed at the ease of it all. I took another step, it was
+still wobbly and insecure but I did it! I could actually walk in these shoes. I
+took another step, and another and suddenly, my chest
+touched Ebony�s. We stood mere inches from each other, she looked down on me, I looked up on her. We still held each other�s hands. I
+could feel the warmth of her body on me. I felt myself blush.
+
+&nbsp;
+
+I gently
+reached up with my neck towards her, and closed my eyes and parted my lips. She
+reached down for me, I could feel her warmth closing in on my lips, I could hear her breath. And then� �Didn�t I tell you to
+report to my office nurse?� The nurse with that weird hat again. Ebony still
+held my hands but turned to her and curtseyed. I looked at her with
+astonishment, curtseying in these boots seemed impossible. I could barely hold
+my balance while standing up.
+
+&nbsp;
+
+�We�re
+terribly sorry to have kept you waiting head nurse, but Blue eyes here is still
+learning to walk� The head nurse harrumphed �Well, bring her in now would you,
+I don�t have all day. I�ve got 11 of these acquisition reports to fill out� she
+said sternly and walked away. �Come on Blue eyes, the last thing we need right
+now is the head nurse�s disapproval� she said and led me out.
+
+&nbsp;
+
+Ebony lead me through the corridors to the head nurse�s office. �I really fell down the rabbit hole this time�
+I thought as I looked around. Nurses, like us, was walking around everywhere in
+their ballet boots and latex skin. They were chatting, carrying reports,
+pulling trolleys, preparing medication. A lot of them had white skin, but the
+amount of coloured nurses was pretty large. I saw nurse Pink again, she greeted
+me happily. I realised how short she must be now, in her boots she was almost a
+full head shorter than me. Ebony seemed like a giant compared to her. �Hell, I feel like a giant compared to her�
+I thought.
+
+&nbsp;
+
+I saw two
+yellow nurses as well as a menacing looking nurse in a deep blood red skin. �Is
+the skin colour in any way related to your normal skin colour?� I asked. �Most
+of the times, but it seems that the most honoured directors sometimes let our
+colour be dominated by our personality instead of our skin. Pink for example
+was white before she came here. We all believe that the directors made her pink
+due to her girly demeanour. �I see. Makes sense I guess. The directors� They
+run this place, I thought we had a queen?� I said as
+she pointed to a large door �It�s in there. The queen answers to the directors.
+Subdirector Gerber honoured us with a non announced visit yesterday when he
+brought you in. It is the first time this department has seen a director in
+five years.�
+
+&nbsp;
+
+I still
+clung to her hand and arm like a child, I was to
+scared to walk on my own. She led me into the office. She had a large armchair
+in front of a huge ornate wooden desk. The room was very neatly kept and she
+had bookcases filled with books and the odd diploma. �Sit� she said while
+filling out a report. We both sat. �This will authenticate your DNA, set your
+thumb in it� she said and pushed forward a machine along the desk. I stuck my
+thumb in it and felt a sharp pain as a needle collected a drop of blood from
+me.
+
+&nbsp;
+
+�Very good�
+she said and rapidly punched a couple of keys on her computer. �Ah yes, recruit
+17 from the 245th year, July 26.� She noted �245th year?� I thought. �This is all very simple, you have to
+answer two questions, and then you will be given your work schedule. What is
+your name?� she asked and looked up at me. �I would like to be called Blue eyes
+madame� I said. �Ah yes� she said and started to type in the name in the
+records. �If you�re to address me with a title, which you always will, you will
+address me as head nurse. Understood?� she said, not looking at me.
+
+&nbsp;
+
+�Yes head
+nurse, forgive me, I didn�t know� I said and bowed slightly, not having a
+single idea what the proper etiquette was. �No apology necessary, you�re still
+new and you don�t have custodian to teach you yet. Which brings us to the
+second question, have you chosen a custodian?�
+
+&nbsp;
+
+�Yes head
+nurse, after some consideration I would like nurse Ebony to be my custodian� I
+said. �I see� she said, �Very well. Nurse Ebony, do you accept nurse Blue eyes
+as your ward?� She looked up at the head nurse �Yes I do�,
+she made a note at her computer. �Good, you have your ceremony scheduled for
+midnight tonight. She said while still typing her report. �Here is your work
+schedule nurse Blue eyes, good day.� she said and handed me a paper clipped to
+a board with one hand, still typing with the other.
+
+&nbsp;
+
+Ebony got
+up and bowed, backed the first three steps before turning around. I tried my
+best to follow her lead, but had to support myself on the chair. I tried to
+walk backwards, but I lost my balance and had to grab the wall. I turned around
+and walked out, leaning on the wall.
+
+&nbsp;
+
+�Scary�� I
+said. Ebony looked a preoccupied. �Look, Blue eyes. We have a problem.�� I looked at her. �What?� She looked at the
+time. �I�d hoped that the ceremony wouldn�t be so early. My work shift starts
+in 10 minutes.� She told me. �Ok� I said, obviously not getting it. �During the
+ritual, you have to ceremoniously offer your breasts to me, and I have to drink
+from them� I couldn�t decide whether to be disgusted or extremely appealed by
+the thought. �ok�� I said tentatively, still not
+getting it. �Since you havn�t been fed during the last couple of days, your
+breasts havn�t produced anything yet� she said and looked at me. �You�re off
+duty for two days now so you can settle in� she grabbed my shoulders and looked
+me in the eye. �You need to feed, at least before 10 pm. Do you understand?�
+
+&nbsp;
+
+�You mean,
+drink a load of jizz?� I said, my face wrinkled in
+disgust. �Yes, otherwise you will embarrass us both tonight� she said, very
+seriously. I felt terrible. �I gotta go, I can�t help
+you with this one. I�ll be on floor seven if you need me� she said and hurried away.
+I felt worse than terrible, I felt horrible.
+
+&nbsp;
+
+&nbsp;
+
+A meeting with a guardian
+
+&nbsp;
+
+She left
+me, in the middle of corridor. I didn�t know where I was, I didn�t know where I
+was supposed to go, I barely knew where I came from. I
+took out a direction and started walking, wobblingly, supporting myself on the
+walls and other furniture. I stopped and paused to get my bearings. �I don�t even know what a guardian looks
+like! I guess they have a penis, or at the very least testicles� Suddenly,
+I felt a hand on my ass. �Hello there sweetcheeks, need a custodian?� someone
+said. I flinched and turned around. A white nurse, with red eyes stood behind
+me. �I� eh� already got one� I said, not used to being fondled by other women
+before. �Oh, that�s a shame. She must be a happy woman� she said and leaned
+towards me.
+
+&nbsp;
+
+�Actually,
+I�m hungry. Would you mind showing me to a guardian?� She bit her lip. �You�ve
+never been with a guardian before, have you? You�re the ones who arrived
+today?� I nodded at her. �Yes, and yes�. She smiled,
+�Well then you�re in luck, I can help you� she said and patted my ass. Feeling
+not only the need to save Ebony�s face but also to sate my own growing hunger,
+I decided to let her ass patting slip. Normally I�d slap her though,
+I�ve done worse to men who tried that.
+
+&nbsp;
+
+She led me
+to an elevator and we descended a couple of floors. She led me to what looked
+like a cafeteria, a couple of nurses sat there and talked, no one ate anything
+though. �Stay here� she told me, and walked away. �Hm, she does not have a thong. I wonder what that means� looked at
+the other nurses as they passed by. Lots of them didn�t have any thongs, but a
+lot of them did. �Must be a fashion
+statement I guess�.
+
+&nbsp;
+
+My friendly
+nurse came back. �I�ve spoken to a guardian I know, he says he�ll take care of
+you. �Ok, thank you. Where� eh. Where can I find him?�
+She pointed to a door. �He�s waiting behind that door� I thanked her and
+tottered across the floor there. Another nurse approached me and wondered if I
+had a mentor. I respectfully declined them. �What did Ebony say? About half the nurses where
+autarkic. I guess everyone would want to get out of that position, when
+they see someone new they don�t hesitate to make a move�
+
+&nbsp;
+
+I
+approached a large door and knocked at it. No response. I knocked at it again,
+still no response. The room had a windowed wall, but the curtains were down. �Am I being set up?� I wondered. I felt
+the doorknob, it was open. I took a deep breath and walked in. �Hello, I heard
+there was a guardian in here� I turned around to close the door, and when I
+turned back my face hit his chest.
+
+&nbsp;
+
+He was
+about eight foot tall and four feet over the shoulders. His gigantic muscled
+chest was abundant with fur and he smelled like an animal. I looked up and saw
+an animalistic head, like a wolf mixed with a goat. I screamed and reached back
+for the door, he set his enormous hand on the door, it wouldn�t budge. He
+rumbled deep from within his chest and smiled at me, my screaming seemed to
+amuse him. His legs had an additional joint, allowing him a large footing and
+knee that was bent backwards, a bit like a cat or a dog.
+
+&nbsp;
+
+�P-please��
+I tried to plead, but started to cry instead. �He bent down and sniffed my head, I could feel the air rushing around me as he inhaled
+sharply. He spoke with a rumbling voice. �You�re the new one?� he asked after
+some consideration. �I looked up at him between my hands. I saw a necklace made
+out of bones hanging down from his neck, he had a
+spear in one hand. �Please, I don�t want anything. Just let me go� I pleaded.
+He recoiled slightly. �You�re not hungry?� he said slowly.
+
+&nbsp;
+
+�The lady
+said you were hungry� He rumbled again when I didn�t answer. He bent down and
+smelled me again. �You smell hungry� he said. I remembered the look on Ebony�s
+face when she told me how important it was that I fed before the night.
+�Swiftpaw don�t understand. Lady smells hungry, but Lady don�t
+act hungry. Denying oneself food, bad sign� he said and shook his head. He
+almost looked a bit sad.
+
+&nbsp;
+
+I looked up
+at him. �I�m hungry, I must eat� I said to him. �You sure this time?� he asked
+rumbling voice. I nodded. �Ok, I will explain� he said slowly. �The women in
+the steel castle feed from us, or they die. We, woodsmen, need women to still
+our desires, or we go mad� I looked up at him. He had a loincloth made out of
+leather that hung between his legs, it was ornated with circular symbols, some
+very beautiful. His broad shoulders was furless and tattooed with the same kind
+of symbols
+
+&nbsp;
+
+�You
+understand?� he asked. I nodded. �Good� he said and swooped
+me up with his one hand. I yelped as I was lifted into the air he set me down
+on a bed. �You will pleasure my pillar, and I will place my foam in your mouth�
+he said and walked up to me, his crotch in the level of my chest. He didn�t
+move. �Ok, I guess it�s my turn� I
+reached forward and undid his loincloth, and it fell to the floor, revealing a
+foot long cock. My eyes struck wide open as I stared upon it. �Oh! My! God! It�s still flaccid�� It
+hung flaccid between his legs, already outsizing everything I�ve ever seen or
+been with, and they were erect!
+
+&nbsp;
+
+He purred
+deeply as he laid his clawed hand on my head, the fingers reaching down to my
+shoulders. I reached forward and touched his monstrous cock. His sack hung
+beneath him, testicles the size of tennis balls. I could feel his cock twitch
+in my hands. �I guess I just give him a
+handjob and he shoots straight away� I thought and began rubbing him. His
+entire penis, like his skin had a dark shade to it. I kissed his head and
+licked it, flashing my eyelids as I looked up at him. He purred even louder,
+pressing me towards him. I could feel his cock swelling in my hands. I could
+feel myself get wet in my entire crotch area. �I can�t believe I�m actually getting off on this� I thought, not
+knowing if I should be disgusted or intrigued.
+
+&nbsp;
+
+I continued
+to nibble, kiss and lick his ever expanding manhood as my hands rubbed it up
+and down. �I think he�s fully erect now�
+I thought as I looked at the gigantic cock I held in my hands. He was surely a
+foot and a half long and as thick as grown man�s wrist. Suddenly, he roared
+like lion and bared his teeth. I yelped and covered my face with my hands. I�m
+not even sure he noticed, he simply grabbed me, turned me around and placed my
+chest down on the bed, legs falling down on the side. I couldn�t touch the
+ground with my feet. I screamed as I felt his head split my labia open. He
+pressed his cock straight into me, and I could feel his fur brushing my ass as
+he pushed all the way in, I felt his cock in my inside, filling me up.
+
+&nbsp;
+
+Outside the
+window, I saw the nurse that showed me here and one of her friends, peeking in
+through the curtains, giggling together. I was still in panic, I was sure that
+he was killing me. I screamed and bucked, trying to get away. He rumbled deeply
+grabbed my arms with his hands, leaning down on the bed. He leaned and put his
+body weight around my arms, the bed squeaked and moaned as both me and it was
+rocked back and forth as his monstrous cock was pounding my pussy. �He�s g-going to tea-ear me a-apart � I managed to think.
+
+&nbsp;
+
+Finally, he
+pulled out and with a splashing thud, he laid his wet
+cock on my back. �You�re cunt is a bit too tight for my taste woman� he said
+with a deep voice as I felt his cock slither along my back and slide down
+between butt cheeks. I felt his head touching my anus �No pleaseno, donnaaAAH!�
+I screamed as he slid his cock all the way into my ass with one swift stroke, I
+felt his furry hips touching my ass cheeks. He reached up and set his foot down
+on the bed next to, two of his clawed toes resting heavily on my head, pressing
+it down on the sheets. He pounded like a mad man, I
+thought I was going to die from haemorrhaging and tearing. He went faster and
+faster, he started to grunt and snort, I could feel his powerful breath
+billowing over my neck and face.
+
+� 
+
+Suddenly he
+released me and pulled out, sliding me down to the floor with his one hand. I
+fell down to my knees, still shocked, the bed rolled away, squeaking and
+shaking after we both left it, leaving me in the middle of an empty floor with
+this beastman in front of me, stroking his gargantuan cock in front of my face.
+�Drink your fill woman� he grunted and raised my chin with his clawed finger,
+stuffing the tip of his head into my red lipped mouth. He exploded and with
+violent spasms he filled my mouth with his frothing cum.
+
+&nbsp;
+
+I took
+awhile before I realized that I was going to get more than a mouthful, it
+spilled over my chin, falling down on my breasts and thighs. I closed my eyes
+and swallowed, drank the mouthful. He continued squirting, I felt him jerking
+and spraying the back of my mouth. When he had filled half my mouth again, I
+swallowed. Two more jerks, filled almost half my mouth again before he stopped.
+
+&nbsp;
+
+Teary eyed,
+I swallowed one last time. He chuckled. �You�re very good at this woman, I like
+the screaming and the trying to get away, makes a mans
+spirit feel good, like after the thrill of the hunt.� He said and pulled back
+his loincloth. �I will tell tales of this too my pack mates. May the stars
+guide you� he said and opened the door and ducked out, just like that.
+
+&nbsp;
+
+I was left
+there sitting on the floor, my tits was bulging out from my apron, my belly was
+full, my ass was distended, and my pussy as well, my stomach hurt from eating
+to much, for some weird reason my mouth tasted of rice and soysauce, cum still
+dripped down my chin to my tits and I was desperately trying to fight the fact
+that I was incredibly horny.
+
+
+
+
+
+
+
+Review This Story
+ || Email Author:  Naug
+
+
+MORE BDSM STORIES @ SEX STORIES POST
+
+
+
+
+

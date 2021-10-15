@@ -1,0 +1,615 @@
+BDSM Library - Shipment
+
+
+
+
+Shipment
+Provided By: BDSM Librarywww.bdsmlibrary.com
+Synopsis: A story of the evolution of mass production in the very distant future, with a twist that might surprise you unless you were paying attention. Almost no sex, but some interesting concepts explored.
+                                     SHIPMENT
+
+
+	The programmable unit blank was part of a large shipment that had to be
+prepared before they could be loaded aboard ship.  It was a basic appliance of
+crude design, at least by Tutro standards, produced in a local factory solely
+for export.  The simplicity of the unit made it ideal for both mass production
+and special orders.  The blanks were simple to produce, and they were easily
+customizable to the end user's specifications as to form and function.  They
+manufactured them by the billions and had advanced so far beyond their
+competition they basically had none.  The Tutro supplied all of known space.
+
+	Once produced the blanks were left unfinished and unprogrammed and
+stored in bulk until ready for sale.  Blank units earmarked for shipment were
+immediately culled from the rest.  The units were controlled via simple
+electrochemical commands and those culled were kept in a dormant state during
+processing.  Two simple chemical compounds were all it took to shut down their
+higher functions and retract their appendages tight against their frames to
+reduce the likelihood of accidental damage during packaging and transport.
+
+	The blank in question was lifted from its storage slot by a mechanical
+arm.  Maintenance tubes automatically disconnected from valves installed in the
+unit at the time of its culling and it was deposited onto a conveyor belt which
+rolled into the automated processing facility.  It was lifted from the belt and
+positioned on a frame which allowed easy access to the unit's projecting valves. 
+Articulated arms moved in and plugged hoses into the valves.  The unit was
+systematically flushed until the computer determined its innards were free of
+any loose material.  The blank hummed as it was flushed out and the computer
+quickly doublechecked it to make sure it was still dormant.  The hoses were then
+detached and new ones were moved into place.  These new hoses filled the unit
+with a lubricating gel which initially would cushion it against high-g forces
+sometimes encountered during shipment.  Overfilled it, actually, but the
+internal pressure would stabilize the unit during turbulence.  Over time a small
+amount would bleed out of the unit and form a cushioning layer between it and
+the soon-to-be applied protective shell.  Filled blanks displayed noticeably
+rounded frames, but the installed valves would bleed off some of the gel if the
+pressure got dangerously high.  Blanks weighed fifty kilos, give or take four
+percent, and the gel added another fifteen kilos to their gross weight, an
+important consideration when shipping in bulk.
+
+	While in the cradle, being flushed and filled, two simple rings were
+affixed to the unit's frame, top and bottom, using temporary adhesive.  Once the
+unit was filled with gel a cable dropped down and was hooked to the upper ring. 
+The unit was lifted out of the cradle and transported into to the vat room where
+it was submerged in sealant.  The unit was lifted from the black liquid and in
+just a few seconds the solution had hardened into a glossy protective coating. 
+The unit was given a second, then a third dip until optic lasers gauged the
+shell's thickness at just under a centimeter.  Only the valves and rings
+protruded from the glossy black surface.
+
+	The valve tubes were then sheared off flush with the protective coating. 
+Half their length, including the internal valve, was still inside the unit and
+the computer quickly checked that there had been no leakage, then the unit was
+dipped again, twice.  The valve halves were now plugs until the shell was
+cracked open. 
+
+	In its shell the unit could withstand the vacuum of deep space
+indefinitely, and the gel would keep it from freezing solid even when exposed to
+absolute zero.  The extreme cold of an uninsulated cargo hold would help keep
+the unit dormant during the long voyage.  The unit was transported to a shipping
+container where it was secured via the two rings into its own compartment.  The
+container held five hundred units and was being filled at the rate of six per
+minute. 
+
+	The twenty shipping containers were shuttled up one at a time to the
+huge transport ship in orbit and secured inside its cargo hold.  Once the last
+one was in place the Tutro transport moved out of orbit and headed for the first
+waypoint.
+
+
+	Be'lal was the pilot of the transport ship and its sole crewmember.  His
+first stop was a mining colony on the edge of the ore belt, a section of space
+filled with mineral-rich planets.
+
+	It took the ship four months to reach the fourth waypoint.  The computer
+did the actual navigation and burn time calculations but regulations stated the
+Tutro had to monitor every action.  Once through the last wormhole the Tutro
+would have another eighty standard days, first accelerating and then
+decelerating, before it reached the colony and could deliver their two thousand
+units.
+
+	Past the fourth waypoint and back in normal space, the Tutro activated
+his sensors and immediately detected the unmanned drone.  It had been sent by
+the miners to await his arrival at the waypoint.  Be'lal brought the drone
+onboard by remote and then went down into the hold to examine the drone's
+contents.
+
+	As expected, it was the finishing instructions for the colony's two
+thousand blanks.  They wanted the blanks, externally at least, to display a
+great variety.  As for operational programming, including memory, their requests
+held no surprises.  They'd included specific coding sequences to be helpful, but
+compared to what the Tutro had at its disposal the colonists' data was beyond
+crude.  Be'lal recorded their specifications but discarded their programming
+sequences.  Included in the list had been an inordinate number of special orders
+that the colonists weren't sure could be filled but had included anyway.  Be'lal
+saw these types of special orders a lot from isolated colonies.  Not only could
+the Tutro fill the special requests, but as the colonists had provided no exact
+specifications the Tutro was able to go beyond what they had envisioned into
+what they would probably view as the impossible.  This was one reason why the
+Tutro were the leaders in the field.
+
+	From the bridge Be'lal brought the temperature of the shipping container
+containing the colony's order gradually up from absolute zero to twenty-five
+degrees centigrade.  This could not be rushed, as rapid changes in temperature
+could damage the blanks.
+
+	Eight standard days later monitored core temperature of the blanks was
+24.4 degrees centigrade, high enough to begin the next step.  The compartment
+was filled with a gaseous reagent which went to work on the protective shells
+covering the blanks.  In two days, although their appearance remained unchanged,
+the shiny black coating around each blank had softened.
+
+	Armed with coding material for the blanks a drone moved into the
+container.  It introduced the material into individual blanks via a simple
+needle which pierced the now pliant black layer.  Each blank was also implanted
+with a microscopic monitoring probe.
+
+	The softening of the hard shell surrounding each blank was necessary as
+many of them would soon be changing size or shape as dictated by their new
+coding sequence.  Be'lal loosely monitored the blanks' progress as the ship made
+its way toward the isolated colony.  They were still dormant, and would remain
+so until delivery was made.  The gel filling them was fat laced and protein
+enriched and would provide whatever energy was necessary during this time.
+
+	The blanks which required the most extensive programming were still
+finished five days out of orbit.  Be'lal examined each and every finished unit's
+readout via the implanted probe and did not contact the colony until it was
+satisfied.
+
+	The delivery went smoothly, and after activating several units for
+evaluation the colony representatives seemed very satisfied.  Be'lal rode the
+now empty cargo shuttle up to the transport and set a course back to the nearest
+waypoint.  The next delivery was over five months and six waypoints distant.
+
+	As near as they could determine, the Tutro race was over half a million
+years older than humanity, and in that time had evolved accordingly.  Part of
+evolution is specialization, and while in some ways this benefited Be'lal's
+race, in other ways it was a hindrance.  Tutro lived to be close to three
+hundred standard years old, but they did not relish the boredom of space travel
+any more than other races.  As they did not sleep, as humans understood the
+term, the time seemed even greater.  Soon after leaving its homeworld the Tutro
+culled its one allotted blank and set about warming it up.  Not long after the
+third waypoint, twelve and a half weeks into the voyage, the unit's complicated
+sequencing was complete.  Be'lal removed part of the unit's softened shell and
+its upper valve assembly.  It reattached the two lower maintenance hoses to the
+valve halves still installed in the unit, and rehardened what was left of its
+shell.
+
+	The Tutro traveled in zero gravity and so was able to attach the unit
+directly to itself without having to worry about its weight pulling it free. 
+The maintenance hoses were connected to floating reservoirs which would fill up
+with processing byproducts and need to be emptied every week or so.  Once the
+unit was in place and operating properly the Tutro could relax and concentrate
+on its duties without the distraction it had been suffering since leaving its
+homeworld.  It only disconnected the unit during deliveries as the g-forces in
+the drop ship would be problematic.
+
+	
+
+	
+
+	Frank Garsen, Governor of  Kete's Landing, eyed the Tutro nervously. 
+He'd only seen pictures of the creatures before and being inside a closed room
+with the gangly thing had him a bit on edge.  It was almost seven feet tall and
+all angles.  Tutros were best described as two-legged anthropomorphic
+grasshoppers that walked upright.  They were light green in color and appeared
+to have exoskeletons, but that was only an illusion-Garsen had read enough to
+know it was only hard bony outer armor, covered in a thin layer of tough flesh. 
+All of its joints looked like they could bend two hundred and seventy degrees in
+any direction.  Rumor had it that all six of the Tutro's limbs - two legs and
+four arms - as well as its head, contained sex organs, but if that was the case
+Garsen sure would like to know what the hell that was hanging down between the
+alien's legs.  It looked very phallic, although if it was a sex organ it was
+proportionately huge, as long and thick as a human male's forearm and fist. 
+
+	The Tutro wore a small box around its head, a mechanical translator so
+they could understand its speech.  In one hand it held a small inventory
+computer.  It waited patiently for the humans to finish their inspection. 
+Garsen found it interesting that the alien wore no clothes.  In fact, of the
+four known sentient species, humans were the only ones who did.
+
+	Poat Miller, the colony's burly security chief, hovered in the corner,
+but even his presence wasn't enough to calm Garsen's nerves entirely.  There was
+a secure perimeter between the medical suites and the landing pad, guarded by
+Miller's men, but still the situation had all three men on edge.  It wasn't just
+the presence of the alien, it was his cargo as well.
+
+	Milton, the colony's chief medical officer, eyed the first form he'd
+randomly selected from the Tutro's dropship.  This would be a first for him and
+he was nervous as well as somewhat excited.
+
+	"Open 'er up," Garsen told his friend, studying the shiny black surface.
+
+	Milton grabbed a sonic knife, adjusted its settings, and stepped up to
+the item in question, which was sitting on top of an examination table.  To his
+eye the black form looked like a dead, curled up bug.  He glanced over his
+shoulder at the two others he'd picked resting on nearby exam tables, then
+turned to the one before him.  With his free hand he touched the black surface
+and was surprised at how warm it was.  There was also more give to it than he
+would have suspected.
+
+	"The shell is approximately one point two three centimeters thick," the
+Tutro said through its translator.
+
+	Milton nodded, readjusted the sonic knife, and put it to the shiny black
+material around the form's head.  He cut all the way around, and then up to the
+crown in back, before shutting the knife off and setting it down.  He was able
+to get his fingertips into the vertical cut and slowly pulled the rubber-like
+material apart.  There was a sucking sound as it peeled away.
+
+	Milton pulled the soft shell toward him, revealing the form underneath. 
+As he kept pulling the valve came into view, sliding out of the unit.  It
+dripped with undigested insulating gel.  As soon as the small section of shell
+was off Milton dropped it to the floor and looked at what he'd uncovered.
+
+	Even coated in a thin layer of gel the woman's face was pretty, although
+her long brunette hair was a mess.  The valve which had plugged her mouth had
+left a red circle which was already beginning to fade.  Her head dropped forward
+and her mouth hung open, drooling gel.  The woman's eyes were still closed.
+
+	Garsen hadn't been sure what to expect, even though the Tutro received
+nothing but glowing recommendations from all of known space.  He was reassured
+when he saw what looked like a normal human female.  "Nice," he said
+approvingly, nodding.
+
+	For his part, the doctor thought the slimy woman looked disturbingly
+like a newborn infant; it was an accurate description, as far as it went, but
+she was no tiny newborn.  Milton grabbed a handheld monitor and checked her
+vital signs.  They were there, and even, although so depressed as to be nearly
+undetectable.  Whatever the Tutro used to keep them dormant worked beautifully.
+
+	The woman's knees were pulled up tight against her chest, arms clenched
+in close as well, her whole body covered in a shiny black layer over a
+centimeter thick.  Milton had her propped against one wall to keep her from
+falling over but that wouldn't do.  The Tutro understood at once and handed him
+a small needle containing the appropriate reactant.  Milton stuck the woman in
+the neck and after only a few seconds her limbs relaxed.
+
+	The doctor arranged her so she was sitting upright on the exam table. 
+He ran the knife around her waist, up her back, and down each arm.  With only a
+little difficulty he was able to peel the soft shell from her upper body,
+revealing a figure that was lean and compact but for her breasts. 
+
+	Garsen whistled.  "Nice tits."
+
+	Her breasts were perfectly shaped, but slung low, and hung nearly to the
+tops of her thighs as she sat on the table.  They were massively oversized and
+resembled overripe fruit that hadn't dropped from the vine.
+
+	"She a special order?" the doctor asked, starting at her chest.  He
+began palpating her limbs, then her torso, checking for muscle tone and
+abnormalities.  The scanner shouldn't miss anything, but he'd always trust his
+hands more than a machine.
+
+	The Tutro checked its records.  "Negative.  It's requested features fell
+within standard specifications."
+
+	"Features?" Garsen said with a smile, eyeing her chest.
+
+	The Tutro looked at its readout.  "Large breasts that will lactate when
+it is activated," it said, the translator making everything it said come out in
+an expressionless monotone.
+
+	"Is she pregnant?" the doctor asked.
+
+	"Negative.  She is order number 1756 on your list.  A basic unit, with
+all the standard features you requested -- Level 7 sexual drive, extreme
+flexibility, programming free of socio-cultural sexual inhibitions.  Lactation
+was specified in ten percent of the standard units, as was-"
+
+	Garsen waved a hand.  "We'll see what she can do," he said, smiling.
+
+	Milton shook his head at the word unit.  "We need to wake her up," he
+told the alien.  The Tutro handed him two small adhesive pads the size of a
+fingernail and gave him instructions.  Milton stuck one on the woman's neck,
+leaned her back against the wall, and stepped back. 
+
+	A few minutes later the muscle contractions began.  The female began
+violently expelling the gel that remained in her lungs and throat.  The doctor
+had to grab her to keep her from falling over, and almost lost his grip from the
+thin layer of gel coating her skin.  Garsen spent the entire time watching her
+enormous breasts judder and shake, in speechless awe.  The projectile vomiting
+was soon over, leaving glistening strings of gel trailing from her lips and
+nose.  Her eyes never opened. 
+
+	Milton leaned her back against the wall and affixed the second pad to
+her neck.  The three men and one Tutro watched silently as the woman slowly
+awakened from the dormant state she'd been in since leaving the Tutro homeworld. 
+Her respiration increased, and her monitored heartrate rose from three beats per
+minute to fifty.  Her hands twitched, and her eyelids fluttered.  Finally, after
+five minutes, her eyes opened.  She slowly blinked, and licked her slimy lips. 
+It took her a while to get her eyes to focus, but after a few more minutes she
+could see the men before her.
+
+	"Is this Kete's Landing?" she asked.  Her voice was a little rough, and
+she cleared her throat.
+
+	"It sure is," the Governor told her, a big smile on his face.
+
+	She stretched, a big long one, arms above her head, and gave a huge
+yawn.  Her armpits were hairless, Milton noted, and remembered they'd all been
+ordered smoothbodied, as that was the fashion.  Her muscle tone was impressive. 
+The three men couldn't help but stare at her massive breasts as they lifted and
+swayed.  She noticed them looking at her, and looked down at herself.
+
+	"I'm a mess," she said, wiping at the strings dangling from her nose. 
+She licked the stringy gel from her palm without thinking about it, swallowed,
+then looked back up at them and smiled unselfconsciously.  She reached her hands
+up and touched her hair.  "Ugh."
+
+	"How do you feel?" Milton asked her.
+
+	She cocked her head and thought about it.  "I'm not sure," she said
+finally.  "Weird, I guess.  A little stretched, if that makes sense.  Can't say
+as I enjoyed the trip."
+
+	The doctor observed how the woman made no move to cover herself up, but
+he thought maybe it was too early to conclude anything from that.  She was
+obviously still slightly disoriented.  Milton had her lay back on the examining
+table.
+
+	"Do you know your name?" Milton asked her.  Now here's the real test, he
+thought.
+
+	She looked at Milton and smiled.  "Kelly Robbins, from Sydney,
+Australia.  I'm sure you know that already."  She watched the doctor as he ran
+the scanner over her again, checking her vitals.
+
+	"How'd you end up here?" Milton asked, studying his scanner.  She was
+ridiculously healthy.
+
+	She smiled.  "Young and impetuous, I guess.  I've always wanted to go
+offworld but could never afford it.  But I kept reading about how exciting
+things could be on outer colonies and I finally decided to go for it. 
+Adventure, excitement, romance, you know."  She spread her legs a little on the
+table and rested her palms on her flat stomach.
+
+	"Really."
+
+	"I still couldn't afford to bring any of my things.  All I could afford
+to bring was me," she said with a smile, gesturing at herself.  Garsen and
+Miller looked at each other at that, but said nothing.  Garsen looked over at
+the Tutro and nodded appreciatively.  "I suppose that's the way it is for a lot
+of girls."
+
+	Garsen was staring at the woman with a big smile on his face, and Miller
+seemed very curious about her story, but observing their reactions seemed beyond
+the young woman.  She appeared a bit dazed, which was perfectly understandable.
+
+	"How old are you?" Garsen asked her.  She looked back at him.
+
+	"Nineteen," she told him.  "I know, I know, I'm young."
+
+	"Do you have any family?" Milton asked her.
+
+	She nodded.  Her breasts rolled back and forth with the movement.  "My
+mom's still in Sydney with my younger brother.  I've got an older sister in New
+York but we don't really talk."  She twisted her head back and glanced around
+the room, then looked down at her body.  One of her hands on her stomach pressed
+and kneaded..
+
+	"I feel sort of bloated," she remarked.
+
+	"You were pumped full of protective gel for the journey," the doctor
+told her.  That's the slimy stuff covering you, he wanted to add, but didn't. 
+The hand massaging her stomach slid tentatively down between her legs, which had
+spread even further apart.  The doctor watched her squeezing the shiny black
+coating over her sex.
+
+	"I feel stuffed," she said, cupping her mound.  Her fingers rubbed at
+the material.  She almost didn't appear aware she was doing it.  "I really like
+these pants," she said after a while.
+
+	"They've got built-in plugs to keep the gel from leaking out," Milton
+told her.
+
+	"Oh," she said, still squeezing her crotch.  "Do you think I can keep
+them?" she asked the doc.
+
+	Milton glanced at Garsen, then at the Tutro.  "I, uh, think I can get
+them off in one piece, but getting them back on might be a problem," he told
+her.  "Like I said, they've got plugs built in."  He decided to be very
+specific, to see what her reaction might be.  "Two of them, an anal and a
+vaginal/urethral plug." 
+
+	She either didn't understand, or maybe she did, he couldn't tell.  "Can
+I sit up?"
+
+	"Huh?  Oh, sure.  You're in perfect health.  Perfect," Milton told her.
+
+	The girl known as Kelly Robbins looked at Garsen.  "Who are you?"
+
+	The men quickly introduced themselves in turn.  They mostly spoke to her
+breasts but she didn't seem to notice.  She also didn't seem to notice the
+Tutro, which Milton found odd.  She hadn't even glanced at it once.  It was like
+it was invisible to her.
+
+	"Are there a lot of single men here?" she asked them.
+
+	"Single men?"
+
+	She smiled a little.  "I read mining colonies are full of single men,
+and with the bonus checks they make good money."
+
+	"Looking for a husband?" Garsen asked with a big grin.  She looked at
+him and grinned back.
+
+	"Eventually," she said.
+
+	"That's all we've got is single men," the Governor of the colony told
+her.  "About twenty-five hundred of them."
+
+	"How many women?"
+
+	"Before today?  None.  Until the mine was up and running the Company
+wouldn't spend any money on non-essential personnel, and mining's a rough
+business.  They work three on and two off and still they're damn near exhausted
+all the time.  Haven't found a woman yet that could do it, or even wanted to."
+
+	"No women?"
+
+	"Main group's been here thirty-nine months.  We're producing now - hell,
+we're thirty percent over quota - and so the Company's come through on our
+bonuses."
+
+	"Bonuses?"
+
+	Garsen quickly covered it up.  "Extra money, plus they've allowed
+beautiful girls such as yourself to emigrate."
+
+	"You've all been up here three years with no women?"
+
+	Garsen continued talking to the young woman while Milton picked up the
+sonic knife and walked over to the next table.  The talkative female still
+hadn't commented on the two forms on the nearby exam tables.  The doctor wasn't
+sure what to make of that either.
+
+	He quickly cut open the black layer and peeled it away from the curled
+body.  This woman was blonde and slender, with a classically gorgeous face.  The
+doctor used another pad to relax her limbs and reclined the still comatose
+female on the exam table as he peeled the black layer from her body.
+
+	This time he removed the black protective coating from the entire body. 
+Underneath, this woman was covered in a thin layer of the gel as well.  Her
+breasts were healthy, although they looked tiny in comparison to Ms. Robbins'
+monsters.  She had a gorgeous, shapely body, perfectly proportioned.  What
+surprised the doctor was the penis and testicles he found between this woman's
+legs.  He hadn't been expecting that. 
+
+	Milton grabbed his scanner and determined that even though the form
+before him on the table had male genitalia, genetically it was female.  Knowing
+the legendary Tutro expertise, he was sure her male equipment was fully
+functional, although another, more in-depth scan showed she would be infertile
+when revived.  She was well endowed, that much was obvious even in her current,
+flaccid state.
+
+	The doctor looked over his shoulder at the Tutro, which had moved closer
+during his examination of the second female.
+
+	"Can I assume this is a special order?" he asked the alien.
+
+	"Yes." it replied in its strange monotone.
+
+	"How many females are we getting with male genitalia?" Milton asked it. 
+Garsen had had final approval of the order, and hadn't consulted him except on
+general terms.
+
+	"One hundred fifty."
+
+	"That many?  Is that all the special orders?"
+
+	"Negative."
+
+	"Really?  What are the . . . never mind.  I'll find out myself when I
+crack them open."  Without reviving the second female the doctor moved to the
+third and last and began cutting open its protective cover.  He quickly revealed
+a voluptuous, almost chubby brunette with wide hips and heavy breasts. 
+Unconscious, at least, she appeared unremarkable, but he knew most of the
+differences between these clones and natural-born human females were behavioral. 
+Garsen knew his hardworking men had no use for frigid or unpleasant women and
+had placed his order with the Tutro accordingly.
+
+	Milton looked over his shoulder at Garsen to ask him a question.  Garsen
+had Kelly Robbins bent over the table, her black dipcoat 'pants' down below her
+ass, and was enthusiastically fucking her.
+
+	"Oh God, oh God," she gasped.  The valves were sticking up from the
+black material between her thighs and a continuous rain of gel dripped down onto
+them as Garsen thrust into her.  Her huge slimy breasts swung back and forth,
+slapping loudly each time they impacted her ribcage.  She grunted loudly and a
+gush of the clear gel splatted on the floor between their feet, soaking Garsen's
+pants, which were around his ankles.  Miller looked on expressionlessly from the
+door.
+
+	"Are the units satisfactory?" the Tutro asked Milton.
+
+	"What?  Oh, uh, Frank?  Frank!"  Garsen stopped in mid-stroke and looked
+over his shoulder.  "Are we satisfied with the order?"
+
+	Garsen looked at the angular alien with its hose-like appendage swinging
+between its legs.  Before he could answer Kelly thrust her hips back at him and
+squeezed her inner muscles, wanting him to keep thrusting.  Garsen grinned like
+a fool.
+
+	"You're damn right we are."
+
+	
+
+	
+
+	The Tutro returned to its transport in orbit, locking the empty dropship
+down in the docking bay.  It hurried to the bridge, stripping off the
+uncomfortable translator on the way.  It had been with the humans, and away from
+its ship, for almost eighteen standard hours.  Not a long time by some
+standards, but it had quickly grown accustomed to having its own unit attached
+and tending to its needs. 
+
+	The drive to reproduce was the strongest instinct humans had, but by
+Tutro standards their crude forms were so poorly evolved for that task Be'lal
+wondered how they'd managed to avoid extinction.  Not only were their
+reproductive systems inefficient, their organs were so poorly designed for
+pleasure that most Tutro wondered why they even bothered.
+
+	Female Tutro had four sexual organs, two external appendages and two
+orifices.  Males had eight; three primary appendages, one secondary, two
+orifices, and two tertiary appendages only used when engaging multiple partners. 
+Only one of the primary organs in each gender was used for reproduction.  The
+others existed solely to provide pleasure.
+
+	Reproduction required two members of each sex.  When not concerned with
+reproduction the gender of their sexual partners was not a concern to the Tutro. 
+When sexually active the Tutro spent approximately forty percent of their time
+so engaged.  Utilizing the unit onboard ship had awakened this drive in Be'lal
+that had lain dormant for so many weeks, and it had had trouble concentrating
+during its dealings with the humans.  It was glad to be back.
+
+	Be'lal found the unit floating above the bridge deck in the zero-g,
+tethered in place by its drainage hoses, which Be'lal had hooked directly to the
+wall during its absence.  It unhooked the hoses, reattaching them to the
+reservoir, its body clenching uncomfortably with desire.
+
+	Be'lal found the unit, while very effective, still repulsive to look at. 
+The human female blank at first glance appeared unchanged.  Be'lal had removed
+the black coating from its face but otherwise left it encased.  Its knees were
+pulled up to its chest, arms tucked in alongside.  The female appeared
+unremarkable and was, in most respects, still dormant.  It had never opened its
+eyes and Be'lal preferred it that way - those glistening slug-like orbs made him
+queasy.
+
+	Be'lal touched an electro-chemical activator to the unit's exposed skin
+and a few seconds later the female's jaw unclenched.  With a sigh of relief the
+Tutro slid its primary sex organ into the widening orifice of the human blank. 
+This organ was the one that hung between its legs.  Not only was it the Tutro's
+largest appendage, it had the most pleasure receptors and was the organ used for
+reproduction as well.
+
+	During sex this organ grew to half a meter in length and over twelve
+centimeters in diameter.  For the blank to accommodate an organ of this size its
+programming had to include physical modifications, but these were easily
+accomplished.  So was the continual rippling suction that began as soon as its
+organ entered the female.  The only thing that took some time to effect were the
+alterations to the female's digestive system.
+
+	The unit needed energy to suck at the organ continuously, so the Tutro
+redesigned the female's digestive system to subsist solely on its sexual
+secretions.  The byproducts of its digestion of those secretions exited the
+valves in the unit's body and were deposited in the reservoir on the end of the
+attached hoses.
+
+	Be'lal looked down at the distended human female's face as it sank the
+last few centimeters of its organ into what might been her mouth had she been
+programmed to develop normally.  Externally her lips appeared normal, but past
+them the entire geometry and physiology of her body had been altered to not just
+accommodate but continually massage the Tutro's proportionately large organ. 
+The entire passage that encased its organ rippled and swirled and twisted. 
+Be'lal could see the human's swollen throat moving, but her eyes remained closed
+and there was no other external sign of life from her.
+
+	Be'lal hissed as the first relaxing wave came over it.  Its organ
+delivered a half liter of ejaculate in one long gush to the cavity at the end of
+what had been the unit's throat.  That unit immediately began digesting its sole
+source of energy.
+
+	Be'lal affectionately patted the female on the top of its head and moved
+toward the control panel.  He had a course to plot.  His journey would take him
+another eighteen months, and he had three wives waiting for him to return home. 
+He would be allowed to keep this altered unit and he knew his wives would enjoy
+playing with it for a while.  The homecoming sex would last a week or more. 
+When they tired of the human he could either sell it or eat it.  Human clones
+were plentiful in his city, so she wouldn't be worth much as a servant or sex
+toy, but he didn't know how tasty she'd be after eating only his essence for
+eighteen months.  It might give her meat an unpleasant flavor.  Oh well, he'd
+make that decision when the time came.
+
+
+
+
+Review This Story
+ || Email Author:  AlwaysCocked
+
+
+MORE BDSM STORIES @ SEX STORIES POST
+
+
+
+
+

@@ -1,0 +1,682 @@
+BDSM Library - The Middle Manager
+
+
+
+
+The Middle Manager
+Provided By: BDSM Librarywww.bdsmlibrary.com
+Synopsis:      Keri has a management problem. She needs Eli but the only way that he'll keep working for her is if she plays his sadistic sex games.
+
+
+
+
+
+
+The Middle Manager
+by Ashley B. D. Zacharias
+�I like your logic chart,� William said. �I&#8217;m going to run it up to Chuck personally when he gets back from Chicago. It&#8217;s about time that we made him understand how your division supports the rest of the corporation. We can&#8217;t let our CEO keep thinking that all you do is run a help line for our users. You&#8217;re central to the whole organization. We can&#8217;t let you keep flying under senior management&#8217;s radar.�
+Keri flushed with pleasure. She had accomplished more than she hoped. It wasn&#8217;t just the CEO who had been underestimating her importance. William wasn&#8217;t admitting it but, until he saw her chart, he hadn&#8217;t understood how important her Assistance Systems Division was, either. Now that her logic chart had made clear the working relationships between ASD and all the other divisions of IMDAZD Inc., he&#8217;d be able to protect her from the coming cutbacks. She might even see an increase in her resources. The Communications Division had been underperforming for some time. If she could convince William to let her absorb them, she&#8217;d be the leader of the biggest division in his branch. That would put her in line to inherit his corner office when he retired.
+�There&#8217;s only one problem, Keri� William said.
+It&#8217;s never good when your vice president used the word problem and your name in the same sentence. She oriented toward him like a setter on point. �Yes?�
+�One of your techies, Eli Smith, sent me an email yesterday.� William paused to watch her reaction.
+A good manager was always proactive. If Eli had sent an email to William, it could not be saying anything that was good for her. She had to start undermining his credibility immediately. If she waited until William told her what the email said, she would be too late. �Eli? He&#8217;s a bit of an odd duck. If he wasn&#8217;t so productive, I&#8217;d have laid him off when we restructured last year.�
+�His email accused you of plagiarism. He claimed that he was the one who created the logic chart. That you&#8217;d taken his name off and put yours on it.�
+�I see,� she replied, keeping her tone neutral.
+�I don&#8217;t like loose cannons on deck,� he said. �You know that. It&#8217;s your job to keep your staff in line. When one of your techs breaks the chain of command and tries to communicate directly with a vice president, it reflects badly on your management skills. Do you understand?�
+�Yes, William. I&#8217;ll get right on it. Don&#8217;t worry. It won&#8217;t happen again.�
+�You might consider terminating this Smith fellow. If he&#8217;s a loose cannon then I&#8217;m sure that you won&#8217;t have any problem finding cause. His kind always has a history of insubordination.�
+�I can do that if you think it&#8217;s necessary.�
+�No, Keri. You do that if you think is necessary. It&#8217;s not up to me to manage your staff. That&#8217;s why I have you working under me.�
+�Yes, sir.�
+�And, Keri?�
+�Yes, sir?�
+�When you get back to your office, email the logic chart to Miranda. I want her to make a couple of changes to it before I show it to Chuck.�
+�Yes, sir.� She knew perfectly well that the only change that he was going to make was to erase her name and put his own in its place. That was how people became vice presidents.
+* * *
+Keri stormed into her office then back out onto the floor. �Eli!� she called across the tops of the cubicles, �Get in here now!� There was going to be a reckoning with that miserable twerp. If he didn&#8217;t fall to his knees and beg her to save his job, she&#8217;d throw him out on his ass. And he better not ask her for a letter of recommendation. When she got finished talking to a few friends over lunch, he&#8217;d never work in this city again. She had connections.
+As she stormed back into her office, she could hear the cubicle rats whispering loudly to each other: �Where&#8217;s Eli?� �Keri wants him ASAP!� �She sounds pissed. He better get in there quick.�
+They were right. She was pissed. And she knew how to crack the whip. Hard. She was a fast-track manager in one of the very few mid-sized manufacturing firms that was surviving the Great Recession with barely a noticeable drop in revenue. That meant that she had power, both inside the company and out.
+He was just a miserable little, dime-a-dozen geek who did low-level technical stuff on command. Her command. And now, he&#8217;d dared to send an email to a vice president? Her VP? Complaining about her management? He was going to pay a stiff price for that impertinence.
+She was still fuming ten minutes later when Eli sauntered through her door as though he didn&#8217;t have a care in the world.
+�Where were you?� she demanded.
+�I had a few lines of code to clean up,� he replied. �Always working, you know. The syntactical regression coefficients were overweighted toward&#8211;�
+�Whatever,� she snapped, cutting him off. She didn&#8217;t need to hear a lot of geek mumbo-jumbo. She was a big-picture kind of person. The kind of person that was destined for a corner office before she was thirty-five. Maybe CEO before she was forty-five if the right people retired quickly enough. There was a lot of churn at the senior management levels.
+She glared at him and said, �Shut the door.�
+He did.
+�I was informed that you sent an email to William Cox complaining about me.�
+�Yeah, I guess. I told him that I was the one who made the logic chart and that you were plagiarizing my work by taking my name off of it. I thought that he ought to know.�
+�Do you think that Mr. Cox cares about that? It&#8217;s work product from this division and I manage the division. It&#8217;ll have whatever name on it that I choose.�
+�If you presented it as a division document with no name on it, then it wouldn&#8217;t be plagiarism. But when you put your name on it so that you could take personal credit, you were wrong. That&#8217;s Ethics One-Oh-One.�
+He wasn&#8217;t meeting her eyes &#8211; he never did &#8211; but she could read his insolence in the way he gazed out her window.
+�Do you understand that I&#8217;m considering letting you go? Terminating you right now?�
+�You&#8217;d be cutting your own throat if you did that. Your career won&#8217;t last a month without me propping you up. Haven&#8217;t you figured out at least that much by now?�
+�You&#8217;re deluded! Insane! You have nothing to do with my career. You&#8217;re a nobody. A miserable technician. I got where I am on my own merits and I&#8217;m going to be promoted out of here before you figure out how to find your own ass with both hands. You leave and I&#8217;ll hire another guy just like you to sit in your chair and pound on your keyboard all day. Guys like you are a dime a dozen. Community colleges churn out new geeks by the hundreds every year.�
+He raised an eyebrow at her credenza. He couldn&#8217;t make eye contact even for that gesture. �I didn&#8217;t come from a community college. Don&#8217;t you remember? I have a master&#8217;s from the University of Waterloo.�
+�So what? You pound a keyboard all day. That doesn&#8217;t make you smart. That just means that you&#8217;ve read the damn manuals. It&#8217;s all written down for you. Working with people is what takes skill and intuition. No book can teach that. You&#8217;re going nowhere because you&#8217;ve got no people skills at all. Look at you. You&#8217;re what? Almost thirty years old? You&#8217;re almost my age and you&#8217;re still stuck in a cubicle. I bet you&#8217;ve never had a date in your life.�
+At hearing that last insult, he flinched as though he&#8217;d been struck. �I do a little more than read manuals and type code,� he said, avoiding mentioning the real face slap at the end of her diatribe. He paused. 
+She waited while he tried to muddle through his own mind. 
+Finally, he said, �I ought to quit right now, but I&#8217;m going to do you a favor. I&#8217;m going on vacation starting today. I&#8217;ve been here for five years and I&#8217;ve never taken a day off. You owe me about four months of leave but I&#8217;m only going to take two. I&#8217;ll come back on the Cinco de Mayo and you can tell me if you&#8217;re ready to apologize or if you want me to stay out for a couple more months.�
+�You haven&#8217;t read your contract,� she sneered. �Your vacation doesn&#8217;t carry over past the end of the following fiscal year. If you didn&#8217;t take it, you lose it. We owe you the three weeks that you earned last fiscal year plus a little that you&#8217;ve earned in the last couple of months and not a day more.�
+�Tell you what,� he countered, �when three weeks are up, you can decide if you want to extend my vacation or terminate me for job abandonment. I&#8217;ll take my chances.�
+He was grinning as he walked out of her office. The asshole was actually grinning.
+Keri was tempted to go directly to Human Resources and have them cut a severance check and be done with him forever. But she felt a twinge of doubt. Maybe there was a reason why he looked so smug.
+She&#8217;d never earn a corner office if she started acting rashly. In three weeks, she could give him a call and tell him to apologize and get his ass back in his chair. If he stayed away for one day after that, she&#8217;d be able to fire him without any hassle at all.
+That was spelled out in the standard contract in big black letters.
+* * *
+�Sure, Jim. Sure. I&#8217;ll get right on it. No problem.� Keri clicked her Blackberry off and stared at it for a minute. Jim Goodman was wound pretty tight at the best of times. She could understand that, as Vice President of Development, he had a lot on his plate. And he had weight to throw around because his steady stream of enhancements to their product line had been keeping the company afloat throughout this recession. But that call had been over the top, even for him. He had no business yelling at her. She wasn&#8217;t responsible for telling him how to design better products.
+�Natasha, get Sundeep in here!�
+A minute later, she heard her secretary telling the young man to go right in.
+�What&#8217;s going on out there?� she asked without preamble.
+�Nothing,� he replied in obvious puzzlement.
+�That&#8217;s a problem, don&#8217;t you think?�
+�I don&#8217;t understand.�
+�I was just on the phone to Jim Goodman. He says that he needs reports from us and he&#8217;s not getting them.�
+�Oh.�
+�Yesterday, Nancy Crawley in Marketing said that she wasn&#8217;t getting reports that she needed, either. What reports are these people talking about?�
+�I&#8217;m not sure,� Sundeep said. �There&#8217;s something about that on the logic chart that Eli made up before he went on vacation. There&#8217;s lines showing that we provide reports to Product Development, Marketing, Communications, and the Senior Management Committee. I don&#8217;t know what&#8217;s in them, though. I think it&#8217;s some kind of statistical analysis if I&#8217;m reading the labels on the logic chart right.�
+�Well find out right now and get those reports delivered.�
+�You don&#8217;t know what&#8217;s in them?�
+�That&#8217;s not my job, it&#8217;s yours.�
+�Uh. You&#8217;re sure that you can&#8217;t tell me something about them. They come from your office.�
+�Well, I&#8217;m don&#8217;t know anything about them so it&#8217;s up to you to find out. Now.�
+�You don&#8217;t know anything at all?�
+�No. Get out there and get them delivered right away or I&#8217;ll hire someone who can.�
+As soon as the geek was out of her office, she grabbed her copy of the logic chart and began tracing lines. Sundeep was right. One of the lines labeled UAReports went from her division right up to the Senior Management Committee. And it looked like the CEO passed them on to the Board of Directors.
+It was bad enough to disappoint the Marketing and Development divisions but failing to deliver to the SMC scared her shitless. They&#8217;d flush her career right down the toilet if she they thought that she couldn&#8217;t do her job. Those guys were really connected. She wouldn&#8217;t get a decent job anywhere on the whole continent if they fired her and then started badmouthing her.
+She spent the rest of the afternoon staring at the logic chart and sweating.
+* * *
+�You&#8217;re at home.�
+�Yeah. I went down to the Caribbean for a week in March but it wasn&#8217;t much fun so I came back. Why are you calling?�
+Keri could hear amusement in Eli&#8217;s voice and hated him with a passion. He knew damn well why she was calling.
+�There&#8217;s a couple of technical details that you need to clear up,� she said, forcing herself to speak calmly. �You&#8217;ve been providing statistical reports to the other divisions. My technical staff needs to know where those reports are kept.�
+�They&#8217;re not kept anywhere. They&#8217;re generated on the fly. You&#8217;ll have to get someone to write the code to generate them again. You know. Just hire another one of those dime-a-dozen community college dropouts and tell him to start reading manuals and pounding on a keyboard. Isn&#8217;t that how you managers get things done?�
+�Are you telling me that the reports are generated by computer programs?�
+�Bingo!�
+�Where are the programs?�
+�On a server somewhere. In Texas, I think.�
+�Texas?�
+�Or maybe in India. I don&#8217;t pay much attention to that because it doesn&#8217;t matter. You really ought to listen when your staff tells you about client-server architectures, sockets, and remote procedure calls.�
+�You mean they&#8217;re not on your computer? The one on your desk?�
+�Nope. I couldn&#8217;t do that. Corporate Security restricts incoming TCP/IP access so I couldn&#8217;t run them inside the corporate firewall. I told you about the problem four years ago but you told me to solve it myself. I solved it. I put the programs on remote servers.�
+�Well you can just call Sudeep and tell him how to get to those programs.�
+�I won&#8217;t give him or anyone else access to my account on that server. You wouldn&#8217;t authorize the contract when I asked you to rent space outside the company so I had to put them on the server that I use for my personal stuff. I explained all that to you when I did it. I&#8217;m not about to give anyone my personal passwords. Security, you know.�
+�Those programs are company property.�
+�Not really. They&#8217;re based on the algorithms that I developed for my master&#8217;s thesis. I filed patents on them while I was still in university. My thesis advisor recommended it and I&#8217;m glad that I listened to him. But I don&#8217;t mind if you want to rewrite the code. We can discuss royalties anytime you want.�
+�Who&#8217;s going to write those programs?�
+�You&#8217;re the manager. Tell someone to do it. You keep saying that it&#8217;s your job to tell us what to do and it&#8217;s our job to do what we&#8217;re told.�
+�Then I&#8217;m telling you to get back in here and do it yourself. You still work for me. I didn&#8217;t fire you.�
+�I&#8217;m on vacation for another five weeks. Maybe another thirteen weeks if I don&#8217;t hear a lot of contrition. Until then, you&#8217;re going to have to tell someone else to do it.�
+�You listen to me! You&#8217;re going to&#8211;�
+The asshole had the nerve to hang up on her.
+* * *
+�You look terrible.� Eli was grinning broadly but he still couldn&#8217;t meet Keri&#8217;s eyes.
+�I&#8217;ve had some stress recently,� she replied. �I&#8217;m dealing with some unexpected staff turnover.� She was too savvy to tell him how desperate she really was. William had given her an ultimatum. The next Board meeting was scheduled for the end of the month. Either she deliver the User Analysis Reports before the SMC meeting next week or hand in her resignation and he&#8217;d hire someone who could deliver them. She didn&#8217;t dare let Eli know that she was about to be fired. �Sudeep isn&#8217;t working out there any longer.�
+�I don&#8217;t know much about management, but I know that when you lose your best people, you lose corporate knowledge.� He grinned out her window. �Precious stuff, that corporate knowledge. The good stuff isn&#8217;t written down anywhere. It&#8217;s all in people&#8217;s heads.� That wasn&#8217;t entirely true. A surprising amount was embedded in people&#8217;s emails; and the systems administrators had access to those emails; and he had been given the administration passwords over the years for one reason or another. Nobody knew that he was keeping an eye on their emails.
+�The bottom line is that you need to come back to work now. We can&#8217;t wait for another four weeks.�
+He shrugged. �I can wait. You can&#8217;t but I can. I have to stick around for the good of the company. Your replacement is going to need me.�
+There was something in his tone that grabbed her attention. �What do you mean?�
+�I got a phone call from William Cox last week. He finally took a good look at my logic chart and realized that I&#8217;m the guy that actually delivers the User Analysis Reports. He isn&#8217;t going to let you fire me.�
+Keri&#8217;s blood ran cold. If the VP was talking directly to a geek, then he was desperate and she was in deep, deep trouble. �So he told you to come back and get to work?�
+�Not quite. He asked me if I&#8217;d like to take over as acting manager of ASD. Just temporarily, you know. Manage the group until he could hire someone else.�
+She was listening to her own corporate death sentence. �So you came here to tell me that you&#8217;re taking my job.�
+�Oh, no. Not at all. Why would I want to be a manager? I&#8217;m better than that. Way better. You think that I&#8217;d be willing to spend my mornings bending over so that senior management can fuck me in the ass and then spend my afternoons begging my staff to kiss my puckered little hole and make if feel better? So that I can do it all over again the next day? Only a bleeding masochist would want to be in your position.�
+�So you came by to gloat?�
+�Nope. I&#8217;m not into gloating. I came by to make a deal. That&#8217;s what managers do, right? Make deals?�
+�Sure.�
+�You&#8217;re a manager so you can come on down and let&#8217;s make a deal.�
+�How soon can you deliver the reports?�
+�Ten minutes.�
+�Ten minutes?�
+�Sure. My programs are still sitting on my server. I just have to set up the commands and push the button. They&#8217;ll be emailed forthwith.�
+�I can give you a twenty percent raise, effective immediately.� She could taste her victory already. That was just her initial bargaining position. She&#8217;d have to keep Eli around for a while but not forever. Even if she had to double his salary for a the next six months, she could still balance her budget for the year.
+�I don&#8217;t want more money. You&#8217;re already paying me well. I can&#8217;t spend all the salary that you give me now.�
+�What do you want? An apology? No problem. I&#8217;m sorry. I&#8217;m not just saying that. I am truly sorry. I should have paid more attention to what you were doing. Your work is critical to the company and I made a mistake when I underestimated your value. I&#8217;ll do better in the future. You&#8217;re welcome in my office any time. I&#8217;ll be happy to listen to your explanations of what you are doing. I&#8217;ll give you more support. I&#8217;ll take on Corporate Security and get you servers or firewalls or whatever you need.� She waited to hear that he accepted her apology.
+�Thanks,� he said. �I believe that you&#8217;re sincere. I accept your apology. I think that we&#8217;ll be able to work together a lot better now.�
+�I think so.� She felt relief flowing through her veins, 
+�There&#8217;s something else, though.�
+�Yes?� She was puzzled. He had her apology and her promise for more support in the future. He said that he didn&#8217;t want more money. What else could she give him? A new title? A better cubicle? No problem. He could have both for the asking.
+�You said that I never had a date in my life.�
+�I&#8217;m sorry about that, too. I had no right to get personal. I&#8217;m ashamed that I stooped to that.�
+�No. That was understandable. As you can see, I&#8217;m not a handsome fellow. I&#8217;m no athlete. Unlike some other geeks, I do take care to maintain good personal hygiene, but that&#8217;s hardly enough. I know that I don&#8217;t have any social skills. All I can talk about is computers. I can&#8217;t sweet-talk anyone, especially not a woman. All I can do is be blunt and direct and that never gets me anywhere.�
+Keri didn&#8217;t like where this was going. Not at all. �Do you want me to set you up on a blind date?� She began trying desperately to think of some woman who might be willing to spend an evening with Eli.
+�No. Nothing like that. I&#8217;d be miserable on a date. And so would the poor woman who got stuck with me. I want something a lot easier than that.�
+�What?�
+�I&#8217;ve never seen a woman&#8217;s tits. Not in real life. In movies and pictures. But I want to see a real woman&#8217;s tits. That&#8217;s all. Just see them.�
+�You can go to a strip club and see all the women that you want.�
+�I don&#8217;t think that I&#8217;d like to be in a place like that. I want to see your tits.�
+�No.�
+�Yes. You can do that much for me. I won&#8217;t touch them. I&#8217;m not going to attack you. I just want to look. Take your top off for ten minutes and then I&#8217;ll go spend ten minutes getting your reports out and we&#8217;ll be even. Please.�
+�This is sexual harassment.�
+�So what? If you want to fire me, you have lots of reasons. In fact, I&#8217;ll quit if you ask me to. But if you want me to stay, then you need to show me your tits. That&#8217;s not negotiable.�
+�Why me? If you want, I&#8217;ll call an escort service and have them send a woman over to your house and you can look at her in the privacy of your living room for as long as you like. I&#8217;ll pay for it myself. Out of my own pocket. I&#8217;ll make sure that they send someone who&#8217;s younger and better endowed than me.�
+�No. It has to be you. I&#8217;ve been thinking about you for a long time. Ever since I&#8217;ve started working here. I really, really want to see your tits.�
+�You&#8217;re trying to humiliate me.�
+�Yes, I am. You&#8217;ve humiliated me often enough. Especially when you said that I couldn&#8217;t get a date. And now you&#8217;re humiliating me again by making such a big deal about this. Like my wanting to see you topless is the most disgusting thing that you&#8217;ve ever heard. It&#8217;s not such a big deal. I just want to see you for a few minutes. How you feel about it is up to you. You can feel flattered that I find you so desirable or humiliated that I expect you to do it.� He looked at her chest. �It&#8217;s not like I&#8217;m the first man who&#8217;s ever seen them. I&#8217;m going to save your career. That&#8217;s worth something. I know that you&#8217;ve taken your top off for other men for a lot less payoff than that. And I bet you didn&#8217;t argue about it this much.�
+He kept staring at her chest for a minute while she screwed up her courage. He was wrong about it being the same as taking her top off for other men. That was part of love-making. This was pure humiliation. But she had to do it. Finally she said, �Okay. Shut the door and make sure that it&#8217;s locked.�
+She lowered her blinds herself. They were on the twelfth floor and there weren&#8217;t any other tall buildings nearby but she was making sure anyway.
+She faced him and slipped her jacket off her shoulders.
+He watched every movement of her hands with utter fascination.
+She pulled the hem of her blouse out of her skirt and undid one button at a time.
+He watched every button release, first revealing her cleavage, then the front of her bra, then her midriff.
+She didn&#8217;t have much cleavage. Her breasts filled a C cup nicely, but this wasn&#8217;t a push-up bra. It kept her breasts comfortably separated, not pushed together.
+He didn&#8217;t seem to mind. He kept staring avidly. He loved the way her tits rose and fell with every breath. She was breathing hard and her bra cups moved apart with every breath.
+She was no stripper but, if she was going to do this, then she was going to do it right. She deliberately reached behind her back to unhook the main strap. The motion thrust her tits up and forward, giving her a lovely profile.
+When the tension was released, her breasts fell forward into their natural position inside the loose cups.
+With slow, coy movements, she pulled the cups from her breasts, one at a time, revealing hard pink nipples surrounded by tight, crinkled aureoles.
+Her office was warm enough so the only reason for her nipples to be erect was sexual excitement. She was appalled. Eli was the least desirable man that she&#8217;d ever met. There was no reason on earth for her to feel the slightest bit of sexual excitement in revealing herself to him.
+But she couldn&#8217;t stop herself from breathing deep and hard. And she could feel a flush spreading across her face and down her neck.
+There was something kinky about being forced to strip to the waist for such an unappealing man. She refused to think about that while she waited for him to say that he&#8217;d seen enough.
+He stood in front of her and stared. He was too shy to step forward for a better look; he stayed standing a good four feet away.
+To ease her discomfort, she threw her shoulders back and turned slowly to one side, then the other, showing him both profiles. If he was going to see her tits, he might as well see them from all angles.
+At thirty-one years, they were beginning to spread and drop just a bit. No one but her would notice the change but she feared that it was a harbinger of middle age creeping up on her and eroding her attractiveness.
+There was a certain perverse reassurance in the look of lust on Eli&#8217;s face. She didn&#8217;t feel old now. On a whim, she put her hands underneath her breasts and raised them toward him as though offering her nipples to his inspection.
+His mouth gaped in response. But he still made no move toward her. He was the perfectly respectful pervert.
+After a minute, she dropped her hands to her sides and waited impassively.
+�Thank-you,� he said, almost inaudibly, and finally turned away.
+She was putting her bra back on when he slipped out the door.
+Fifteen minutes later, she received a copy of the User Analysis Report in her email inbox. She recognized it immediately. She&#8217;d been receiving them every week for as long as she could remember but she had never read them. She always deleted them like the spam they were.
+For the first time, she took the trouble to read it.
+* * *
+�I can see why people like your reports. They&#8217;re interesting.�
+�Don&#8217;t take this personally, Keri, but you really are a moron.�
+Keri felt her face flush in a flash of anger. �How&#8217;m I supposed to not take that personally?�
+�Because it puts you at the same level as every other help-line manager in the world. Your moronicity is nothing unusual. It&#8217;s a standard feature of middle managers.�
+That he was being his usual arrogant geek self did little to mollify her.&nbsp; �Why don&#8217;t you explain yourself, then.�
+�Most people think that the key functions of a company are product development, manufacturing, and sales, right?�
+�Aren&#8217;t they?�
+�Sure. If you don&#8217;t develop, make, and sell products then you&#8217;ve got no company. And what do those managers need to do their jobs? What is the most critical information that you can give them?�
+�Financials? Pricing? Market studies? Competitive intelligence?�
+�No. The most important thing that you can tell them is how their products are being used. The whole business depends on the satisfaction of the end users.&nbsp; But what everyone is too stupid to realize is that there&#8217;s only one group in the company that actually talks to the end users regularly. Your group. The group that runs the help systems. The complaint lines, the forms on the web sites, the email questions are pure gold. You get the most critical information in the whole company and you get a constant flow of it every day. Just you. Nobody else in the whole damn company talks to the end users regularly. In fact ninety-nine percent of the employees of most companies have never talked to an end user at all. Not ever.�
+�Sure they do. The sales guys, senior managers. Even product development has a human factors division.�
+�Nope. The sales guys talk to buyers. They&#8217;re the other partner in the sales dance but the buyers don&#8217;t actually use the systems that they buy. Same with the senior managers. They schmooze with only with other high-falutin&#8217; mucky-mucks. They&#8217;d never stoop to talk to the peons who are using the company&#8217;s equipment day in and day out. And they sure don&#8217;t use our products themselves. The only thing they know is what we tell them. And we don&#8217;t tell them much because we know that they won&#8217;t listen. 
+�We don&#8217;t even have a human factors division in this company any more. Product development canned them all during the last reorganization because they were useless. We give development more information in our User Analysis Reports every week than the human factors guys could give them after a year of focus groups, questionnaires, and laboratory product testing. Do you really think that some volunteer who spends an hour in a lab can tell us as much as a real live user who&#8217;s been working with our product for eight hours a day for months and has finally become so frustrated that he takes the time to call us and complain?
+�Your help systems collect solid gold information about our products twenty-four hours a day, day in and day out. My programs mine that information and extract trends and summaries about how our products fail and, more important, what the users think those products ought to be doing.
+�Everyone needs that information and you&#8217;re the hero who gives it to them every week like clockwork.� 
+For the first time, Keri realized how much she was contributing to the bottom line. �And they&#8217;re addicted so they call me an incompetent ass when I fail to keep the information flowing.�
+�Don&#8217;t worry about that. As long as I&#8217;m happy, you&#8217;ll keep giving everyone their reports. And it doesn&#8217;t take much to keep me happy.�
+She heard the threat. �Are you happy?�
+�I will be if you don&#8217;t wear a bra tomorrow. It&#8217;s casual Friday and the weekly report will go out on time if you spend the day braless.�
+�My figure is a little full for that,� she said. �A B cup might get away with it, but it&#8217;ll be too obvious if I do it. I&#8217;ll take off my top for you again in private if you want but I&#8217;m not doing anything in public. That would be as damaging to my career as failing to deliver a report.�
+�No it won&#8217;t. You can wear something bulky. Friday&#8217;s casual dress day. I don&#8217;t care what you wear on top to hide your braless state. No one else has to know. I&#8217;ll be happy knowing that you&#8217;re doing it.�
+* * *
+�Show me.�
+�You can see how I&#8217;m flopping around,� Keri replied.
+�Not for sure. That&#8217;s the bulkiest sweater that I&#8217;ve ever seen.�
+It was the bulkiest Fair Isle sweater that she had been able to buy on short notice yesterday evening. It was pure wool and itched like crazy. Her nipples felt like they had been rubbed raw. But it was reassuring to hear that even Eli who had been staring at her chest all day and knew what to look for couldn&#8217;t be sure.
+Keri looked around. The hallway was empty. Everyone was hard at work, clearing their desks for the weekend.
+She snatched the hem of the sweater, dragged it up to her armpits to give Eli a quick flash of her unrestrained tits, and then pulled it down again as quickly as possible.
+�Beautiful. Thank you,� he said. �Those reports will be out within the quarter hour.�
+Apart from her irritated nipples, Keri was surprised at how painless the day had been. That quick flash in the hallway was so brief that she hardly had time to feel humiliated.
+Her biggest concern was escalation. So far, Eli&#8217;s demands had been easy to satisfy but she wondered what he was going to want next week.
+�Eli,� she said as he turned to leave.
+�Yes?� he asked, turning back toward her.
+�You know that there&#8217;s a line that I won&#8217;t cross. Not even for the sake of my career.�
+He smiled sadly. �I&#8217;m not stupid. I know that. You&#8217;re going to keep playing my little games because I&#8217;m never going to ask you to do anything too horrible. Who knows? Maybe you&#8217;ll even find our games a little bit fun.�
+She sincerely doubted that.
+* * *
+The following Thursday, a box wrapped in plain brown paper was waiting on Keri&#8217;s desk. It had her name written on it with black felt-tip marker. There was no other identification but she didn&#8217;t need to see Eli&#8217;s name to know who put it there. And she didn&#8217;t have to be a genius to know that she should open it in private.
+She was not surprised to find that it contained a black satin corset, a black thong, and black silk stockings. That was such a clich�. Ten demerit points to Eli for his lack of imagination. There was no need for a bra; the corset covered her bust. The only surprise was that the corset fit. It helped that the laces in the back made it widely adjustable.
+The note inside said, �To be worn under your usual business suit. I thought that seamed stockings might be a line too far.�
+As implied, the stockings were seamless. 
+That was considerate of him, but she wasn&#8217;t as prudish as he thought.
+On Friday, she wore stockings with seams down the backs of the legs. No sense going ninety percent of the way. As long as he wasn&#8217;t going to push her too far, she could go the extra distance to make him happy.
+As an extra bonus, she bought a new blouse. It was dark blue so that the black corset didn&#8217;t show but it was cut more snugly about the torso than her normal blouses, the better to show off her trim waist.
+It had been a long time since she had felt this sexy.
+She didn&#8217;t make him ask. At lunch, she called him into her office, locked the door, and stripped off her jacket, blouse, and skirt. She modeled for him for a few minutes, turning around and striking a variety of poses. Nothing lewd, just poses that flattered her figure and gave him a nice view from every angle.
+Neither one of them said a word.
+He just stared at her with naked hunger.
+She had never felt so beautiful.
+She would think about wearing the outfit the next time she had a date. Depending on who asked her out. Paul didn&#8217;t deserve a treat like this. She really should kick the unreliable, commitment-phobic bastard to the curb.
+The UA reports were emailed right after lunch.
+Catering to some geek&#8217;s teenage sex fantasies was a bizarre management strategy but it worked like a charm. She spent less time with Eli than any of her other staff members and got more useful work out of him. That was what good management was all about.
+* * *
+The following Thursday, Eli whispered in her ear, �Same thing, but no G-string,� as he passed her in the hallway.
+That gave her a moment&#8217;s pause. Topless was one thing &#8211; nothing but harmless adolescent titillation &#8211; but could she model bottomless? Bottomless sounded serious. It sounded like sex. She spent a few minutes thinking about it, then figured, What the hell? If he wasn&#8217;t touching her, then it didn&#8217;t hurt her if she let him look at the juicy bits. Besides, when she modeled for him, she wasn&#8217;t going to bend over and spreading herself open. With the G-string pulled into her crack, her butt had been completely bare anyway. Next, he&#8217;d see pubic hair but wouldn&#8217;t be getting an eyeful of her actual slit.
+The following day at lunch, after performing her little girlie show with as much grace and aplomb as she could muster, he said, �Sit down for a minute. We should talk.�
+She took her chair behind her desk and felt more comfortable. Though she was wearing nothing but stockings and high heels below her waist, he could only see her upper body now. That was rather modestly covered by the over-bust corset.
+He kept staring at her chest anyway, like a rabbit mesmerized by a cobra, fascinated by the way that her curves slipped into the snug satin cups.
+�You need to make a decision about how far you want to go,� he said without preamble. �Chuck Stovall is about to resign as CEO. Thanks to you, William Cox is going to be made acting in his place. In gratitude, he&#8217;s thinking about promoting you to VP of Operations.�
+She stared at him in shock for a minute. She was too young to be considered for a VP position. She had thought herself ambitions when she had been plotting the expansion of her division. As she began to adjust to the idea, her face relaxed into a broad grin of delight at the possibility of a shortcut to a corner office on the top floor. She wouldn&#8217;t have to go through the hassle of trying to absorb the Communications Division into ASD. �How do you know that?�
+�I&#8217;ve been watching for it. I did the math on Chuck&#8217;s stock options a couple of years ago. With reasonable predictions about our stock price, the growth of the market, and inflation, he hits a crossover point on his personal cost/benefit curves next month. Enough of his options vest to give him a good nest egg but he has to diversify to protect himself against a downturn in this company&#8217;s fortunes. That&#8217;ll be easier to file with the SEC if he retires now. There&#8217;s no advantage for him to keep working here. His accountant will be telling him that.
+�With that in mind, I&#8217;ve been looking at the Board&#8217;s succession plans. I keep my ear pressed to the corporate jungle drums, so to speak.� He didn&#8217;t mention that he did this by logging into the email server as an administrator and reading everyone&#8217;s messages. �You figure into the succession plan. You probably wouldn&#8217;t be on their radar except that when I went on vacation, they missed the UA reports. That&#8217;s when they started to understand how important your shop&#8217;s been to the success of the whole company during this recession. You may not realize it, but I was doing you a hell of a favor by slacking off for a few weeks.�
+He smiled at her chest and said, �VP of Operations is in your future if all goes according to plan. But things don&#8217;t have to work out that way, you know. The board has alternatives. The question is whether you want that corner office badly enough to do what you have to do to get it.�
+Keri couldn&#8217;t stop herself from glancing down at her naked crotch. With a sinking heart, she knew that, however much she might whine and protest, she would let Eli fuck her silly if that&#8217;s what it took to get a corner office. VPO was only a single step from CEO and that was worth almost anything.
+Even being a bit of a whore. 
+After all, she&#8217;d been a middle manager for five years already.
+* * *
+Thursday morning brought another surprise. Eli hadn&#8217;t said a word about fucking her. She&#8217;d been waiting for the inevitable demand every day but he&#8217;d not said a single untoward word.
+But, as soon as she walked into her office carrying her morning coffee, he followed her inside and shut the door behind him.
+�Put your coffee down and stand in the middle of the room.�
+She complied.
+He was carrying a box of thumbtacks. What in hell was he up to?
+�Pull your skirt up to your waist and spread your legs wide.�
+She did that, too.
+He pulled the front of her pantyhose and panties away from her waist and slid his hand down passed her pubic hair to her crotch. But he didn&#8217;t grope her like she expected. He barely touched her. Instead of pressing his hand into her pussy, he was using his hand to stretch her panties and pantyhose away from her.
+Then he poured the whole box of thumbtacks down into the bottom of her panties.
+�What the hell?� she said, almost shouting. �What do you think you&#8217;re doing?�
+He removed her hand, letting the panties and pantyhose press the thumbtacks against her vulva. �You can lower your skirt,� he said.
+She felt cold metal pricking and poking at her most sensitive bits. She lowered her skirt without moving her legs.
+�Stand up straight.�
+Gingerly, she brought her legs together. The thumbtacks shifted around in her panties, prickling her, but only slightly.
+�You&#8217;re going to leave those in there until you go home tonight,� he said. �I&#8217;ll be spot checking during the day. When you want to go home, let me know. Don&#8217;t plan on leaving the office before seven tonight. I&#8217;m sure that you&#8217;ve got enough work to keep you busy until then.
+�Are you a sadist?� she asked.
+He paused for a minute, then said, �I guess I am if I like doing this to you. But this isn&#8217;t as horrible as it sounds. The tacks are blunt and they&#8217;re not pressed into you very hard. Besides, most of them are turned back toward you. Only a few are oriented with their points inward and most of those are at an angle. They&#8217;ll be a constant annoyance rather than being actually painful. Unless you get careless and sit on them wrong. I wouldn&#8217;t take up horseback riding today if I were you. Or touring the park on any bicycles.�
+�I have meetings for most of the day.�
+�Sit down carefully. In a chair, you won&#8217;t be sitting on the tacks so it won&#8217;t be too bad. Practice moving slowly and gracefully. Surely I don&#8217;t have to tell you not to squeeze the tops of your legs together unless you want to feel the pain.�
+�Why are you doing this?�
+�It&#8217;s more psychological than physical. You&#8217;ll be thinking about your cunt constantly, all day long. If you forget about it for even a minute, you&#8217;re going to move wrong and stick yourself. By seven this evening, you&#8217;re going to be so juicy that your panties will be soaked to your waist. You&#8217;re lucky that you&#8217;re wearing a dark skirt. I hope that it&#8217;s washable.�
+After he left the office, his grin remained, hanging large in her mind like the Cheshire Cat&#8217;s.
+Her meetings went surprisingly well considering that she could barely paid attention to what was happening. The points in her crotch constantly distracted her from to the points that the other attendees were making in their presentations but it didn&#8217;t matter. She stayed quiet and her colleagues were happy to fill in the time talking about their own work.
+Eli was exaggerating about the volume of her juices. At seven, when she got his permission to clean the hardware out of her underwear, there was a large damp spot at the crotch but she was not entirely soaked.
+Getting all the tacks out took her a few minutes in the washroom. Some had worked their way up into the folds around her labia.
+She didn&#8217;t find the last one until she crawled into bed that night and began fingering herself, seeking orgasmic relief from the pressure that had been building up all day.
+As unattractive as he was, if Eli had been in bed with her, she would have fucked him with enthusiasm, so great was her accumulated arousal.
+* * *
+�How are you at giving blowjobs? Are you enthusiastic? Elegant? Sloppy? Can you take a man deep? Are you good with your tongue? Can you keep your teeth out of the way? Overcome your gag reflex? Do you swallow? Can you stay on your knees for long enough? How about lying on your back on a table with your head hanging over the edge?�
+Keri looked at Eli with narrowed eyes. She had already decided that she would have sex with him when he asked for it. A blowjob had its pros and cons. It was a fairly humiliating kind of sex, especially if the woman had to get on her knees in front of the man instead of just hunching over him in bed. And it could be yucky. But Eli had claimed that he maintained good personal hygiene. And a blowjob was relatively impersonal compared to regular sex. She wouldn&#8217;t have to look him in the face when she was blowing him. Another plus was that there was less likelihood of catching a disease. Not that she thought that an inexperienced geek like Eli was likely to have caught anything.
+As far as her technique went, she had no intention of discussing it with him. Especially considering that she&#8217;d only given men a couple of blowjobs in her life she so she didn&#8217;t have much technique. She just took the man in her mouth and kind of licked and sucked until he started bucking away and banging into her and finally came. As she recalled, the worst part about it was spitting the spunk into a Kleenex as quickly as she could so that she didn&#8217;t have to taste it. That and the ache in her jaw that lasted for a while afterward.
+Eli was going to have to accept her best effort. If he thought her insufficiently enthusiastic or inexpert, tough.
+She sighed. �Pull down your pants and let&#8217;s get this over with.�
+His eyes grew wide. �What? My pants? Me? No. Not me. I don&#8217;t want a blowjob. Not from you. You&#8217;ve got to give a blowjob to a man named Dixie Jones.�
+�Who the hell his Dixie Jones and why the hell would I give him a blowjob?� The penny dropped. Eli liked looking at her topless, wearing corset, bottomless, whatever. �You want to watch! That&#8217;s it, right? This is some guy that&#8217;ll let you watch while I&#8217;m blowing him.� Somehow that idea was even more repulsive than giving a blowjob directly to Eli.
+�What? Watch? What? You and Dixie? No. No way. I don&#8217;t want to see some other guy getting off in&nbsp; your mouth. No. It&#8217;s nothing like that.�
+�What&#8217;s it like, then?� Suddenly, she imagined him demanding that she perform oral sex in front of a video camera and flushed with fury. There was no way that she was making any videos that would be circulating around the Internet for the next hundred years. That was so far over the line that she&#8217;d beat him to death with her chair if he dared to suggest it.
+He didn&#8217;t. �This is a little complicated. Dixie is a systems operator over at Miasma Systems. He&#8217;ll give me access to the records of their help line calls if you give him a good quality blowjob.�
+�I give him a blowjob and he opens up his computer to us?�
+�Like I said, it&#8217;s a little more complicated than that. There&#8217;s a bunch of quid pro quo&#8217;s. He gets some stuff, we get some stuff. Everybody gets happy.�
+�He ought to get happy. He gets a blowjob.�
+�And some other stuff. The blowjob is like a signing bonus for him. A sign of our good faith.�
+�It&#8217;s corporate espionage.�
+�Yeah. You&#8217;re going to be the Mata Hari of IMDAZD Inc.�
+�Mata Hari got shot.�
+�You won&#8217;t. This is a no risk proposition.�
+Sex was always risky. Hadn&#8217;t Eli read Camille Paglia? No. Of course not. �So what is this other company? Miasma? I&#8217;ve never heard of them.�
+�No reason why you would. They&#8217;re not our competitors. They&#8217;re in a completely different business.�
+�So why do you want access to their help line calls?�
+�I want a benchmark that I can use to normalize our observations. I can also trade their information to someone else. But Dixie doesn&#8217;t know about that part. Like I said, it&#8217;s all complicated.�
+�What&#8217;s in it for our company?�
+�Not much directly. But it&#8217;ll be really useful indirectly. One of the members of our board is the chairman of the board of one of Miasma&#8217;s competitors. We&#8217;re going to put him in our pocket and that&#8217;ll put you in a corner office.�
+�So one blowjob is going to make me a vice president.�
+�It&#8217;s going to help.�
+That was not an affirmative answer. Keri didn&#8217;t want to ask what else was he was going to demand before she got her promotion.
+At least she knew that Eli would have to make good on his promise before long. As soon as Chuck left, William would be made CEO and then either she would get promoted to VPO or she would have Eli&#8217;s balls in a bag.
+If he was stringing her along, he was playing with fire.
+And if she knew nothing, she knew how to burn her direct reports.
+* * *
+Keri was sitting in the Broken Bat Sports Bar with an untouched cosmo in front of her. That was the sign that Dixie would use to identify her.
+A red cocktail was more sophisticated than a red carnation.
+Eli had told her that it didn&#8217;t matter what she wore as long as she looked nice. He&#8217;d promised Dixie that his �date� would be beautiful and sexy but that was subject to wide interpretation. She had decided to dress for the part. At first she had thought that she should look like a slut. Then she realized that she should go the other way to make her sluttish behavior &#8211; giving a blowjob to a strange man &#8211; all the more dramatic. She was wearing a navy blue business suit with a tailored jacket over a white blouse that was buttoned to the neck and accented with a red silk scarf tied elegantly above the collar. The scarf matched her red high-heeled pumps, belt, and clutch.
+�You&#8217;re Eleanor?�
+That was the name that she had chosen for this task. Sucking on a strange man&#8217;s weenie was one thing, telling him her real name was quite another.
+She turned to look at the man who would soon have his cock shoved into her mouth.
+To call him rotund would be an insult to rotund people. He was a shapeless lump. Obese to be sure, but not so much that one would marvel at him. More sloppy in the way that pouches of fat bunched and hung beneath his ill-fitting clothes.
+He was probably clean enough &#8211; Keri couldn&#8217;t smell any body odor or halitosis &#8211; but he gave the impression of greasy sweat. His lanky dirty-blond hair hung in great damp clots around a pale lumpy face. His slack jaw was covered with patchy stubble. He gave the impression of being drenched in perspiration, but Keri thought that it was more likely that he had climbed out of a shower directly before coming here. Nobody could sweat enough to be as wet as this. That might not be true, but it was what she wanted desperately to believe.
+His eyes held a sad desperation that touched her in a way that she would never have expected. Puppy eyes were embedded in his doughy face. He looked like he wanted her more than anything in the world. She felt like a goddess who could crush this man with a snap of her fingers like an overripe grape.
+�I&#8217;m Eleanor,� she said. �Do you have somewhere that we can go?�
+�I didn&#8217;t know if you&#8217;d have a place and I didn&#8217;t think that you&#8217;d want to go all the way back to mine,� he said, �so I rented a room at the Day&#8217;s Inn down the street. It seems clean.�
+�Let&#8217;s go there, then.�
+As she walked out of the bar with him, she said, �We&#8217;re going to have fun. But that&#8217;s all. Right? I&#8217;m not offering a long-term commitment. I&#8217;m not even going to stay for the evening. We&#8217;re just going to have a few minutes of good fun and then I leave.�
+He stopped walking and looked at her with those sad little eyes. �I understand that. Eli made all that clear. There&#8217;s only one thing.�
+�What&#8217;s that?�
+�He said that you were a regular woman. You know. Eli promised me that you weren&#8217;t a...� he paused and she could see him blushing under the streetlight as he searched for the right word.
+�A prostitute? Hooker? Whore?�
+�Yes,� he said in a low voice and his blush deepened.
+�No. I&#8217;m a manger in a mid-sized manufacturing company. I&#8217;ve never had sex for money. I&#8217;m not having sex for money now. I&#8217;m doing this...� It was her turn to search for the right words. 
+He waited patiently. 
+Why was she doing this? The bottom line was that she would get money from this transaction. That made her a whore. But not really. She wanted the status of the corner office more than the bump in salary. But even that wasn&#8217;t accurate. She was more interested in the power of being a VP than anything. She liked power. She liked the power that she had right here, right now. She felt like she was holding this fat, sad, unattractive man in an iron fist. She knew instinctively that he would do anything she asked in return for her favors. She felt more powerful right now than she had ever felt in her office, rubbing elbows with senior executives or dressing down her subordinates.
+Tonight was an adventure. Something naughty that she would hold secret in her heart forever after. 
+She started walking and talking as she walked. �I&#8217;m a professional woman. After graduating from college, I had a few different jobs, starting as a copy editor. I became a manager quickly but after that I rose from one management position to the next fairly slowly. I had to learn a lot about management to succeed. I&#8217;ll be honest with you. More honest than I&#8217;ve been with any man before. I&#8217;m not a quick study. I&#8217;m smart enough but I&#8217;m not brilliant. I worked hard in college but I mostly got Cs and Bs. I never got many As. Never stood out in class. But I do work hard and I&#8217;ve learned what I need to know to be a good manager. That hasn&#8217;t left much time for my love life. I&#8217;m pretty enough and get my share of dates. I usually have a boyfriend hanging around but never anyone who is serious about me. I&#8217;ve been dating for a dozen years and have had about that many lovers. I&#8217;ve never had a one-night stand. Never had sex with a man on a first date. Or even on a second date. Tonight is a strange adventure for me. For me, taking a stranger to a hotel room and giving him a blowjob and then walking right back out and never seeing him again is an outrageous thing to do. I&#8217;m shocked to find myself here. I never could have done this if Eli hadn&#8217;t arranged it for me.� She stopped and looked at him. �That&#8217;s why I&#8217;m looking forward to blowing you more than you can possibly know.� She looked down and saw a pole tenting his pants. She grinned and stroked her hand against his crotch in a slow, deliberate movement, right there on the street. �So let&#8217;s find that room so that I can get to it.�
+He practically creamed his pants right there.
+She was lying. She was into the adventure in an intellectual sense, but she wasn&#8217;t looking forward to getting down on her knees in front of this man. He was too homely. Too sad. Too weak. She was lying to make sure that he understood the deal and would go along with it. He had reservations about being serviced by a prostitute so she told him what he needed to hear to understand that she was a real person and not a sex worker. Honesty was the way that she was managing him. That&#8217;s what she did. She managed people. And if that sometimes required some honesty, she could do that, too.
+The key to management was to project the right image at the right time.
+She was dressed in a conservative business suit to project one image but she had planned to change her image as soon as she entered the hotel room.
+She turned on all the lights. Then, when she removed her navy wool jacket, Dixie could see clearly that she was wearing a sheer white blouse and no bra. Her nipples were erect and pressed hard against the thin material. He could see every detail. Her tits flowed and bounced freely as she pulled a chair away from the wall.
+Dixie was standing stock-still in the middle of the room, watching her every move with eyes almost popping from his head.
+She unbuttoned his shirt and then his pants. After pulling his pants and underwear &#8211; clean white briefs, thankfully &#8211; to his ankles, she told him to take them off. 
+His erection was monumental. She automatically expected fat men to have small cocks. Dixie did not. He was definitely bigger than average: not too big around, but as long as a telephone pole. His member stood far out from his fatty pubis. 
+She doubted that she would be able to get the whole thing in her mouth. But she was certainly going to try. For a moment, she wondered what it would be like to have that whole length buried in her cunt. It would reach halfway to her naval. But she dismissed that thought in an instant. That was not the deal and it was not happening.
+She seated him in the chair.
+There was no reason for her to remove her clothing but she took pleasure in standing in front of him and slowly unbuttoning her blouse. She was not an exhibitionist and had never taken any special joy in undressing for a man before. But Dixie had a lustful look on his face that she found strangely delightful.
+When she slipped her skirt off her hips, she revealed wicked black stockings, a garter belt, and a G-string underneath the conservative shell.
+She stepped between the fat man&#8217;s legs and sank gracefully to her knees, lowering her head to begin slowly licking the smooth bulbous end of his cock with her soft, wet tongue.
+He was breathing hard and fast, rhythmically gasping for air. He was about to come and she could have ended it right there with a touch of her hand and a moan, not thirty seconds after she had begun.
+But she wanted the event to last a little longer. She wanted leave Dixie more satisfied than he had ever imagined in his best fantasies. She pulled her head back and looked up at him. �I love the feel of your cock against my tongue,� she said. �You have a wonderful texture.� Then she grabbed him gently at the base of his shaft and lowered her head again.
+This time, she took him between her lips, opened her mouth wide enough to admit him and slid him inside. She began rocking her head, pushing him further into her mouth until he touched the back of her throat.
+She had no intention of trying to take him any deeper because she knew that she couldn&#8217;t suppress her gag reflex. Instead, she started pumping his shaft with her hand as she kept working around his head with her tongue and lips.
+After another minute, he came in her mouth.
+His volume surprised her. He had been excited all week and had been building a store of semen without releasing it himself.
+She didn&#8217;t have to wonder if she could make herself swallow, she had no choice. She couldn&#8217;t hold that much cream in her mouth without it flowing down her throat.
+So she began swallowing with abandon.
+She had always imagined that a man pulsed a couple of times, shot out a load, and stopped. Dixie, though, kept pulsing, on and off, for a long time. His orgasm must have lasted thirty seconds, pausing and then starting again.
+She was determined to do it right. When he finally stopped and his cock began to soften, she gamely sucked him clean.
+She was a full-service cocksucker.
+She stood, told him, �That was wonderful. Thank-you,� dressed and left the room.
+He didn&#8217;t say a word, just slumped in the chair.
+She never saw Dixie again. Her last impression of him was the look of utter bliss on his face as she closed the door.
+She was extraordinarily proud to know that she had put that look there.
+* * *
+�You must have given Dixie one hell of a blowjob.�
+Keri shrugged and said nothing. This was a conversation that she wasn&#8217;t going to have.
+�He had the goofiest grin on his face when he handed over the root password to his servers. I don&#8217;t think he knew where he was or what he was doing. You didn&#8217;t just blow his prick. You blew his fucking mind. You should have seen him.�
+She had seen him. She remembered the look on his face when she closed the hotel door after herself. �Explain what you&#8217;re going to do with his servers now that you have the password.� Keri didn&#8217;t really want to know; she wanted to change the subject.
+Eli was happy to spend the next twenty minutes spouting a continuous stream of technobabble.
+Keri didn&#8217;t understand a word but she was happy to watch him flap his gums about something other than her epic blowjob.
+When Eli finally wound down, she smiled, thanked him for his explanation, and told him that she had a meeting in a few minutes.
+�No problem,� he said. �I&#8217;m glad to explain this to you. If you&#8217;re going to be our vice president, you need to understand how this division operates.�
+�I know how the division operates,� she replied, archly. �I have been the manager of the entire division for almost five years.�
+�Oh,� he replied.
+She couldn&#8217;t read the disbelieving tone in his voice but she didn&#8217;t care. She was still his manager. She didn&#8217;t have to take shit from him. He had to take shit from her. That was the way a hierarchy worked.
+After lunch, she had to prepare her input for the monthly management meeting. That meant taking the highlights from her section heads&#8217; reports and editing them together into a coherent document to pass upstairs. It was easy because she&#8217;d trained her section heads to deliver exactly the information using exactly the right words. Mostly her job was cutting and pasting. A lot of her job was cutting and pasting to create various documents.
+She had barely begun when Eli walked into her office. He never knocked any more, just walked in whenever it suited him. He had a paper in his hand.
+�What?� she asked.
+�I have some questions for you to answer,� he said.
+�What are they?�
+�I&#8217;ve written them down.� He slid the paper across her desk.
+It was a list of questions, all right. A hundred multiple-choice questions on five pages. It looked like a test.
+She&#8217;d had her fill of tests in college and didn&#8217;t like them. She intended never to take another one again. �What&#8217;s this?�
+�You said that you understood how your division worked, you being the manager and all,� he replied. �That&#8217;s good because we&#8217;ve made ourselves central to most of the other divisions. This is an assessment of your knowledge of our operations. If you want to me to help you get promoted, you&#8217;re going to have to demonstrate your knowledge to me. That&#8217;s the price of admission to a corner office.�
+�I don&#8217;t have to demonstrate anything to you,� she snapped back.
+�You don&#8217;t have to get promoted, either,� he replied. �It&#8217;s your choice. Either you take my test or you stay in your current position. I&#8217;ll be back to collect your answers in an hour.�
+She looked at the test again, then looked up at him. He still couldn&#8217;t meet her eyes.
+�I should warn you,� he said. �There is a consequence for every wrong answer.�
+�What kind of consequence?�
+�A painful consequence. So you better prove that you know as much as you claim.�
+She wasted a few minutes fuming over the arrogance of that self-righteous geek daring to demand that she justify her fitness to be a vice president. Then a couple of more minutes deciding that fuming wouldn&#8217;t accomplish anything. She needed him on her side, at least for now, so she would have to make him happy by taking his damned test.
+The questions were straightforward but tough. How the hell should she know what proportion of the users&#8217; complaints could be answered by quotations from the user manuals? Why should she care? If she needed to know, she could ask Pete, the line supervisor for the drones who fielded telephone queries. Or would he know? Oops. That was the next question: Who would know what proportion of complaints could be resolved by making the manuals more readable? That had to be Pete. Unless it was Patrice, the manger of the Communications Division. Or that guy who reported to Patrice who wrote the manuals.
+The more questions she answered, the more uncertain she became about who was responsible for what in her own division and how they interacted with the other divisions.
+When she had first seen the test, she had expected Eli to question her about technology. That was his thing, after all. But most of these asked about responsibilities and information flows between the divisions. 
+When Eli came back in an hour, he was carrying the answer key. �Let&#8217;s see,� he said and began marking her answers with a red felt pen.
+�Not good,� he tutted when he was finished. �Not good at all.�
+�So what?� she snapped. �Those aren&#8217;t the kind of things that a vice president needs to know.�
+�Half of these questions could be answered from the logic chart that I created a few months ago. You remember the chart? It&#8217;s the one that you claimed that you made. Surely you should be able to answer questions about a chart that has your name on it. If you&#8217;re going to plagiarize something, you better learn what it says. The other half of the questions was background information that you&#8217;d have to know to make up the chart in the first place.�
+�Okay,� she said. �You&#8217;ve made your point. I shouldn&#8217;t have put my name on your chart.�
+�No. That&#8217;s not the point at all. I gave you the chart because it&#8217;s information that you needed to know. You passed it on to William because it was information that the VP needed to know. And he passed it up to Chuck because even the CEO needed to know what that chart said. In the larger scheme, it doesn&#8217;t matter that I created it. It matters that you never learned it. Look at this. You got fifty-three of these questions wrong. Fifty three!�
+�So what?�
+�The minimum that I expected was eighty percent. You fell below that threshold by thirty-three questions so you&#8217;re going to be punished with thirty-three strokes of a paddle on your bare ass.�
+�What?� she shrieked.
+�You&#8217;ll work late tomorrow evening. Everyone else will have gone home by eight. I&#8217;m going to come back here at nine with a wooden paddle. You&#8217;re going to bend over your desk and raise your skirt. Then I&#8217;m going to give you thirty-three strokes. It&#8217;s going to be painful and humiliating but you&#8217;re going to do it if you want to inherit that corner office.�
+�I&#8217;m not a child to be spanked by anybody. Who the hell do you think you are?�
+�I think that I&#8217;m a man who&#8217;s going to enjoy spanking you immensely,� he grinned at her. �When you&#8217;re working late tomorrow, I&#8217;d advise you to study that logic chart. You never know when there&#8217;s going to be another test.�
+* * *
+�This is childish. You&#8217;re acting like a thirteen-year-old.�
+�Either you drop your drawers, raise your skirt to your waist, and bend over that desk or you can kiss your promotion goodbye.�
+�I won&#8217;t do it. It&#8217;s humiliating.�
+He turned to leave.
+�Wait,� she said before he got to the office door. �Wait. I&#8217;ll do it.�
+�Then you&#8217;re smarter than you look,� he said. �I know this is humiliating. It&#8217;s supposed to be. It&#8217;s also going to be painful. But you&#8217;ll survive.� He hefted the paddle. �It&#8217;s going to sting and bruise but this isn&#8217;t a baseball bat. It&#8217;s not going to break anything or do any lasting damage.�
+She turned to face her desk, bunched her skirt up to her waist, and bent down until her breasts were pressed against the cold surface.
+Eli smirked at the sight. She might feel obligated to protest but, as soon as he&#8217;d entered, he&#8217;d noticed that she&#8217;d cleared her desk off in preparation for this moment.
+Now he saw that her preparations had been better thought out than he&#8217;d expected. She didn&#8217;t have to drop her panties or pantyhose because she was wearing stay-up stockings and a black thong that left her buttocks naked.
+He wondered if she had changed her underwear just before the appointed hour or if she&#8217;d been wearing them all day.
+He bet it was all day.
+He&#8217;d made the paddle yesterday from a piece of two-inch-wide whitewood from Home Depot. It was about a quarter inch thick and light. He&#8217;d drilled a half dozen large holes in it to make certain that it wouldn&#8217;t be slowed down too much by air resistance. He&#8217;d sanded it smooth and varnished it. He didn&#8217;t want to drive any splinters into the woman.
+He&#8217;d never paddled a woman before so he made the first stroke brisk but not too hard. Her soft, round ass bounced nicely and she gasped just a little at the shock.
+�Count them off,� he ordered.
+�One,� she replied.
+He hit her again but a little harder and she gasped more loudly. �Two.�
+And so it went.
+By the twelfth stroke, her ass was bright red and she was beginning to howl when he struck her.
+He worried that thirty-three was too many strokes. Originally he&#8217;d planned to give her one stroke for every wrong answer but, when he&#8217;d seen how many she had missed, he made an excuse for reducing the number by twenty. When he thought about how little she actually knew about the operation of her own division, he felt a surge of anger and struck her hard.
+She shrieked and her red ass bounced. It took a long moment before she was able to gasp, �Thirteen.�
+He struck her again at the same strength and she shrieked again. �Fourteen.�
+He eased up a little for the next dozen strokes. He was angry with her but he didn&#8217;t want to cause serious injury. A woman&#8217;s ass can take a fair beating but it&#8217;s not invulnerable. Eventually it&#8217;s going to sustain real damage.
+When he got to twenty-seven, she was sobbing as she counted. Her skin was so red that it looked like it was glowing but it didn&#8217;t seem to be damaged. She could take a lot more. He paused and said, �Now you&#8217;re going to feel six of my best. I&#8217;ll count them. Steel yourself.�
+She howled continuously as he laid into her with his full strength six more times.
+�You look like vice presidential material to me,� he said as he walked away, leaving her lying across her desk, crying loudly and gingerly rubbing her hands over her aching butt.
+* * *
+�How&#8217;s your ass? Still aching?�
+�That&#8217;s none of your business.�
+�It&#8217;s been a week so I&#8217;m assuming that it&#8217;s not too sore now.�
+�None of your business.�
+�I noticed that you didn&#8217;t spend much time in your chair last Friday but you spent most of Monday at your desk.�
+�None of your business.�
+�Being that I was the one who bruised it good, the state of your aching ass kind of is my business.�
+�Fuck off.�
+�Tch, tch. Such language from a lady.� Eli smiled out her window. �How&#8217;re your nipples?�
+�What?�
+�I&#8217;m assuming that they feel all right.�
+�That&#8217;s none of your business either.�
+�Actually it is. Time is short. The next SMC meeting is scheduled for Tuesday the ninth. Re-organization is on the agenda. That includes approval of the succession plan. You&#8217;ll be sitting in a bigger, softer chair by the following Monday. We&#8217;ve only got two more weeks to play our games and I want to make you a winner. I&#8217;ve got two good ones planned.� He stopped talking and smirked at her credenza.
+�Well?�
+�Well, what?�
+�What kind of games?�
+�Card games, both. Games of chance. This Thursday, it&#8217;s going to be a pain game, next Thursday a sex game. Luck is important for a manager so we&#8217;re going to see how lucky you are. There&#8217;s a chance that you won&#8217;t feel any pain at all and a chance that you&#8217;ll suffer a lot.� He squinted like Dirty Harry. �So what about it, cunt? Do you feel lucky?�
+She sighed. �What kind of pain?�
+�No more pain than you suffered last week. But rather different in quality. It all depends on how lucky you are. At worst, you&#8217;ll feel like you&#8217;re suffering the agonies of hell but you&#8217;ll be able to stand it. At best, you won&#8217;t be hurt at all. That&#8217;s all I&#8217;m going to say. Be in your office at nine o&#8217;clock on Thursday night and I&#8217;ll give you a surprise.�
+An unpleasant surprise, she expected, but there was a vice presidency at stake so she&#8217;d do whatever he had planned.
+But she reserved the right to tell him to go fuck himself if he tried to demand too much. He had to be smart enough to realize that.
+* * *
+Eli laid a roll of duct tape, two wooden, spring-loaded clothespins, and a deck of cards on her desk. Then he pulled Keri&#8217;s desk chair into the middle of the room. Finally, he typed a web address into her browser.
+Her computer beeped.
+�Strip to your waist,� he said.
+�What are you going to do to me?�
+�I&#8217;m going to hurt you. Specifically, I&#8217;m going to hurt your nipples by squeezing them in these clothespins. You think that you can stand that?�
+She looked at the clothespins. �I guess so.�
+�If you want, you can find lots of videos of women getting their nipples clamped in clothespins on the web. It&#8217;s a pretty standard way of hurting a woman without causing serious damage. The pain is significant but not extreme. You won&#8217;t like it, but you&#8217;ll be able to tolerate it about as well as you tolerated the paddling last week.�
+She didn&#8217;t want to see any videos of women suffering on the web. He seemed to have done his research so she&#8217;d take his word about the consequences of having a woman&#8217;s nipples crushed by clothespins.
+She unbuttoned her blouse and stripped it off. Then she removed her bra &#8211; a flesh-colored sports bra that was more comfortable than erotic &#8211; to free her ample breasts.
+Eli paused to stare at her in appreciation. She looked down and saw that her breasts were heaving because she was breathing heavily in her fear. Her pink nipples were already erect.
+Maybe that was why men like Eli liked to treat women sadistically: because a woman who was afraid resembled one who was sexually aroused.
+�Sit,� he said after taking a minute to enjoy the view.
+Her computer beeped.
+She sat in the chair.
+Middle managers were given desk chairs with arms; staff got no arms. He picked up the duct tape, tore off a long strip, and moved to tape her forearms to the arms of her chair. 
+�What do you think you&#8217;re doing,� she demanded, pulling her arms away from his touch.
+�Put your arms back. I&#8217;m going to secure them so that you can&#8217;t reach your breasts and interfere with the game.�
+Her computer beeped.
+�No, you&#8217;re not.�
+�Yes, I am. Either you play the game or you don&#8217;t. But remember. If you leave without playing by my rules, then I still have time to screw you over with the Senior Management Committee. All I have to do is make an unsupported accusation of impropriety and they&#8217;ll withdraw their offer just to be on the safe side. It doesn&#8217;t have to be true. But they won&#8217;t care when they stop receiving their User Analysis Reports. They love those reports.�
+She rested her arms back on the chair and let Eli bind her to it.
+When she was no longer able to cover her naked breasts, she felt completely vulnerable.
+Her computer beeped.
+�Why is my computer beeping?�
+�I loaded a web page that keeps refreshing itself every sixty seconds. It beeps every time it loads. It&#8217;s a crude way to get a repeating timer. It&#8217;s not very accurate but our game doesn&#8217;t require accuracy.�
+�What game?�
+�It&#8217;s really simple.� He began shuffling the deck of cards. �This is a standard deck of fifty-three cards. Fifty-two playing cards plus one joker.� He put the deck on the desk in front of her. �Every time the computer beeps, I turn over a card. When I turn over the joker, the game is over and I cut you loose. You&#8217;ll suffer for about an hour if the joker happens to be on the bottom of the deck. If the top card happens to be the joker you won&#8217;t suffer at all because the game will end before I turn over any of the other cards. Unless you like suffering, you hope that the joker is near the top of the deck.�
+�What happens with the other cards?�
+�That&#8217;s the suffering part. Red cards concern your right tit and black cards are your left tit. If I turn over a red card and there is no pin on your right nipple, then I apply one. If there is a pin already there, then I remove it. Same thing with black cards and your left nipple. If you can do the probabilities, then it&#8217;s obvious that, on average, one quarter of the time you&#8217;ll have pins on both nipples, half the time on one nipple, and one quarter of the time on neither. You can expect to suffer for about a half hour, though, as I say, depending on your luck that may be anywhere from zero to fifty-two minutes, uniformly distributed. Understand?�
+�Yes.� She hadn&#8217;t bothered listening to everything that he said. She gathered that he was going to put clothespins on her nipples and that would hurt. She&#8217;d find out exactly how it worked soon enough.
+�There&#8217;s another little twist.� He grinned as though he had told a joke. �Think of the cards as being numbered between one, for the ace, and thirteen for the king. The number indicates the position of application of the clothespin. From one to twelve, it will be sideways at the same angle as the numbers on a clock face. If the king turns up, representing unlucky thirteen, the clothespin will be applied sticking straight out from your chest.�
+She shrugged. She didn&#8217;t see what difference that would make.
+�Are you ready?�
+�Let&#8217;s get this over with.�
+�Do you feel lucky?�
+She looked at her arms taped to the arms of her chair and smiled bitterly at the irony of his question. If she were lucky, she wouldn&#8217;t be here at all.
+The computer beeped.
+Eli turned the first card over and showed it to her. It was the five of diamonds. �Right tit first,� he intoned and picked up a clothespin.
+He placed it gently on her nipple at the five o&#8217;clock angle, making certain that it pinched it right to the base.
+She moaned. As he slowly released the pin, her nipple began to burn. When he withdrew his hand, her nipple felt like it was on fire. It hurt like hell. She jerked and the pin bounced a little. That made it hurt even more so she concentrated on sitting as still as possible.
+The pain was beginning to fade slightly when the computer beeped again.
+The next card was the queen of hearts. Red meant her right tit got his attention again. There was already a pin there, so he gently squeezed it open to remove it.
+She had wanted her tit to be free of the clothespin but was shocked to find that releasing the pressure and letting the blood flow return hurt as much as putting it on. Maybe more.
+Two cards gone. There could be as many as fifty more cards turned over before he got down to the joker.
+The computer beeped and the next card was the ace of diamonds. Red meant her right tit again.
+Her poor right nipple was crushed by the clothespin again. It hurt even worse this time because it was already bruised from before. She had to stifle a scream.
+He attached the pin gently again, but he applied it in the one o&#8217;clock position and released it, the weight of the pin twisted the bruised nipple downward, making it hurt even more. And now, if she moved, the pin twisted harder as it bounced.
+Every breath was a new torture.
+After the next beep, he turned up the ace of spades. A few seconds later, her left nipple was crushed and burning just like the right.
+So it went. The pain got worse and worse as her nipples accumulated damage from the repeated crushings.
+The longest that a single nipple was crushed was seven minutes when he drew a run of seven black cards in a row. That hurt bad but it was less painful than having the pin on the right nipple removed and replaced in two minute cycles for those seven minutes.
+She was not lucky. The joker was almost three-quarters of the way through the deck so her torture lasted for forty-one long minutes.
+By the time he reached the joker, she was crying freely, tears flowing down both cheeks and dripping onto her suffering breasts. Her nose was clogged and running and she had to breathe through her mouth. For the last ten minutes, she had been begging for mercy and asking him to stop.
+He had ignored her.
+When the joker was finally revealed, she happened to have clothespins on both nipples. The bastard didn&#8217;t remove them, but used a pair of scissors to cut the duct tape between her forearms and the arms of the chair. Then he walked out of the room.
+She had to twist and pull her right arm to get it free of the duct tape. That jiggled her pinned nipples hard and bounced the clothespins painfully against her breasts.
+Now that he was out of the room, she permitted herself a soft scream as she released the pins from each of her nipples.
+This had definitely been worse than the paddling. Much worse.
+Her nipples were sore for two days afterward. They ached even inside her softest sports bra.
+On Friday the User Analysis Reports were emailed as usual.
+* * *
+�We only have one game left to play. Cooperate with this one and you&#8217;ll be offered the vice presidency on Tuesday for sure.�
+Keri stared at the geek for a long minute while thoughts tumbled through her mind. Concern about what �game� he might have planned was not foremost in her mind. She remembered that he had called it a �sex game� and feared that it would be something horribly humiliating. She was not sure that she could cooperate with him if he tried to push her too far. 
+But, she was fretting over more important concerns than that.
+Foremost in her mind was annoyance that he kept insisting that he could assure her promotion. She was not stupid. He was not the CEO. He was not on the Board of Directors. He was a low-level computer operator. One step above the janitor. Why did he keep insisting that he had some special power over her career? It was deeply insulting that he expected her to believe that he could have anything to do with her success.
+Second in her mind was her own plan. Was he so thick that he couldn&#8217;t imagine that she had a backup plan? Apparently. That worked to her advantage because he was off guard but she had to keep reviewing her plot, looking for holes. Maybe he had been on to her all along and she had overlooked something. Maybe he was about to blow her plan sky high and she didn&#8217;t know it. Maybe he really was more cunning than her.
+It didn&#8217;t matter. Her course was set and she had to follow through to the end, be it sweet success or bitter failure.
+Finally she asked the question that he wanted. �What&#8217;s your game this time?�
+�No pain. The last game is a sex game. Come to this address at eight o&#8217;clock on Saturday night.� He pushed a paper across the desk and walked out of the room without looking back.
+He had confirmed it again. A sex game.
+She wouldn&#8217;t allow herself to be tied up for this one. She wouldn&#8217;t allow herself to be raped. Whatever she did would have to be consensual. She would make that abundantly clear.
+She&#8217;d already giving one geek a blowjob. Not just a blowjob, but a world-class cocksucking. She hated to admit that she was a little proud of herself for that one. How bad could a little more sex be?
+She sat at her computer and began typing. Her list of conditions was short. No bondage. Consensual sex only. Condoms required. That was it. Three conditions. She was tempted to add a lot more but everything else was covered by the condition that she consent. As long as she reserved the right to refuse anything that was outside her limits, she would be okay.
+Eli understood that. A few minutes after she emailed her conditions to him, he was back in her office. �Your conditions are acceptable, only as long as you are reasonable with your consent. If you refuse to have sex with anyone, then you aren&#8217;t playing the game.�
+�I&#8217;ll have sex as long as it&#8217;s reasonable sex. I won&#8217;t be raped. Rape isn&#8217;t sex, it&#8217;s assault and I won&#8217;t be assaulted. I will go to the police and file a complaint if that happens.�
+�Nobody&#8217;s going to rape you.�
+�Then we won&#8217;t have a problem.� She suddenly remembered his characterization of a middle manager as someone who gets fucked in the ass by senior managers every day. �By the way, I don&#8217;t do anything anal. I can tell you up front that I won&#8217;t consent to that under any circumstance. Oral is okay. Vaginal in any position that I can manage. But no anal. That&#8217;s off the table.�
+�I can live with that.� Keri couldn&#8217;t tell if he looked disappointed or not. It was hard to read a face that never looked you in the eye.
+* * *
+The address was for an old brick row house downtown. That reassured her. If she had to scream for help, then the neighbors would hear her through the walls. She doubted that it would come to that, though. Eli had been cruel, especially when he was beating her and torturing her nipples, but he had not been extreme. Nothing that he had done had been more than she could bear. Nothing had caused permanent damage.
+He might be a sadist, but he was a sane sadist.
+He had not told her what to wear so she came dressed in jeans and a sweatshirt. She had not bothered with a bra because she was pretty sure that she&#8217;d have to remove it before long and she didn&#8217;t want to have to look for it before she left.
+When this game was over, she was going to slip her jeans, sweatshirt, and shoes back on as quickly as possible and leave without any fuss.
+�The bedroom is in the back, through the door at the end.� Eli pointed down a short hallway.
+The room contained a bed and a heavy wooden desk.
+The desk was bare except for two pillows, a box of condoms, and some kind of black leather thing.
+�What do I do now?� she asked.
+�You listen to the rules of the game,� he said. �I&#8217;ve invited a few friends over for poker night. You&#8217;re the special prize. Most of the time we&#8217;ll play for chips like usual. But when I deal, we&#8217;ll be playing for your ass. You&#8217;re going to be in here, bare-ass naked, bent over the desk, legs spread, waiting for someone to come in and fuck you. On my deals, whoever wins the pot gets to come in here and do you from behind like an animal. Unless it&#8217;s me. I&#8217;m on your side, just like at work. If I win the hand, then you won&#8217;t get fucked that round. Is that okay with you?�
+�How many men?� She looked at the box. There were a dozen condoms in it.
+�Four other guys are coming over. You get to leave after I deal four times so that&#8217;s the most that you can get fucked. Four times by four different men. Odds are that it&#8217;ll be three times because I should win at least once. I&#8217;m a good player and I play to win so you might get away with getting fucked only twice. Maybe even only once. There&#8217;s the possibility that I&#8217;ll win all four hands and you walk out of here untouched, but that&#8217;s unlikely and I wouldn&#8217;t get your hopes up if I were you.�
+�I can do that.� She didn&#8217;t relish the thought of being fucked by four men, but she could do it. �One thing puzzles me, though. Why aren&#8217;t you going to fuck me when you win the hand? You don&#8217;t seem gay. You spend too much time staring at my body.�
+He smiled sadly and, maybe for the first time, looked her in the eye. �You don&#8217;t know anything about me, do you? I&#8217;ve worked for you for four years and you haven&#8217;t made the slightest effort to learn anything about me. This all began when you said that you were sure that I&#8217;ve never had a date in my life. Wrong. I dated lots of women when I was younger. I&#8217;ve been married for three years. I have a child, a two-year old boy, and we&#8217;re expecting a girl in the fall. I love my wife and I don&#8217;t cheat on her. Not with anyone and certainly not with the likes of you. I have standards. You&#8217;re sexy enough in a slutty kind of way, but you&#8217;re definitely not my type.�
+It was Keri&#8217;s turn to rock back in shock at his insult. She had no reply. 
+�There&#8217;s two other things,� Eli said. �First, when the man wins you, he can either fuck you or, if he doesn&#8217;t feel like it, he can sell you to one of the other men in an auction. Every time I deal and lose, you&#8217;ll get fucked even if the same man keeps winning you and doesn&#8217;t want you a third or fourth time.�
+�Okay.� Damn.
+�Second, this is going to be done anonymously. You wear the leather hood on the desk so that you won&#8217;t see the men who fuck you and they won&#8217;t see your face. There&#8217;s a hole for your mouth but, if you don&#8217;t speak, they won&#8217;t hear your voice, either.�
+She had said �no bondage� and could have objected on those grounds but he was right. She didn&#8217;t want to be recognized later. �How do I consent if I don&#8217;t talk?�
+�You&#8217;re not going to be tied up. You just stand up, turn around, and push the guy away if he tries something outside the rules. No one is going to get into a fight with you or hold you down or force you to do anything that you&#8217;re not willing to do. The guys understand that. And they will wear the condoms. None of them wants sloppy seconds.�
+�Will they be drinking?�
+�Some beer but I&#8217;ve never seen any of these guys drink more than a couple of bottles in an evening. They won&#8217;t be drunk. I can guarantee that. We&#8217;re all geeks, not construction workers. We keep our heads clear for the game. Poker&#8217;s all about judgment and that&#8217;s the first thing to go when you drink too much.�
+The doorbell rang.
+�The pillows are for your comfort. I recommend that you use one to cushion the edge of the desk.�
+Eli thought of everything. But that didn&#8217;t make him thoughtful.
+When she was alone, she stripped off her clothes and laid them on the bed. She cracked the door an inch so that she could hear to the poker party get underway.
+There was no need for the hood yet. He said that there would be five players including him and she could only distinguish three voices so far. They were talking about inconsequential computer stuff.
+The doorbell rang again and she heard more people come in.
+Everybody must have arrived because she could hear everyone fall quiet while Eli explaining the rules of the game to them, much as he had explained it to her. Except that, this time, she was being called �the slut in the bedroom.�
+The men sounded excited.
+Keri was shivering. The room was warm but so it must be the stress of her situation. She tentatively felt between her legs. She was so wet that she was practically dripping. Surely she couldn&#8217;t be shivering because she was sexually aroused by the thought of being fucked by a bunch of anonymous strangers. Fucked from behind like an animal. But she was so tense that she was shivering.
+Eli came back into the room. �You&#8217;re already undressed. Good. We&#8217;re going to start playing now. You want me to help you with the hood?�
+She picked it up and looked at it. It was pretty obvious. There were only a couple of straps and buckles. �I can mange it by myself.�
+�Okay. Get it on and get bent over the desk. That&#8217;s the deal. That you&#8217;ll be in here waiting in position all the time that we&#8217;re playing. I&#8217;m not going to tie you up but you should stay there just like you would if you were tied across the desk.� He left the room again.
+Keri was pretty sure that, if she hadn&#8217;t thought to include �no bondage� on her list, she would have spent the evening tied to the desk. She congratulated herself on her foresight.
+After she bulked the hood over her head, she arranged one of the pillows against the edge of the desk and bent over to rest her head on the other pillow. She spread her legs a few inches but didn&#8217;t try to stretch them wide apart. That would be too uncomfortable. She could do that when a man came into the room.
+With the hood over her ears and the door closed, the voices in the other room were muffled; she could no longer understand what was being said. But she could hear the laughter and the men&#8217;s excitement. This was going to be an especially fun night for them.
+* * *
+Keri felt like she had been lying bent across the desk for a long time before the first man came into the room. Her back was aching from remaining bent over for so long. She wondered if Eli had lost the first hand that he dealt a hand or if she had been waiting for so long because he had been winning his hands. Maybe he had won all of them and he was coming to tell her that she could go home now, untouched and unfucked.
+No such luck. She heard a voice say, �Hot damn, you look good, bitch!� A tearing sound told her that he was opening the condom box that she had placed prominently next to her hip. Then she heard a zipper and the clunk of a belt buckle hitting the floor.
+Rough hands pulled her ass cheeks apart and she clenched her sphincter, suddenly fearful that he was going to try to force himself into her dry asshole.
+He did not. He slid his cock easily into her wet cunt and began pounding his pelvis against her buttocks, grabbing her hips above her waist and pulling to give himself leverage.
+He felt big inside her. Not enormous, but bigger than most of the lovers that she had had. She wondered if all of Eli&#8217;s friends were bigger than average. That would be weird, considering that they were probably all couch potatoes.
+The disadvantage of using a condom was decreased sensitivity. It felt like he was working on her for ten minutes or more. But it&#8217;s always hard to estimate time during coitus.
+In this position, she got no stimulation on her clitoris but she was getting aroused by the motion of the rubber-coated cock thrusting against her nether lips for such a long time. She began to work her ass against him, trying to get more stimulation. If she had to get fucked, she might as well get something out of it for herself.
+But, before she could get off, he came. Long and hard. He stayed inside her, panting over her and waiting until his cock stopped pulsing and slowly subsided.
+He was smart enough to hold the condom over his limp cock with his hand when he withdrew. She was grateful. She had no desire to have his used condom left inside her.
+�That was good,� he said as he pulled his pants back up. �Was it good for you, too?�
+The hood distorted his voice. She couldn&#8217;t tell if he was speaking sarcastically or not but it didn&#8217;t matter. She had no intention of answering his question.
+He slapped her up thrust ass playfully and left the room.
+One down. At most three more to go.
+The game would be back in progress again but the deal would have to go around the table before it came back to Eli. That would take a while.
+Keri&#8217;s lower back felt like it had been banked with hot coals. She gingerly pushed herself erect and massaged herself, trying to work the pain out of those small, important muscles. Her scalp was itching something fierce. She thought about removing the hood for a few minutes but dared not. If another man came in before she expected, she could flop down on the desk immediately and offer herself to him but there would be no way for her to replace the hood quickly.
+She remained standing for as long as she dared, straining to hear, trying to tell when one hand ended and the next began, but she couldn&#8217;t make out the table chatter clearly enough.
+When she thought that it would be a about time for the deal to return to Eli, she laid her torso back across the desk, once again offering her naked cunt to whomever might come through the door to make use of it.
+She tried to relax but her lower back was soon aching again.
+* * *
+�You better be good. You cost me almost three hundred dollars. Are you a three-hundred-dollar piece of ass?�
+She didn&#8217;t answer but inferred that she had been put up for auction. Eli had said might happen. The thought that her ass was worth three hundred dollars on the open market gave her a queasy, tingling feeling in her belly.
+She couldn&#8217;t tell if she liked the feeling or not.
+The man kept speaking. �Because that&#8217;s what Bill offered to give me if I sold you to him. His whole stake. Almost three hundred dollars. But I won you fair and square so I told him to keep his money.�
+So her ass hadn&#8217;t been sold to the highest bidder after all. She was going to be fucked by the lucky man who had been dealt the best cards.
+But someone had still offered three hundred dollars for her. Now she knew her market value.
+The last man who had fucked her must have said something about what a great piece she was if the other men at the table thought that she was worth so much.
+She spread her legs a little wider in anticipation of receiving another angry cock.
+�For three hundred bucks, I ought to get something special, don&#8217;t you think?�
+Suddenly she felt a finger pressing against her asshole.
+�Maybe something hotter and tighter than pussy?�
+She drew her legs together and clenched her buttocks. She was about to stand up but the unknown man said, �Relax, darling. I&#8217;m just joshing you. I think your pussy looks just fine. I&#8217;m going to do you just like you want. No sodomy tonight. Not unless you to beg me for it.� The man laughed hard. �What? I don&#8217;t hear you begging for a good hard cornholing. Okay. But maybe for three hundred bucks, I should get to ride you bareback. Huh? What about that?�
+She shook her head vehemently.
+�No? Okay. Gloved it is. You know, darling, for someone who&#8217;s willing to screw any stranger who wins a hand tonight, sight unseen, you sure are particular. I wouldn&#8217;t have expected to find such a fastidious slut in here.� He laughed again.
+In response, she spread her legs wide, raised her ass high, and worked it around a little.
+�Eager for a good hump, are you? Okay. I won&#8217;t make you wait.�
+She heard his pants go down. A minute later, she felt a stiff cock poking at the entrance to her cunt. He was plenty hard but he didn&#8217;t slide right in like most men. He teased her for a long time, rubbing the head of his cock up and down her slit, then pressing it against her clit. Not rubbing her clit but just gently pushing and releasing the pressure in a languorous, sensuous rhythm. The man clearly fancied himself an expert cocksman.
+He must have been right because she was getting turned on like never before. She was pushing back against him, matching his rhythm, milking him for all the stimulation that she could get.
+�You know what I think? I don&#8217;t think that you&#8217;re a slut at all. I think you&#8217;re a lady who doesn&#8217;t have nearly as much experience as you pretend. I think you volunteered for this duty so that you could enlarge your world view. Well, lady, enlarge yourself on this!� He suddenly thrust himself deep into her with a single stroke, all the way to the hilt.
+It would have been crude and painful in any other circumstance but right now, Keri was as wet as she had ever been and her entire cunt was engorged and open wide to admit him. His sudden, brutal entry was an exhilarating sensation and she gasped in pleasure.
+He did not begin thrusting but remained immobile, pressing himself as deeply into her as he could, letting her feel the exquisite sensation of her impalement.
+Reflexively, she began pressing against him in slow rhythm, looking to get as much sensation from him as she could.
+He had her pinned between his pelvis and the unyielding edge of the heavy desk so she was forced to work the muscles in her thighs, vulva, and vagina to press against his cock.
+Slowly, excruciatingly, he began to respond, flexing and pressing to work with her rhythm without backing off or pumping against her.
+It was like a silent struggle between two titans, each struggling to gain advantage over the other.
+They came simultaneously, him pushing and groaning and pulsing and her thrashing and bucking as much as she could while pinned by his weight and strength.
+She didn&#8217;t care if the men in the next room heard her shrieks of ecstasy. Let them jerk themselves off in bed tonight, fantasizing about her in their wet dreams.
+After the man withdrew, he said. �You&#8217;re good. I don&#8217;t know if I&#8217;d call you three-hundred-dollars good, but you are very, very good. You&#8217;re a hell of a lady and, some day, you&#8217;re going to make some man a hell of a wife.�
+She barely heard him leave over her panting. The endorphin rush had washed the pain in her back away almost completely.
+A few minutes later, she was standing up again, trying to ease the burning that had returned to her back, when she heard Eli&#8217;s voice through the hood. �It&#8217;s all over. I won two of the hands that I dealt and you met the guys who won the other two. It sounded like you found the experience pleasant enough. Not a bad ending to our little tournament of games. Now we have a situation here that&#8217;s a little inconvenient. The guys are going to keep playing for a while. Probably for another two or three hours. There&#8217;s no way for you to get out without showing your face so you&#8217;re going to have to wait until they&#8217;ve left.�
+Eli hadn&#8217;t planned everything, but Keri had already thought about this while she&#8217;d been waiting for so long to be fucked. �Sure there is. You just wait here for a minute.�
+She left the hood buckled over her head while she slipped her sweatshirt, panties, jeans, and shoes on by feel. �Now lead me outside.� She held out her hand.
+As she walked through the house blind, they couldn&#8217;t see her face but she could hear the men whistling and applauding. She should have felt more humiliated than she did.
+Eli walked her down the block, out of sight of the house before letting her remove the hood, reasoning that his friends had undoubtedly rushed to the front windows to see where they went.
+She wondered if any of the neighbors had been peeping out of their windows and seen Eli leading a woman in a leather hood down their street in the middle of the night. If they did, that was his problem, not hers.
+* * *
+Keri left William Cox&#8217;s office in shock. She couldn&#8217;t believe what had happened. She had done it. She had been offered the vice presidency. At thirty-one, she would be the youngest person ever to become a VP at IMDAZD. True, IMDAZD was no Microsoft or General Motors. It was a mid-sized manufacturing firm. And, true, it had been founded only twenty years ago so it didn&#8217;t have that much history. But it was still an accomplishment worth noting. It would look great on her resume when she went looking for another position in a few years. Unless she had become IMDAZD&#8217;s youngest CEO by that time.
+As soon as she got back to her office, she told Eli to come in and shut the door.
+He grinned at her bookshelf. �I told you that I&#8217;d get a top floor corner office for you, didn&#8217;t I? Do I deliver or do I deliver?�
+�Sit down,� she said. Her voice was cold.
+He sat and frowned at her. �What?�
+�You didn&#8217;t get anything for me. I worked damned hard to earn that position.�
+�But&#8211;�
+�But nothing. I called you in here to tell you that your services are no longer required at IMDAZD. That&#8217;s one of my last decisions as head of the Assistance Systems Division.�
+�You can&#8217;t fire me.�
+�I just did.�
+�You need me.�
+�No I don&#8217;t. If I needed you then I wouldn&#8217;t have fired you.�
+�You need my User Analysis Reports. When you&#8217;re the VP, you&#8217;re going to need them more than ever.�
+�Yes, I am. And I&#8217;m going to have them. Without you.�
+�I don&#8217;t understand.�
+�Then I&#8217;ll explain. Remember when Sudeep left?�
+�Yeah.�
+�He left the floor but he didn&#8217;t leave the company. He&#8217;s been working on special assignment under my supervision for the past couple of months.�
+Eli&#8217;s heart fell. He had a premonition about what was coming. �What special assignment?�
+Keri grinned. �You&#8217;ve heard of reverse engineering?�
+�Yeah, sure.�
+�He&#8217;s been reverse engineering your software. For the past couple of weeks, he&#8217;s been producing the UA reports in parallel with yours. They&#8217;re not identical to yours. His are better. He&#8217;s found ways to mine the data that you never thought of.� Her cold voice sounded triumphant.
+�He did that in six weeks? That was damned fast.�
+�It helped when he installed keystroke loggers on your computers. You know what a keystroke logger is, don&#8217;t you?�
+�He can&#8217;t do that!� Eli yelled. �That&#8217;s illegal! It&#8217;s an invasion of my privacy!�
+�Our lawyers told me that there was nothing illegal about it. They&#8217;re not your computers. They&#8217;re owned by IMDAZD. Everything that&#8217;s done on our computers is work product. We literally own every keystroke that you ever typed on our machines.�
+Eli stared at her in shock. �That&#8217;s a scum ball thing to do. Monitoring my keystrokes may be legal, but it sure as hell isn&#8217;t ethical.�
+�Ethical?� Keri laughed bitterly. �Ethical? After blackmailing me, sexually harassing me, beating me, torturing me, and finally arranging to have me gang raped, you&#8217;re now trying to claim the ethical high ground? You&#8217;re hilarious.�
+Eli looked sullen but didn&#8217;t have any response.
+�You know what else I found on your computer?�
+Eli knew.
+�You didn&#8217;t put a hood on me so that I would be anonymous. You did it so that I wouldn&#8217;t find the cameras. You filmed my rape from three different angles. You bastard!�
+�You weren&#8217;t raped. You said that yourself. You could have walked out any time. Everything we did was consensual.�
+�I didn&#8217;t consent to being filmed. I didn&#8217;t consent to the sex, either. Not as far as the law is concerned. I was coerced by your threats against my career. That makes everything non-consensual no matter what you or I said. And you know what?�
+�What?�
+�When I saw your video of those two men banging me, I felt like I was being raped all over again. Even if it didn&#8217;t feel like rape at the time, it feels like it now.�
+She stared at him.
+He hung his head. �I didn&#8217;t show those videos to anyone. Those files were password protected. Nobody was supposed to see them.�
+�You typed the password every time you opened them to watch them yourself. Now I have the password and I&#8217;ve seen them.�
+�I&#8217;m sorry.�
+�I can recognize members of my own staff, you know. You arranged for me to be raped by two of the men that I supervise.�
+He said nothing.
+�And you let the other two sneak in and get a good look at me while I was splayed across the desk, completely blind and half deaf. They&#8217;re on the video, too. Those other two men report to me, too.�
+He looked like he wanted to sink into the floor. �I didn&#8217;t tell them who you were. They still think you were a stranger.�
+�There&#8217;s no way that I can have them working under me any longer. There are security guards waiting outside that door to escort you out of the building. As soon as you&#8217;re off the premises, they&#8217;ll be coming back to escort your four buddies to the street, too. I&#8217;m cleaning house around here today. Now get the hell out of my office.�
+He opened the door and walked into the arms of the two uniformed guards who were waiting for him.
+She savored the moment. An eye for an eye, a tooth for a tooth, and a humiliation for a humiliation. Justice felt good.
+She turned her thoughts to her new job. She was going to be a great vice president.
+When it came to managing difficult people, she had the right stuff.
+
+
+
+
+Review This Story
+ || Email Author:  Ashley Zacharias 
+
+
+MORE BDSM STORIES @ SEX STORIES POST
+
+
+
+
+

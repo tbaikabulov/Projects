@@ -1,0 +1,854 @@
+BDSM Library - The Revolution\'s Pig Contest
+
+
+
+
+The Revolution\'s Pig Contest
+Provided By: BDSM Librarywww.bdsmlibrary.com
+Synopsis: American whites have finally caused enough hardship to force the revolution.  First order, rounding up the men and women and sending them off to the longpig camps.  Obviously fiction.000}
+body, table /* Normal text */
+{
+ font-size: 12pt;
+ font-family: 'Courier New';
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* Heading */
+{
+ font-size: 10pt;
+ font-family: 'Arial';
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts2 /* Subheading */
+{
+ font-size: 10pt;
+ font-family: 'Arial';
+ font-weight: bold;
+ color: #000080;
+}
+span.rvts3 /* Keywords */
+{
+ font-size: 10pt;
+ font-family: 'Arial';
+ font-style: italic;
+ color: #800000;
+}
+a.rvts4, span.rvts4 /* Jump 1 */
+{
+ color: #008000;
+ text-decoration: underline;
+}
+a.rvts5, span.rvts5 /* Jump 2 */
+{
+ font-size: 10pt;
+ font-family: 'Arial';
+ color: #008000;
+ text-decoration: underline;
+}
+/* ========== Para Styles ========== */
+p,ul,ol /* Paragraph Style */
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* Centered */
+{
+ text-align: center;
+}
+-->
+
+
+
+The Revolution�s Pig Contest, by counterparts199; part 01.
+
+
+
+�Stay away from the window; they�ll see you and come barging in before we can call nine one, one,� I told my wife.&nbsp; I picked the phone up, but my heart dropped when I realized that the dial tone was dead and had been so for over a week.
+
+
+
+�See me?&nbsp; My god, George, that�s the least of it.&nbsp; You know the rumors.&nbsp; They�re all over the neighborhood, starting at the end near the main road.&nbsp; They have us all trapped here in this part of the neighborhood.&nbsp; There was that frantic call from my Aunt last week when the phone went dead.&nbsp; Do you remember?�&nbsp; She paused as her eyes got big at something out there.&nbsp; She screamed, �Oh, my god ��&nbsp; My lovely forty-three year old wife pulled a shawl over her shoulders, as if hoping to keep both the chill and the threat of a gang of black men in our neighborhood away.
+
+
+
+�What is it?� I asked, going to join her at the window.&nbsp; I saw the trucks lined up near the end of the street.&nbsp; Across the street and down at the house closest to the main feeder road to our forty house cul-de-sac, Mister Daws and his wife were standing in front of their house - naked.&nbsp; Their kids were being pushed into what looked like a refrigerated truck trailer, it thick of walls and remiss of windows.
+
+
+
+Strange people in pale coveralls were inside of the distant neighbor�s house, a whole crew of them it seemed, all busy bearing out the furniture and sorting it into groups on the lawn or right into a stream of trucks.&nbsp; Other men were picking through the goods the minute they hit the lawn and putting them into a trailer full of boxes.
+
+
+
+�I can�t believe it.&nbsp; They�re stripping that house on the end of the block clean in nothing flat.&nbsp; Damn!&nbsp; Look, they�re starting to do the same thing to the next one and I think the one across the street from it too!�
+
+
+
+�It�s just like the rumors.&nbsp; Ever since the revolution,� said my wife.
+
+
+
+�Haw!&nbsp; There was no revolution.&nbsp; I watch FOX.&nbsp; Sure, some of the tone of their news did change that day a few months back, but it�s the same news crews.&nbsp; I know the faces.&nbsp; They say everything is fine and normal.&nbsp; �Don�t worry; be happy.�&nbsp; They wouldn�t lie to us.&nbsp; Even the President was on TV assuring us that the BHP, you know, that new black and Hispanic party�s takeover, had been appeased.&nbsp; President Jenna Bush comes from a good and solid family!&nbsp; She wouldn�t lie to us!�
+
+
+
+�Solid family?&nbsp; You have to be kidding me!&nbsp; They and the news propaganda have turned us into a country where only the richest few can have real jobs and healthcare.&nbsp; What did they think would happen when ninety percent of the country became Hispanic, black and poor white people with nothing but hamburger and WalMart jobs?&nbsp; Did they think they�d not have to live with the disenfranchisement?&nbsp; Did those guys at FOX and the other corporate owned stations think they could propagandize us, lie to us and spin us eternally without someone organizing and fighting back?&nbsp; No, I�ve seen your beloved FOX news, and I can tell you that the guys on there are sweating like pigs every time they talk now, probably with a gun to their heads, the way I figure it.&nbsp; They got their way too often, and nothing was there to let the steam off.&nbsp; Now it has exploded.&nbsp; Someone�s telling them to reassure us now.&nbsp; I can even see their eyes shifting during their delivery, and you might have noticed a whole new tone to their news.&nbsp; Someone�s in the studios and telling them to act like it�s all business as usual, when any fool can tell it isn�t,� said my wife, who, let�s face it, was a bleeding heart liberal who even voted with the BHP in the last election.&nbsp; It was the one thing that separated us most severely.
+
+
+
+�Rubbish,� I told her.&nbsp; In the mean time my heart fluttered.&nbsp; She was busy ranting at me and missed the Earlharts being dragged out of their house as well.&nbsp; I glanced over, pressing my head up against the glass and saw that the same thing was happening on my side of the street, only they were three houses into it over here; six away.&nbsp; Two more kids went into the truck.&nbsp; Its door lit up, allowing me to see some of the kids sitting on bench seats to each side as they ushered the other two in.&nbsp; They fastened the kids into some heavy duty seat belts and then closed the door again, cutting off the brief light as the truck backed up closer to us.
+
+
+
+I felt my face flush with a newfound and heightened level of fear.&nbsp; Maybe what my cringing wife was saying wasn�t rubbish after all, I was thinking as the gangs of workers got closer and I could see them better:&nbsp; All of the people hauling people out of their houses by force were big and black or Hispanic!&nbsp; The trucks were manned by Hispanics!&nbsp; Sure, some of the furniture movers and sorters were white, but all of the white workers wore strange looking coveralls and all of them had shaved heads.&nbsp; As I watched them pilfer another house, I saw that not one of the white workers as much as raised his head to meet any of the black or Hispanic people�s eyes.&nbsp; There was none of that four standing around and one working crap either.&nbsp; They all nearly raced to do the bidding of just a few big black men and women who seemed to be their overseers.&nbsp; Some of the white laborers were women, and some men, but each worked in different groups on opposing sides of the street, as if segregated by sex.
+
+
+
+Big bulges protruded at the ankles of the white laborers.&nbsp; I had the distinct impression that they were something like those home arrest devices.
+
+
+
+I noticed that the adult neighbors were starting to make two lines, one for men and the other for women, each to the opposing sidewalks.&nbsp; All of the neighbors out there in that line were naked, or nearly so, though the light was too bad to tell with my aging eyes.&nbsp; The fact that I knew every single one of them was revealing of the intent of these invaders as they got closer to my own house.&nbsp; It was pitch dark outside, so I could have been mistaken on a few of the details, but I suddenly dreaded that I didn�t think so.&nbsp; God of mercy, what was going on?
+
+
+
+Angela wasn�t watching, but was instead lecturing me:&nbsp; �So, smart ass, why did they fire you at the warehouse?&nbsp; Why did they revoke your license and why did the bank mistakenly foreclose on your car?&nbsp; Why did all of this happen to everybody on the block, for crying out loud!&nbsp; Answer me that, Mister smarty-pants Meredith Limbaugh fan?&nbsp; Why are there all of these new terrorist and disease emergencies, confining all of us to this part of the city?&nbsp; The National Guard is out there holding us in.&nbsp; The guys with the guns are all in uniforms.&nbsp; I can see more of them now, out on the fringes, keeping us from getting away.&nbsp; Don�t you see them out there on Lampton Street!&nbsp; Oh my god, look!&nbsp; They�re bringing the Winters boy back to that line.&nbsp; He�s limping and in cuffs.&nbsp; He must have been trying to make a run for it.�
+
+
+
+�Move over, and let me see,� I said, moving to the other side of the window to see what she was talking about.&nbsp;&nbsp; I saw just in time to catch them pushing the eighteen year old into the line of males.&nbsp; He was two back from his own father and three back from his granddad, all of them as naked as the day they were born.&nbsp; Some kind of chain connected them, making a kind of centipede out of the whole neighborhood.&nbsp; The Winter�s house was three beyond mine.&nbsp; Then I saw the national guardsmen flash by and into the house just next to ours.&nbsp; We were all in a trap!&nbsp; I turned to find my shoes and bent over to put them on so we�d be ready to run out the back door.
+
+
+
+�Forget the window.&nbsp; We have to get out of here,� I told my wife as I grabbed her arm.
+
+
+
+My wife persisted, as if she still needed to convince me that something was the matter.&nbsp; I think she was in shock, to be honest, because she was limp in my grasp and just kept on ranting her political junk: �There�s something going on, and they�re not telling us.&nbsp; They�ve saturated the entire cable with the illusion that everything is normal.&nbsp; Why is that?&nbsp; Why isn�t any of this on the news?&nbsp; Why is all of the news suddenly so bland and about nothing but Hollywood actresses?&nbsp; Why are all of the Billy O�Reilly shows old reruns?&nbsp; I�ll tell you why.&nbsp; The masses have finally had enough of being lied to while all of their jobs and security are being sold off to foreign countries by fatcat white men.&nbsp; Five percent of us have gotten everything while the rest have suffered more and more each passing year.&nbsp; That five percent used to be most of us, but has steadily dwindled.&nbsp; None of the votes are accurate even; the exit polls not even close to matching the official results.&nbsp; Nobody poor is fooled by the rich ownership society anymore, and now there are so many of them.&nbsp; They have put a plan into action, just like that radical author they put into jail said they�d do when it got this bad.&nbsp; Have you seen any more stories about him?&nbsp; Have you?&nbsp; Maybe he�s our real President now?&nbsp; Maybe this is his plan; it sure looks like the kind of thing he wrote about.�
+
+
+
+I slapped her to get her to stop, though I wasn�t a violent man and wished I could take it back.&nbsp; There was no time, so I shoved her down onto a chair and shoved her shoes on her.&nbsp; Then I pulled her up by her arm and tried to drag her towards the back of the living room, but it was futile, and she knew it, her body dragging.
+
+
+
+�Look, something�s wrong.&nbsp; I get it,� I said, loudly and to myself as I coaxed her away from the front door, hoping to gain the kitchen and get us out of the house before they came in.&nbsp; �Don�t you hear me.&nbsp; You�re right.&nbsp; Let�s get out of here!�
+
+
+
+Then I looked over and the look on her face shifted to personal accusation.&nbsp; For all of her warnings and omens, my wife seemed to understand that being right and liberal wasn�t going to save her from suffering any of the justice the rest of us white, lifelong Bush voters had earned us, now that the penance was due.&nbsp; She was right, but she was also in the wrong demographic and sure to suffer for our sins right along with the rest of us � double injustice in her eyes.
+
+
+
+Of course, I could be wrong, but the banging on our door was not polite.&nbsp; We both physically shook.&nbsp; I almost peed my pants in fact, as we bounced to face the doorway in one shake of utter terror.&nbsp; I turned to look at the back door that was through the kitchen, but bodies filled the glass behind it; all of them big, mean, black and in official looking uniforms.
+
+
+
+They didn�t wait for us to answer.&nbsp; The wooden doorframe splintered.&nbsp; Two men burst in, and shoved both me and my wife down to the floor.&nbsp; I�d tried to defend myself, but it was as if I didn�t even have hands, they were so well trained and used to the routine.&nbsp; Even before I got up, a bunch of those white workers in orange coveralls came in behind them and were taking the pieces of furniture closest to the front door out.
+
+
+
+I felt a knee on my back, and a pair of hands was tugging at my shirt.&nbsp; As soon as it slipped off, plastic tie-wraps were clipped around my wrists.&nbsp; I was fighting and kicking, but none of it delayed the cheap tie-wrap cuffs, I looked over at my wife, and saw that they were doing the same thing to her.&nbsp; A black male hand was carefully unsnapping her bra hooks, and then he brutally pulled the thing off in one yank.&nbsp; Her tits bounced to the side with the force, but then the knee was back onto her back, pushing her face first into our carpet.&nbsp; The rapist handed the bra over to an orange clad worker who already had both of our shirts in his hands.&nbsp; The worker had his eyes diverted, as if he didn�t want to see my half naked wife.&nbsp; He just stuffed my wife�s bra into a big box marked �underwear� before walking off toward our bedroom to collect more lingerie.
+
+
+
+Four men walked by with our couch, while two more were wheeling a dolly into the kitchen.&nbsp; They slammed it up to the refrigerator and then reached the dolly strap around.&nbsp; Smaller men and women in orange suits were clearing away nick-knacks on the furniture and pictures on the walls.&nbsp; I spent a few seconds watching all of this before I realized that the world had slowed down due to me being so completely overwhelmed and in shock.
+
+
+
+Fingers fumbled at my waist, drawing me back to real time.&nbsp; My belt was yanked free of the loops.&nbsp; A nightstick banged me across the sides of both of my knees, causing me to slow my kicking long enough for four hands to yank my pants off.&nbsp; Someone with a knife sliced my shorts free, telling me that they weren�t keepers.&nbsp; I again looked over at my wife and saw that they�d already stripped her completely naked.&nbsp; Her eyes looked over at me, wide in total terror.&nbsp; It was too humiliating for words, even if we had the courage to utter them.
+
+
+
+Plastic tie-wraps were put around my ankles after the socks were gone, but they freed my hands and yanked me up to a kneeling position.&nbsp; My wife got the same treatment, her older and sagging tits swinging from the suddenness of it.&nbsp; My own little dick was swinging limp and eager to hide.
+
+
+
+�Your wallets say you have been going by the names of Joe and Mary Wilcox.&nbsp; Is that so?�
+
+
+
+�What are you doing in my �� I started to say before he hit me in the mouth with a nightstick.&nbsp; I felt two teeth loose when the pain faded to numbness.&nbsp; A cap was missing and on the floor in front of me.
+
+
+
+�You do what I say or I�m going to hit your wife.&nbsp; Same goes for you, cunt.&nbsp; You speak, and I hit him.&nbsp; You keep on being chatty and don�t care for one another, I hit both of you.&nbsp; If I beat you both dead, then we don�t need none of this business anyway,� the man told us.&nbsp; �Now that we understand one another and you are properly put in your place, butt naked and on your knees where you belong, your hands are free so you can sign the paper.&nbsp; I, of course, insist that you do this of your own free will,� he explained as he put a clipboard in front of us.
+
+
+
+A pen on a string was with it.&nbsp; There were a stack of documents, but the one on top was ours, I guessed, our address having been quickly jotted on some of the topmost few lines.&nbsp; At the very top it simply said, �Power of attorney to dispose of the property, assets, legal entanglements, etc., etc., spousal commitments, and assume all rights to,� followed by the finest print I�d ever seen in my life.&nbsp; After a reference to supportive documents, supposedly attached, the names, Joe and Mary Wilsox were in type.&nbsp; A pair of lines for signatures were at the bottom.
+
+
+
+�We can�t sign �� I started to say, which ended almost immediately when the nightstick bashed into the face of my wife.&nbsp; She crunched over, but wasn�t knocked out, the blow also to her mouth.&nbsp; She wailed and cried, and spit out at least three teeth.&nbsp; When he prodded her up, she had a bloody tooth gap in the middle of her teeth that showed through her puffed up lips.
+
+
+
+�What are you pigs, fucking stupid?&nbsp; One more sign of disobedience and I will beat your wife so badly that she�ll have to be carried out!�
+
+
+
+I picked the pen up and signed the paper so fast that it didn�t even look like my handwriting.&nbsp; Obviously it was coerced, so it wasn�t worth dying for it, I decided.&nbsp; My wife hesitated, and only the turning of my head spared me a tooth due to it, though my ear still rang for half a day.&nbsp; Her hand trembled with weakness and fear, so her signature didn�t look anything like normal either.&nbsp; Still they�d extracted it, earning us both a fresh pair of tie-wraps around our wrists when our hands had been pulled back to our backs.
+
+
+
+�You stand accused of being vagrants and trespassers in a house that, according to this document, doesn�t belong to you.&nbsp; As you must have some debts, you are also debtors.&nbsp; The new law says that any white person owing debts and trespassing in someone else�s house is guilty of two federal crimes.&nbsp; The third crime is talking back to a peace officer.&nbsp; You are also guilty of being white and having conjugal sex between whites.&nbsp; Ain�t either of you vagrants working, I will assume.&nbsp; Three strikes you are out, and in your case it is up to four or five, or whatever.&nbsp; That�s life in America.&nbsp; Under the rules of military justice, I so sentence you.&nbsp; Since the jails are overcrowded with white folks already, the only practical thing is to make you our slaves until some better solution can be worked out.&nbsp; All slaves are pigs.&nbsp; All whites are slaves.&nbsp; So you are both pigs.&nbsp; Here are your pig tags,� said the black man.
+
+
+
+Two white people in orange coveralls came up.&nbsp; One grabbed my head and the other pinched my right ear.&nbsp; The one guy took a tool and crimped me in the lobe with a rivet.&nbsp; I felt a round tag affixed after the piercing jolt of pain.&nbsp; My wife cringed away, but the same pair of cowering white laborers did her.&nbsp; I could only see my own out of the corner of my eye, but seeing the one on my wife told me that the thing was round and a good four inches across.&nbsp; It didn�t swing like an earring, for it was held fast and tight by the one rivet.&nbsp; Hers was blue; mine was pink.&nbsp; Hers read, PIG-OH.&nbsp; Under that was the combination, TITS-756,336.
+
+
+
+�You can read huh?&nbsp; What�s the bitch�s name, pigboy?� The black man told me.
+
+
+
+I was terrorized, so I did my best to guess at what he wanted and said, �Pig Ohio, Tits, 7 5 6 thousand, three hundred thirty six.�&nbsp; It wasn�t right that he was doing this to us.&nbsp; I glanced at my wife�s mascara streaked face, and I could see that she was both terrorized and angry with me for not standing up to the man.
+
+
+
+�No, piggy!�&nbsp; He beat me on the side of the knee again with a short rap.&nbsp; �Too wordy for a retarded meat animal.&nbsp; Just tits, seven, five, six, three, three, six.&nbsp; Good enough for you.&nbsp; What do you care where she comes from and if she�s a pig or not.&nbsp; All whites are pigs, so that�s redundant.&nbsp; Do you think I am stupid?&nbsp; She�s white.&nbsp; That means she�s a pig, duh.&nbsp; Ain�t no reason to tell me that.&nbsp; Not that you�re capable of remembering her new name, but I like to think that even pigs want to at least try to remember the serial number of the pork they used to runt.&nbsp; Next time say sir too.&nbsp; I won�t take no more disrespect.&nbsp; Now, you, cunt, what�s the name of your former runtmate?�
+
+
+
+Her voice was a trembling whisper as she said, �Longpig, six, four, four, two, three, seven.�&nbsp; Her voice was shaking so badly that I barely could hear her.
+
+
+
+�Squeak, squeak, squeak.&nbsp; I can barely hear you, tits, when you don�t concentrate and start squealing like a pig before you are taught such an advanced skill as talking!�&nbsp; He reached down and grabbed a nipple, pinching so hard that I could see it purple.&nbsp; �What�s that you said?&nbsp; He�s a what?�
+
+
+
+�A longpig.�
+
+
+
+�Sir!�
+
+
+
+�Sir.�&nbsp; She was weeping as he persisted, his thumb rubbing across her nipple as his fingers squeezed.
+
+
+
+�Longpig, sir!�
+
+
+
+�Longpig, sir.&nbsp; Oh, please, stop pinching me.�
+
+
+
+�He�s a what, tits?&nbsp; And, this time say it like you mean it, you old, useless tit bag!�
+
+
+
+�He�s a longpig, sir.�&nbsp; He squeezed harder, so she yelled, �He�s a longpig, sir!�
+
+
+
+He dropped her tit and then put his hand over my ear tag, and asked, �What�s this longpig�s number, tits?�
+
+
+
+�Six, four, four, nine, nine, oh, I can�t remember, sir!�
+
+
+
+I wanted to reach over and throttle him, but I was in no position with my hands tied and him so big and with his whole army of support.&nbsp; Behind us the people were stealing everything in the house.&nbsp; I saw my treasured coin collection being moved, and then our office files with all of the family records.
+
+
+
+�That�s OK, bitch, because you are just tits and this ain�t man enough for you anymore.&nbsp; You have enough to live down, knowing that you let a longpig sow you for all those years.&nbsp; Ain�t no reason to remember his whole name, now is it?&nbsp; Ain�t no man anyway, is it, tits?�
+
+
+
+�Ain�t no man, sir,� she whimpered, thinking that she�d get off without any more molestation if she just went ahead and showed some enthusiasm, I figured.
+
+
+
+He let go of my ear tag and then said, �Alright now, let�s get these new fucking meat animals out of here!&nbsp; Come on, move those hams, you filthy piggies.&nbsp; Lots of fat on those loins, so let�s start working it off and leaning it up right from the start!�&nbsp; His hand reached behind us and yanked each of us to our feet by the painful lifting of our plastic cuffs.
+
+
+
+We were shoved across our barren living room, and then out the door between two orange covered laborers, one carrying our microwave oven and the other a box of my good suits.&nbsp; The living room in which we�d started was completely stripped, save some trash and dust.&nbsp; Even the curtain rods were gone; all of it in that first room gone in the three minutes it had taken us to sign everything away on one tiny form, get our faces smashed in by a nightstick, be raped naked and finally tagged like animals.&nbsp; One other thing too:&nbsp; We�d learned in just that amount of time to shut up and do as we were told.
+
+
+
+I couldn�t believe it.&nbsp; The night was chill, and goose-bumps arose on my arms and legs as I raced toward the line that had walked itself up in front of my own house.&nbsp; The terror of those within the lines was palpable.&nbsp; The one on our side of the road was men, and Old man Jennings was being hooked up as I was shoved in behind him.&nbsp; I looked around, seeing my wife being pushed across the road in little shrieks of pain as they swatted her ass and she pranced over the rocks in her bare feet.&nbsp; Once there, they swatted her to bounce up and down, laughing at her tits as they flopped like rabbit ears.
+
+
+
+I was dumbstruck by the array of female bodies standing on the other sidewalk.&nbsp; Almost all of the women I�d seen at one time or another.&nbsp; Like this though, other than their face, which they avoided showing as they hid behind one another�s shoulders, they seemed foreign.&nbsp; It was like something out of National Geographic, and maybe a bit out of one of those movies about the Holocaust.&nbsp; Every type of naked female body was represented, some young, some old; some obese, some anorexic; some tall and some short.&nbsp; Every pair of breasts was different, most of them not perfect in some way or another in our Playboy indoctrinated way of thinking about them.&nbsp; Some had big bushes of public hair, while on others I could catch a wink of lip from partial or full shaving.&nbsp; I couldn�t help looking, not from any kind of sexual attraction, but from the macabre novelty of the ordeal we were all made to share.
+
+
+
+Ties were cinched around the ladies� necks loosely, and than another long one that linked the tied wrists behind their backs to the ties looped around their necks.&nbsp; They looked like plucked chickens with their elbow wings sticking out of their backs.&nbsp; It was a strain for some of them, the ladies wincing in pain and bending over to avoid the discomfort.&nbsp; Those few with long hair were most fortunate, for it allowed them to hide their faces and in some cases, their breasts, though the short fashions were dominant.
+
+
+
+Once my wife was braced up with the tie-wraps, they connected her neck to the lady in front of her with yet another long one.&nbsp; She glanced over at me and moaned for help, afraid to scream out, but her eyes eager for some kind of salvation that I simply didn�t have at my disposal.&nbsp; Finally, she moaned again, casting her eyes down and was simply a part of the chain.&nbsp; As soon as she was done, the neighbor to the right of our house was set into line behind her, causing my wife to scamper nervously when the second neck was attached to hers, this one from behind and close enough for my wife to feel the bodies of both women abutting her.&nbsp; Some of the short women were straining on their toes, while the taller ones were hunkered down, making for all sorts of body to body configurations.&nbsp; It was like one big cluster-fuck, and all the more immodest for it.
+
+
+
+God, they were doing the neighborhood compact and fast, and would be done with the whole forty or so houses of us in a half hour or less, the way they were going, I realized.&nbsp; It was a classic Henry Ford assembly line.&nbsp; I was doing the math, and accounting for grandmothers and older siblings, each of our lines was sure to be well over fifty long by the time this abomination was over with.&nbsp; Then what?&nbsp; What did they plan to do with over a hundred linked human beings who�d been turned out and stuffed together like sausage links in the middle of the night?
+
+
+
+I trembled with uncertainty, taking all of this in within seconds as they shuffled me to the back of my own line.&nbsp; The pause to see my wife�s dilemma unfold was afforded by a brief lack of connecting equipment on my side of the road.&nbsp; The Hispanic woman responsible soon corrected that by refilling her pouch with materials from a van and then shoving me forward so that I almost touched the man in front of me.
+
+
+
+We were meant for heavier bonds, I realized, seeing in the dark that the man in front of me had some sort of handcuffs on his hands that had been fastened behind him.&nbsp; I felt the woman putting the same kind of cuffs on me.&nbsp; When they clicked tight enough, some kind of cutters were used to snip off the tie-wraps.&nbsp; That was helpful, for it gave my wrists enough room for circulation, which I was beginning to worry over.&nbsp; Finally, she came in front of me and knelt down.&nbsp; Her head was close to my cock when she did that, but in spite of a twitch, I wished my cock to hide, knowing that she meant me harm.
+
+
+
+I saw the manacle on the right ankle of the man in front of me.&nbsp; It was, in fact, a long chain with many manacles on it.&nbsp; The one a foot from the man in front of me was picked up by the female Hispanic guard.&nbsp; She smacked my ankle with it, the force alone swinging the cuff latch around and securing my right ankle to the man in front of me.
+
+
+
+I was part of the human chain, I realized, but the worst was yet to come.&nbsp; She grabbed the cuffs on the man in front of me, and I noticed a third cuff on the assembly.&nbsp; With a hand covered by a thin rubber medical glove, she grabbed by cock and balls as one, as if she had a lot of experience at such grabbing and knew just how to gather the whole package in one grasp.&nbsp; She then moved the third cuff over the whole wad of my genital and clicked the cuffs tighter than the one on my ankle and wrists.&nbsp; I took this as a message of particular disdain, and the glance she gave me confirmed it.&nbsp; It was an odd glance.&nbsp; One of pleasure, but at the same time, one of a woman who was too busy to dwell on it because she had hundreds, if not thousands of more little pleasures to amuse herself on in her profession of chain making our of hapless men.
+
+
+
+I was in utter turmoil.&nbsp; I was connected to the human chain, not once, but twice.&nbsp; To make matters even worse, the hands of the man in front of me were connected to my genital chain by only one link.&nbsp; He had no choice but to rest them on or mostly under my cock and balls.&nbsp; There simply wasn�t the slack to afford him otherwise.&nbsp; Then I felt my own hands being pulled back, and as quick as click, click, click, I was holding the cock and balls of Jim Baxter, my other next door neighbor.
+
+
+
+Throughout all of this, we were being cinched up and then marched forward at such a clip that nobody had any time to think about how we might organize and bull rush some faction and escape.&nbsp; The more men on the chain, the more unwieldy we were, and the more the prisoners of an immovable mass.&nbsp; It struck me that the bastards doing this to us would require less and less guards to keep us in order, the more of us there were.&nbsp; Soon, only one person would be needed to corral us all, maybe even both lines of us.
+
+
+
+Nerves were digging at us as well.&nbsp; I was weak with exhaustion, mainly from nerves.&nbsp; One of the men up front had pissed right on the sidewalk; not a soul complained, not even the guards, which told us that they were used to seeing us as nothing more than weak animals.&nbsp; This revelation only heightened my anxiety as the night dragged on and as we came to the end of the block that ended in a cul-de-sac.&nbsp; There, two semis waited with their back doors yawning and ramps awaiting.
+
+
+
+I saw my wife and her line stumbling up the ramp of the truck trailer beside ours.&nbsp; She didn�t even look over at me, her fright and stumbling on the ramp being too much of a distraction, and then she was gone � forever � followed in by another thirty or more women, all of them naked and weeping.&nbsp; No less than half of them stumbled up the ramps.&nbsp; Men with shocking batons and leather straps took advantage of any mistake and slapped those who stumbles, as well as those to either side, as they had to work together on the chain in order to recover.&nbsp; Women shrieked in despair, but it only increased the beatings.
+
+
+
+I realized once again that we were not human to them, as I stumbled up the ramp and saw the inside of the trailer.&nbsp; It was covered with straw and the smell was ungodly.&nbsp; Others had been in the trailer before us, signs of it being the smell and the wetness of some of the straw.&nbsp; In one place I saw blood, a pool of it so big that it was worth my distraction.&nbsp; I almost stumbled, but the hands on my balls prevented me from falling far enough to make a difference.
+
+
+
+A guard at the end locked the foot long lead on the first man�s collar onto a hook two feet from the floor.&nbsp; His face was shoved right up to the front wall of the trailer as others were shoved in and commanded to butt right up against him in order to make room for the lot of us.&nbsp; They had numbers on the wall, one to sixty, and when I got to twelve, a young and not unshapely female black kicked my ankle.&nbsp; I fell to the floor, seeing it as her intent.&nbsp; Mostly though, as tightly bound as our hands were to each other�s genitals, the whole of us went down as if a wave.&nbsp; We were soon all in, and the last man, number 55, secured to another round eyelet of heavy metal that had been bolted on by the swinging doors.
+
+
+
+The doors closed, pitching us into blackness.&nbsp; Nobody spoke.&nbsp; Some of us were weeping like women.&nbsp; Finally, I said, �This can�t be happening.&nbsp; Someone will notice.&nbsp; They can�t just take over a whole neighborhood and ship everybody off like animals!�
+
+
+
+A red light flashed from up above, followed by the loudest PA horn I�ve ever heard.&nbsp; My ears were nearly bleeding even before the female voice commanded, �Silence!&nbsp; First warning!�&nbsp; The PA itself was punishment.&nbsp; Nobody answered me but the ringing in my ears.
+
+
+
+The silence dragged on while the truck waited patiently with its engine rumbling, but not engaged.&nbsp; I could smell the diesel smoke, thinking it better to my nose than the foul human waste smell of the straw just under my butt.
+
+
+
+Someone well behind had an idea, saying with a whisper that carried in the cave-like trailer, �Let�s lie down.&nbsp; It�s probably going to be a long and uncomfortable ride.�&nbsp; It had occurred to me as well that we�d not be able to even lie down if it wasn�t a group decision.
+
+
+
+The PA horn shook the trailer once again, followed by the warning, �Second and last warning!�
+
+
+
+The line of us started to sway towards the far side wall, and somehow we all managed to get ourselves laid over.
+
+
+
+Suddenly, the men closest to each end were both pleading for us all to get back up because their neck chains were only a foot long and the eyelets were two feet off the ground.&nbsp; That meant that they couldn�t lie down and the further the man beside them went to the ground, the more of a hopeless strain it was on them.
+
+
+
+The PA horn blared and the command was simply, �Stand by and do not resist!�
+
+
+
+�God, damn it!� I screamed.&nbsp; My nerves were shot and my emotions were peaked and my mind was thinking that the last thing any of us needed was more attention from the bastard women who were guarding us.&nbsp; Others, too, were moaning as they heard the locks on the trailer door being unlocked.
+
+
+
+We�d been in the dark long enough to be blinded by the slight brightness of the suburban streetlights.&nbsp; That was followed by two flashlights that probed the mess of us.
+
+
+
+�Get up, pigs!�&nbsp; Screamed the first woman up into the trailer.&nbsp; She kicked the first man so hard that thought I could hear one of his ribs breaking.&nbsp; We all struggled upwards, and it was a huge struggle, the mass of us being so unwieldy.
+
+
+
+There were two of them, both in trucker dungarees, but both with those ugly looking electric cattle prods.&nbsp; They walked by counting, �One, two, three, four.�&nbsp; When they got to four, one of them would put the cattle prod to a man�s genitals and light him up.&nbsp; There was a scream, and then the whole chain shifted uncomfortably and the whole of us struggled to get back up on our knees, which was the best we could do.&nbsp; �One, two, three, four, and then the next fourth person was shocked in his nuts.&nbsp; They missed me by one man short, but I swear that I could feel the shock in my own nuts.&nbsp; I know that my hands did, them linked to the man�s nuts by the tri-cuffs.&nbsp; One of my little fingers actually went numb from the shocking voltage.&nbsp; Then I had to do what I could to hold him up when all of his weight fell into my hands and all I had to hold him up with were his balls and cock.&nbsp; The man behind him, of course, was doing his part as well, both with his body and his neck.
+
+
+
+I felt nauseous, but held it back until the women left us, a quarter of us maybe half sterile.&nbsp; The door closed, and I heaved into the straw as far towards the far side wall as I could get it.&nbsp; That started it, no fewer than a quarter of us adding to the stench before it subsided.
+
+
+
+The PA horn sounded, cutting off the regurgitations with the warning, �That�s the first warning!�&nbsp; All of us fell into the deepest silence I�d heard all day.&nbsp; Those who wished to clear their throats, swallowed.
+
+
+
+After a while a truck cab groaned somewhere close, and I heard the one holding the women depart.&nbsp; We waited what seemed like twenty minutes longer.&nbsp; I realized that my wife was gone, and the longer time passed, the further we were separated.&nbsp; We weren�t far from the freeway, so she could be as many as ten or fifteen miles off by now, I bemoaned.&nbsp; Finally, our truck cab engine groaned a few times and then the gears were engaged.&nbsp; We leaped up and down and up a few curbs as we turned and made our way down what felt like a lawn and some driveways, crosswise and finally into the main street.&nbsp; We swung around some corners, stopped twice, and finally I felt us accelerate onto the freeway ramp.
+
+
+
+We were all still kneeling.&nbsp; Every slight movement of the truck made it hard to hold position, mainly the brunt of it in our knees and backs.&nbsp; All of us were afraid that if we found better positions, we�d strain someone in our group and he�d be forced to complain.&nbsp; The man behind me was still trembling, and I was still doing a lot of the work holding him up by his nuts.&nbsp; Everything about that was wrong, and I didn�t have the guts to want to see a repeat of it.
+
+
+
+Time went by though, and as it did, it seemed like hours.&nbsp; Gradually the line shifted so that most of us were sitting on an ass cheek, doing what we could to stretch our legs out some and hoping that the whole of the line didn�t get kinked or something and someone be forced to complain.
+
+
+
+I was getting thirsty and tired, it all had happening close to bedtime, and the trip was running into the hours.&nbsp; Then I noticed a little bit of light peeking through a seam in the walls as the sun of morning came up.&nbsp; Most of the light was on the far side of trailer, I realized, a razor of it showing on the side of the trailer closest to my back.&nbsp; That meant that we were going west.&nbsp; We�d stopped for gas, and then we did again, and my math told me that we�d done at least four hundred miles west.&nbsp; Maybe it was Kansas, I thought, understanding that the state was a sea of corn, wheat and just about nothing else.
+
+
+
+There was no lessening of the misery.&nbsp; I tried to shift butt cheeks, but it was almost impossible to get everybody to shift as a team, so I suffered.&nbsp; Someone down the line had apparently taken a shit.&nbsp; Lots of people had pissed.&nbsp; There didn�t seem any point in saying anything about it; our dignity was no longer an issue.&nbsp; Just about at the same time I thought that, the man behind me pissed into my hands.&nbsp; I jerked my fingers away as best I could, but then it splashed across my leg where I had it cramped under me.&nbsp; I just let it happen; what was the point in pretending it mattered.&nbsp; He tapped the back of my head with his own, saying he was sorry, I suppose, given that he was also whimpering like a baby.&nbsp; Then he whispered, �Sorry,� so low that I could barely hears him over the road noise, even with his mouth up to my ear.
+
+
+
+�This is warning number two!&nbsp; Talking is not permitted by white pigs!�&nbsp; The PA roared.
+
+
+
+I couldn�t believe that they�d heard that.&nbsp; Maybe they were using some kind of infra-red camera.&nbsp; Maybe there was a voice recognition computer at play.&nbsp; Whatever it was, it was clear enough that we simply were not going to get away with any disobedience at all.&nbsp; This was beyond merciless, I thought.&nbsp; They were tormenting us to death.&nbsp; I couldn�t live this way, I realized.&nbsp; Why don�t they just take us out and murder us, I thought.&nbsp; Then I thought, maybe they were?&nbsp; Maybe they were taking us to some kind of new, America Auschwitz?
+
+
+
+The whole day passed.&nbsp; It got hot in the trailer cab, the air so stale that I didn�t think I could breathe it anymore.&nbsp; The tiny crack of light faded, and then it was pitch black again.&nbsp; We�d stopped for gas five times, clearly indicating a crew of two or more up in the cab.&nbsp; Somehow I managed to get to sleep leaning over the body of the man in front of me.
+
+
+
+I was woken up by somebody screaming, �Stop. No!&nbsp; You have to quit.&nbsp; You can make it, Henry!�
+
+
+
+The PA blared, �That is warning number three.&nbsp; Return to your knees, facing halfway between forward and the center of the aisle, slaves!&nbsp; You will face the floor in front of you and not offer any resistence.&nbsp; Failure to comply will result in severe penalties for all of you!�&nbsp; We all tried to get up and turn a little, as best our handcuffs and attached genitals would allow.
+
+
+
+The truck stopped and the back doors came open.&nbsp; I saw the freeway, barren and desolate in the late evening.&nbsp; We were on the berm.&nbsp; This might be the perfect time to attempt an escape, I thought, knowing that there�d probably only be the two drivers.&nbsp; I nudged the man to either side of me and made eye contact just before one of the guards could make it up to the bed.&nbsp; The men beside me were in bad shape, I could tell, but they weakly nodded, and then they both nudged the men beside them.&nbsp; We were going to do it, and maybe even die trying, but I was beyond caring about my health by then.
+
+
+
+The first thing that happened was unexpected.&nbsp; The lady pointed her cattle prod at the neck chain and shocked the first four or five of us by triggering it there.&nbsp; The first few slumped, and then she came in further, the second driver behind her with a second cattle prod.&nbsp; Any revolt from the first few was stopped in its tracks before it could materialize.&nbsp; When she�d gotten past the first four or five, she said, �One, two,� and then shocked the testicles of the man who was unfortunate enough to be the second numbered one.&nbsp; She went past one and then got the next.&nbsp; It was clear that it was to be every other man this time.&nbsp; My odds were going to be fifty-fifty that I was going to have my nuts electrocuted.&nbsp; Maybe even worse, the odds were fifty-fifty that each of the men to the sides of me were going to need me to hold them up after they�d been shocked into neuterville.
+
+
+
+The lady behind her was safe, given that the whole line over there by the door was in bad shape and unable to coordinate itself; thus the first lady always had a good backup.&nbsp; I didn�t think our plan had a chance in hell upon seeing it.
+
+
+
+Then I started doing the math, even though it was hard because we were all looking down, faced a bit away from the rear and not supposed to be watching all of this.&nbsp; I just couldn�t tell if I was to be the one or not, glancing about being even harder as they got close.&nbsp; I decided that it didn�t matter.&nbsp; I was going to shove the lady into the far wall as soon as she got close.&nbsp; It was probably not going to work, but I didn�t care if they killed me anymore.
+
+
+
+She got one man from me, and put the wand close to the genitals of the man behind, just like last time.&nbsp; Instead of taking it though, he stool my show and bashed forward.&nbsp; I gave him the slack, and went with him, as did the man behind him.&nbsp; The lady just behind the one doing the punishment had gotten too close, and she went down with the first one.&nbsp; It was the second lady whose head hit the wall.&nbsp; I could see her eyes go blank even before she sagged to the floor.&nbsp; Someone got a hand on one of the wands, and struggled to reverse it as the closer lady tried to get up.&nbsp; The wand went off, and she shrieked.&nbsp; It took forever to charge back up, it seemed, but it was only a couple of seconds really.&nbsp; Then she got lit up again.&nbsp; We were such a jumbled mess and had nearly no ability with our hands, so we couldn�t do much more than wait for the damned thing to charge again before the man two men behind me got the damned thing charged up once again and shocked her at the base of her skull.&nbsp; After that the black lady truck driver stopped moving, but I was pretty sure she�d recover.&nbsp; The stuff in the wand wasn�t made to kill a healthy person, but it sure was going to leave the lady in front of me with a bad headache.
+
+
+
+Not to mention a piss poor disposition, I realized when we�d all come to notice that we were alone in a trailer and all bound up with a couple of knocked out female wardens on the floor beside us.
+
+
+
+I saw car lights flashing, closing, and then streaking by.&nbsp; They could not see us too well, though I suspected that any man or woman free enough to still use the roadways would not be our salvation.&nbsp; Someone honked a horn, as if saying hello and goodbye, the Doppler sound reminding us of how far out in the country we�d been stranded.&nbsp; I grew sure that the few cars that passed us, roughly two every couple of minutes, couldn�t see much of us inside, save for the naked few in the very back and they were still sagging as if to hang themselves.
+
+
+
+Some black youth yelled out of the rear window of a passing car.&nbsp; �Hey!&nbsp; Whatsup wit da delivery!?!�&nbsp; As one of the back doors slowly creaked back and forth in the breeze, the PA blared, �That is warning number one!�
+
+
+
+�Oh, fuck!� I said, the obnoxiously loud and inventively programmed PA replying, �Pigs are to remain silent. That is warning number two!&nbsp; Oink!&nbsp; Oink!�
+
+
+
+Nobody knew what to do for the first whole minute of this, but then we did.&nbsp; We struggled forward, an uncoordinated mess, and then various hands and attached genitals searched the pockets of the drivers.&nbsp; We found a change purse and some gum.&nbsp; There was what looked like a spare truck key.&nbsp; We tried it, but it wasn�t even a close match to our locks.&nbsp; I started shaking my chains, and it was complete waste of time.&nbsp; A lot of time went by as we all searched from ankle socks to hairpins.
+
+
+
+It got to the point where some of the men were saying that we needed to be more careful, lest they wake up and find us groping them.&nbsp; That was an admission, of course, that we�d failed and some of us were formulating strategies to minimize the damage of our failed escape attempt.&nbsp; �Maybe they�ll think they just slipped,� someone said; we down to preposterously unlikely hope.&nbsp; I had to remind them that we weren�t prisoners, but victims who had been treated harshly, and were not inclined to be treated any worse, regardless.
+
+
+
+�That assumes there is some kind of law to protect us.&nbsp; What if the law is different?&nbsp; What if we are prisoners due to some new law?&nbsp; It doesn�t matter what you call it, we�re still what they say we are,� yelled one of the men down by the door.&nbsp; They, of course, had had the worst of it so far, and were sure to be seeing more if we didn�t get loose.&nbsp; All the while, of course, the PA was interrupting with its ear shattering messages of one, two and three warnings to the pigs and slaves that the mindless thing assumed we all were.
+
+
+
+�Fucking, goddamit!� I said, leaning back with surprisingly little resistance, given that everybody had abandoned the fruitless search of the pockets and persons of our unconscious black female drivers.&nbsp; Their clothing was a mess with all of the buttons and tails disheveled and the pickets turned out.&nbsp; It would be an easy case of rape if they produced pictures, though nobody had actually had any such thing in mind.&nbsp; A quarter hour passed.&nbsp; Cars went by, one at a time on the lightly loaded plains freeway.&nbsp; The men who had been badly shocked recovered, though we all were in utter horror at what we�d failed to finish.&nbsp; The waiting was unnerving; the time passing in slow, lingering seconds.
+
+
+
+Then another pair of headlights came closer.&nbsp; We saw the lightbar on top of the cruiser.&nbsp; Maybe we could show the cop that we were being inhumanly held and he was our salvation?&nbsp; He got out of his car.&nbsp; It was dark out, but I was pretty sure that he looked white.&nbsp; My heart leapt with joy.&nbsp; Then as he got closer my hopes fell.&nbsp; He was light skinned, but still a black man.&nbsp; He sized up the situation with a flashlight, saying nothing.&nbsp; Then he drew his gun, backing to his cruiser and making a call.&nbsp; Not ten minutes passed out there in nowhere before a couple more cruisers came up.&nbsp; They held us all at gunpoint, with our heads down and facing the closer wall, before dragging the women out of the trailer.&nbsp; One of them was coming back to life before she was even out of the trailer.&nbsp; With some smelling salts, the other one woke up as well, though she�d been shocked enough to get up much more gingerly.&nbsp; Amazingly, neither of them looked so ill as to need a trip to the hospital, it was assessed.
+
+
+
+�You girls need to do a better job than this.&nbsp; Didn�t you get no training?&nbsp; You�re lucky you�re still alive.&nbsp; You should know that pigs can be dangerous if left unattended?�&nbsp; Shouted a supervisor when a van pulled up.&nbsp; Damn, they�re in trouble now, I said to myself, seeing some hope in the distance of the criticism.&nbsp; Then the recovered women were all apologies and such, as a medic bandaged one head and had the other one do the equivalent of a sobriety test.&nbsp; The verdict seemed to be that for punishment they�d have to finish the trip, headaches and all.&nbsp; Pain pills were passed around.&nbsp; I saw the two women glare at us with a much more personal kind of hate, and then go around to the cab after the supervisor looked them over to make sure they were in enough order to actually do what he�d told them he intended them to do.&nbsp; Not once in all of this did any of the people out there give us more than a glance.&nbsp; We just didn�t matter, once the first cop had ensured that we were still locked tight in our original chains.
+
+
+
+The women tucking themselves back in nicely and went up to the cab.&nbsp; In the end, the cops just shut our doors and locked us all back up, no worse for the wear.
+
+
+
+�This is fucked,� one of the men said.
+
+
+
+The PA blared for the tenth or twentieth time since we�d overcome the women, �That�s warning number two!&nbsp; Prisoners will be quiet, or severely punished.�&nbsp; The last sentence was always inventive.
+
+
+
+The truck made it to another gas station and then a few more miles of highway before it pulled over.&nbsp; Dawn was creeping up.&nbsp; I had been dreading this.&nbsp; The doors swung open, and the ladies were there with their batons in their hands.
+
+
+
+�Alright, whities, here�s how it is going to be.&nbsp; I want every swinging dick of you facing the center while on your knees.�
+
+
+
+We all shuffled as best we could, the arrangement of our cocks and handcuffs preventing too good of a job of this.
+
+
+
+�By the count of three, I want to see every last one of you pissing in the hands of the man behind you.&nbsp; Cup your hands, pigs.&nbsp; When we walk by, you�d better all be holding at least a cup of piss, or you will regret it!�
+
+
+
+I didn�t even think about disobeying, and neither did the man in front of me as I pissed into his hands and I did my best to keep my hands cuffed and also hold the man in back of me.&nbsp; I held his dick so that it wouldn�t flip over and pee on my back instead.
+
+
+
+It was while holding the piss that they zapped the chain.&nbsp; The added conductive liquid had us all jumping with just the one hit.&nbsp; Then they stepped into the foul truck trailer a few feet and zapped the chain again.&nbsp; I struggled to hold the piss in my hand, my mind not doing a good job of figuring out that holding the piss wasn�t the point, and that it was going to be impossible to do it anyway.&nbsp; While the first lady stayed well back, the one that had gotten her head banged nicely came in and zipped the genitals of every single one of us.&nbsp; She waited until a few of us could manage to get back up on our knees.&nbsp; Some she even commanded to piss again, waiting until the foremost man�s hands and the backmost man�s balls were soaking wet before administering the shock.&nbsp; She started beating the ones who couldn�t get back up on their knees with a heavy leather strap.&nbsp; Then she went back to the front of the line and stood in front of the first man.
+
+
+
+�Open your mouth, white boy!&nbsp; I want to fry your tiny little brain so it can�t come up with any new ideas of disobeying your new black owners!�&nbsp; She commanded, threatening his balls again by waving the wand up and down from his mouth to his nut-sack.&nbsp; I couldn�t even imagine the threat and the pressure the first man was under.&nbsp; My own balls were feeling as if they were fighting each other in a boxing match, and I�d have let her shock any other part of me than my nuts at the moment.&nbsp; All of my bones had this dull ache to them from the shocks.&nbsp; I was still trying to catch my breath from the chain having half hanged me while I�d last been stunned too.&nbsp; The men on the ends were the worst for it, their chains up on the wall and inflexible.
+
+
+
+The first man by the door was beyond any kind of mental sanity.&nbsp; He made the only decision he could, the one the woman had demanded.&nbsp; He opened his mouth.&nbsp; Maybe he was hoping that by doing so she�d kill him and give him some peace?&nbsp; I�d have done what he did.&nbsp; Surely the woman was kidding him and wouldn�t really shock his open mouth, I reasoned.
+
+
+
+She put the wand into his mouth, shoving it in so deep that he choked, and then she surprised us all by pulling the trigger.&nbsp; His head banged back, and a quarter of the line went with him.&nbsp; �This might help you all remember!&nbsp; No talking.&nbsp; No disobedience.&nbsp; No attitudes or unauthorized glances!&nbsp; No attempts at escaping.&nbsp; You will yield to your new life and situation at all times.&nbsp; Pigs!�
+
+
+
+Then she counted, �One, two,� and stopped in front of the third man in line.&nbsp; �You will open you mouth when counted.&nbsp; There will be no hesitation or we will repeat the exercise.&nbsp; Open your mouth and let me fry some of your tiny little white brain cells, slave!� She said while holding the wand on the third man�s balls.&nbsp; He opened his mouth.&nbsp; She raised the wand, pushing it into his open mouth.&nbsp; Then she shoved it up to his tonsils.&nbsp; The man was choking by the time she pulled the trigger.&nbsp; Two men were now sagging and hanging themselves on the far end.&nbsp; I thought they were both dead.&nbsp; It wasn�t until the fourth man shocked that I saw the first man take a breath and start to recover.
+
+
+
+This went on until I discovered that I was fucked.&nbsp; I was a two.&nbsp; I only half opened my mouth, or so I thought, the utter fear really the one in control of my body.&nbsp; She shoved her weapon in past my loose teeth and then so far that I had to swallow the tip of it.&nbsp; �That�s it, swallow my cock, bitch!� She railed.&nbsp; Damn if it wasn�t in my throat.&nbsp; My tongue was wrapped around the base of it, as if to hold it and keep it from slipping too far back.&nbsp; If the end of the thing came off, I�d choke to death, I feared before she lit it off and my head slammed back.&nbsp; I passed out.&nbsp; I woke up still choking up the little I still had of a two day old meal in my stomach.&nbsp; The tormenting black truck driver was six people down and still doing it.&nbsp; I was dizzy and had a sick headache, and parts of my brain felt numb, as if whole bunches of brain cells had been smoked.&nbsp; The repeated shocks down the line could still be felt on the common chain, giving me relapses.&nbsp; I thought up my own name, and when I found it I gained some hope that not too many of my brain cells had been burned up, though I was sure that I�d permanently lost a few points of my IQ.&nbsp; On the floor under my dick, yet another puddle had formed, though I couldn�t even remember having pissed a third time in my neighbor�s hands.
+
+
+
+I knelt there with my head bowed and looking at a spot on the floor two feet in front of me as she passed by and stood by the door.&nbsp; My nose held the smell of burning flesh even when I wasn�t breathing in.&nbsp; She said, �There will no longer be three warnings.&nbsp; First, second and third warnings are the same.&nbsp; Next time it will be each and every one of you, too.&nbsp; First on your useless balls and then in your cocksucking mouths.&nbsp; If we are not respected, some of you will not survive this trip.&nbsp; The rest of you will come to understand your situation.&nbsp; Is that clear, pigs?�
+
+
+
+We all nodded.&nbsp; Not a one of us as much as moaned, though some of the men I imagined to be so far out of their minds that it was the only way they had remaining to speak.&nbsp; Just before the door closed, I looked down the line at each of us and noticed that some of the men were drooling and wild eyed, as if they�d had their brains lobotomized.&nbsp; If there was a weak heart among us, someone would have been dead by now, I thought, it being just about the only moment I�d thought up something to be thankful for.
+
+
+
+The truck returned to the road, but the lady lied.&nbsp; After two more hours, it stopped and in spite of the fact that we�d been quiet and the PA hadn�t issued any warnings, the women returned, doing otherwise as promised and shocking every single one of us on our hopelessly abused nuts and then every other of us in the mouth.&nbsp; That I was spared, being an even number, but as a part of the line I suffered from it anyway.&nbsp; I�d already lost enough fried brain cells to even think about escaping.&nbsp; Nobody said a word.&nbsp; Nobody looked up.&nbsp; Nobody refused to open his mouth and let her stick the wand in.&nbsp; We were as putty in the black lady of death�s hands.&nbsp; I don�t think it was enough for her, but I suppose that she couldn�t intentionally kill us for some reason unknown to us all, and thus was constrained to do no more harm than she did.&nbsp; An hour later the morning was well up and the truck shimmied back into some kind of dock.&nbsp; We�d been a day and a half in misery and utter terror.
+
+
+
+I didn�t have a clue as to how I was going to get out of the truck.&nbsp; I didn�t think that anything on me was still working.&nbsp; I was sick and sore and stiff and tired and nearly dead with thirst.&nbsp; It was no longer about the petty stuff like pain and dignity.&nbsp; Even the loss of a few brain cells seemed petty; we unlikely to need them for what they had in store for us.&nbsp; All of those concerns were gone and much further from me than even my home, two days down the highway.&nbsp; I�d even forgotten about my wife.&nbsp; When the thought of her came back to me, it came with a shudder of concern that I simply didn�t have the strength to allow continue.&nbsp; I resigned myself to the self defense of brainless subservience.&nbsp; I was sure I�d need as much of the skill as I could muster for the foreseeable future.
+
+
+
+Then the doors opened.&nbsp; Six well spaced, heavy, black and Latin women in uniforms confronted us with dogs, two assault rifles and smiles.&nbsp; Behind them was a maze of piping and heavy chains.&nbsp; I couldn�t make sense of it in a glance, and dared not stare, knowing that I had to concentrate upon keeping my eyes down, lest I draw attention to myself.&nbsp; I felt that my best strategy would be to remain as small as possible and not draw attention to myself.
+
+
+
+The smallest of the guards, an attractive Latin lady in her middle years, stepped up and said, �Welcome, pigs.&nbsp; I hear that you have all been disobedient.&nbsp; This pleases me to hear.&nbsp; Usually they restrict us in how many we can cull on the first day.&nbsp; Your rebellion, however, will save us some space and trouble, while it also allows us to show you how things are here more swiftly than we normally do!�
+
+
+
+I did not like the tone of that.
+
+
+
+I was right; subservience was the only skill I�d need to master.&nbsp; I kept my eyes on the floor; it was for the better that I did not know, nor relish even the next moment of my new life as a pig in the food-chain of the new order.
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Revolution�s Pig Contest, by counterparts199; part 02.
+
+&nbsp;&nbsp; The truck doorways were pulled all of the way open, and then a terminal of pipes and metal fencing were laid in front of the truck opening.&nbsp; The first man was unlocked from the truck and then his head was guided into a neck brace that ran between two horizontal rails that hovered about four feet off the floor.&nbsp; The rails were supported by long rods bolted into the metal ceiling beams.&nbsp; It was an odd arrangement that left most of the floor open for the women to duck under the piping and walk around on, while everywhere above four feet was a maze of metal supports and railing.&nbsp; The rails that held the first man�s head were a foot apart.&nbsp; Small metal extensions from the neck brace were permanently set into the rail slots to each side.&nbsp; In the middle was a half moon shaped place that they put the man�s neck.&nbsp; Then a swiveling back half moon part was clamped in back, holding the man�s head above and between the rails so that he couldn�t do much beyond walk to wherever the rail assembly allowed.&nbsp; A simple touch was all they needed to unfasten it, I later noticed by examining the back of the assembly of the man in front of me.&nbsp; The way our hands were affixed, no man could get close enough to even touch the metal bondage that the women could easily remove with a mere touch of the hasp clamp.
+
+&nbsp;&nbsp; When they were done clamping the first man�s head into place, they took the other neck chain off and unlocked the genitals of the man behind him from the tri-cuffs.&nbsp; Thus, the man was secured to the rails alone.&nbsp; With his hands still cuffed behind him and his neck confined to the device between the rails, they led him forward to nearly the end of the big receiving room full of railing and pipes by a short black woman who simply guided him to the place she wanted him to go.&nbsp; The lady doing the guiding was under four feet tall, an ideal height for the job, I understood.
+
+&nbsp;&nbsp; That done, each of us was affixed in turn.&nbsp; Some were too weak to stand, so they persuaded them by pulling them up, a big black woman to each side, and a third to secure him into the neck brace where the man had no choice but to support himself or hang himself to death.&nbsp; The neck device extensions must have been on ball bearings, for it only took one woman to guide we prisoners forward, even if our feet dragged, offering only resistance.
+
+&nbsp;&nbsp; When it was my turn, my heart did palpitations.&nbsp; I was genuinely afraid of the women who sternly took charge of my body by grabbing both of my elbows.&nbsp; The third one concentrated on her business and had me clamped into my own neck harness in a well practiced second.&nbsp; I heard the back brace squeak forward and then clamp, knowing that I was just a head above the tracks and that my body was at their whim below them.&nbsp; The neighbor�s cock and balls left my hands, having been separated at last, as did the other cuff around my neck.
+
+&nbsp;&nbsp; It was a maze of pipes and tracks up where I could see, but the women had complete freedom and ownership of me down below where the rest of me was.&nbsp; I was being moved along by a combination of touches and my utter horror at what they�d do to me if I wasn�t utter putty in their hands.&nbsp; Just ahead, one line of tracks led off to the back of a man just as remiss of freedom as I.&nbsp; A pair of hands from a body I could only catch pieces of below the metal assemblies, led me and not too gently guided me further forward as if I was just another piece of arriving meat from an endless precession of cattle trucks.&nbsp; I could hear them too, other trucks outside, and to the separated and walled off receiving bays to each side, the processing going on around us, both in separate worlds and telling us that we were a part of a much bigger picture than the little world above our small subset of tracking.
+
+&nbsp;&nbsp; They finished offloading their quota.&nbsp; A handful of men were still in the truck by the time they�d come to the count of fifty and slammed the truck doors shut in their face.&nbsp; The big bay door to the warehouse receiving room was shut next.&nbsp; I had no idea where they were taking the few leftovers, but I did hear the truck�s breaks exhale, and then the roar of the engine, taking them away, probably to some other room like ours that was short a full fifty heads.&nbsp; Then it was just us fifty heads, fifty naked and tormented bodies, and of course, three much in control women in the end.&nbsp; It could have been one woman, for the freedom of action the fifty of us had at hand.
+
+&nbsp;&nbsp; Going down the lot of us, one woman read the tags on our right ears while a second recorded the numbers on a ledger.&nbsp; I caught one small peek at the ledger, and saw that it was a whole spreadsheet dump on each of us, each column a code that implied more information about us.&nbsp; Knowing that they cared to know more about us than our numbers, I felt even more naked than before.&nbsp; I�d been somehow categorized, and didn�t know the categories that the second and third woman mulled over between ear-tag readings.
+
+&nbsp;&nbsp; The third woman made all of the final decisions, marking each of our rumps with a series of markings in both a red and black marker.&nbsp; I was mostly just a head above all of this, and couldn�t see most of the markings, nor was I brave enough to shift around what little I could in order to draw attention to myself while attempting to do so.&nbsp; Still, terror had the opposite effect of making me want to know all that I could in order to up my chances of belaying more torment, and so I did manage to read a few of the markings while the ladies were attentive to the task and not our curiosity.&nbsp; The markings were a series of abbreviations, I realized.&nbsp; Then the lady used her red marker on Jesse Harris�s thigh that read �FAG�.&nbsp; I hadn�t known that, but he was a meticulous person with his yard, I recalled, which I knew to be something of a stereotype.&nbsp; Soon they were up to me, and I stiffened as if to attention while they mulled me over.&nbsp; The third black woman who made the decisions pinched my belly, and shook her head negatively before marking my thigh with only the black marker.
+
+&nbsp;&nbsp; They moved on.&nbsp; I was so relieved that I almost pissed the floor due to nerves.&nbsp; After the relief, the humiliation hit me.&nbsp; I�d been marked again, this time like a side of cattle.&nbsp; I recalled the blue dye found in the outer fat of some of the cuts of beef I�d bought in the grocery store.&nbsp; Damn, that was the wrong thing to think; I was starving.&nbsp; Anyway, the marking carried the same feeling I�d had when that man had tagged my ear, only I was further into the process.&nbsp; All of that got me to thinking and I realized that I was angry and thinking about lashing back for the first time in a while.&nbsp; This time was different.&nbsp; Lashing back was history; all I wanted to do was hide in the masses and not draw attention.&nbsp; We had to get on with whatever was going on because the transition from what I was and into what they were sending us too was too long and brutal to endure much longer.&nbsp; Some of us were nearly dead from the abuse and neglect.
+
+&nbsp;&nbsp; Finally, they finished with our markings.&nbsp; They walked up to the man they�d labeled, �FAG�.&nbsp; One of them unclasped a bar that led to a side railing.&nbsp; There were four of these railings that branched off to the right of the main line we all were attached to, all secured by a crossbar over the railing that could easily be swung free by anybody with a hand not cuffed behind them like we were.&nbsp; Only the central portion of the bay was even in use, leaving lots of space to the sides for individual attention in these offshoots, particularly to the right of us where they led Jesse Harris�s body.&nbsp; He was young, and in pretty good shape, I noticed.&nbsp; They could have just as easily have singled him out for that, given that most of us were middle aged white guys with a spare gut.&nbsp; I know that I had one that was a good twenty or thirty pounds extra, and there were others with a good hundred or more of extra fat on them, making us a fairly pathetic lot.&nbsp; Jesse, however, was gay, apparently, and ironically, looked more the man than most of the rest of us as he was led to the end of the side channel by his rail riding neck.
+
+&nbsp;&nbsp; At the end of one of the more central side railings, they fastened another crossbar, basically pinning Jesse in place about twenty feet from the main railing where the closest of us stood.&nbsp; They turned him around, his neck loose enough in the collar to allow at least that kind of movement out of him.
+
+&nbsp;&nbsp; �Your attention, pigs!&nbsp; Face this way.&nbsp; You will find this very instructive,� proclaimed the woman.&nbsp; �Good.&nbsp; I can see that you all have at least learned to mind your tongues.&nbsp; Now, the first thing we do here at the sorting and retraining facility is to show you a video that explains our procedures and expectations.&nbsp; We start, by giving you each the honorary title of piggy.&nbsp; Pigs, as you know, are livestock animals.&nbsp; However, for a select few of you, there is room to move up the evolutionary chain.&nbsp; We are not without compassion, and this is not a genocide program that you have volunteered for ��
+
+&nbsp;&nbsp; Genocide?&nbsp; Volunteered?&nbsp; Livestock?&nbsp; What was she talking about?&nbsp; We�d been captured by the new ruling order; at worst we were prisoners of some kind of domestic war, I had been thinking.&nbsp; I didn�t like the sound of this, and from the way some of the men were openly weeping with greater intensity the more she spoke, I didn�t believe a word of her lying compassion argument.&nbsp; It got even worse as she went on:
+
+&nbsp;&nbsp; �� You each will be given many opportunities to impress us.&nbsp; Well, most of you, anyway.&nbsp; Through our brief investigation of your former residences, as you were so charitably giving them over to the state, we made some discoveries about you.&nbsp; For example, Longpig Six, four, four, nine, two is a homosexual.&nbsp; Since one of the ways we will be evaluating you is based upon your willingness to humble yourself and change your personal preferences at our every request, this gives ninety-two an unfair advantage.&nbsp; We do each of you a favor by selecting him, lest he show you up in one of the upcoming trials.&nbsp; In addition, ninety-two is an excellent physical condition, meaning that he might not have lasted very long anyway because we like our piggies culled with good meat on them.&nbsp; We will soon be showing you a video, explaining how you will all compete.&nbsp; As it stands, we might as well make Longpig ninety-two our first example, given that he probably wouldn�t have lasted past the first few cullings anyway with such a lean and ready for the cull body.�
+
+&nbsp;&nbsp; What was she talking about?&nbsp; Cull?&nbsp; I didn�t give my house up due to charity, and I really didn�t like that longpig, culling stuff.&nbsp; What did they plan on doing to Jesse?&nbsp; So he was gay?&nbsp; So, he was in good shape?&nbsp; When did any of that become a major crime?&nbsp; I didn�t get it!
+
+&nbsp;&nbsp; As I was feeling the dreads come all over me, the other two women had come back into the room with a large table with a heavy wooden top.&nbsp; There were cuts all over the table�s wooden surface, as if it was cutting board for making food.&nbsp; A rail ran up from each side of the table, and then across.&nbsp; Attached to the top rail off of several metal cords were a thin handsaw, a scalpel, a butcher�s cleave, a small knife and a larger serrated knife.&nbsp; I guess the little chaines on each were so that whoever used the utensils couldn�t toss one at anybody.&nbsp; They put this butcher table with its accessories to the side of Jesse, and then backed away after turning him to face it.&nbsp; Clearly they intended him to cut some meat for them.&nbsp; I can�t say that I was displeased, given that I was starving and the notion of food boded well enough for me, but the idea of being fed didn�t seem to marry up real well with the threatening speech the lady had just delivered.&nbsp; Oh god, I thought � they�re going to cut one of his fingers off!&nbsp; They wouldn�t dare!
+
+&nbsp;&nbsp; I didn�t like the looks of this, one bit, and if I was more than just a head, easy pickings for them if I said anything, I�d have protested, even if it did mean a shock to my nuts.&nbsp; I just couldn�t say anything, even as dreadful as the clarity of their intentions were to me.
+
+&nbsp;&nbsp; �We will start with a video about the process of properly preparing a longpig for our guests.&nbsp; Other instructions will be forthcoming, but this will serve to inform you of our first purpose before us at this moment,� said the head black lady who had control over all of us white men.&nbsp; A projector started up behind us from a peephole.&nbsp; It shone above the railings onto the far upper wall of the tall warehouse receiving area.&nbsp; It started with an intro, welcoming us all to the new order.&nbsp; A black man came onto the screen.&nbsp; He started:
+
+&nbsp;&nbsp; �Welcome longpigs.&nbsp; This instruction video will give you some of the information that the wise among you will take to heart and employ.&nbsp; By obeying, you become more valuable to us, and thus less likely to succumb to your new status as longpigs.&nbsp; Now many of you may not know what a longpig is.&nbsp; Well, a longpig is a farm animal that is destined to be used for food �.�
+
+&nbsp;&nbsp; Some of the men actually groaned upon hearing this.&nbsp; I can tell you that my heart sank, and I actually peed the floor, no longer able to retain it.&nbsp; I was dying from thirst, and couldn�t understand how I could pee, but the despair that swept over me was good enough reason to have done so.
+
+&nbsp;&nbsp; �� On the warm and fuzzy side, however, is the fact that some of you may earn the right to move up the evolutionary ladder.&nbsp; The job of house slave, factory laborer, fruit picker, whore or even greater roles, awaits the lucky among you who survive the culling.&nbsp; The culling, of course, is necessary in order to promote the optimum balance of no more than one white man per twenty citizens.&nbsp; Any number above that may prove unmanageable.&nbsp; As for your white women, they have many more uses once they are all properly sterilized, so the culling there is not quite as deep.�
+
+&nbsp;&nbsp; My god!&nbsp; What were they doing to my wife?&nbsp; I�d been so caught up in my own survival that I just didn�t have the time to worry myself ragged over her.&nbsp; Did they really take her and sterilize her?&nbsp; What more were they doing to her?
+
+&nbsp;&nbsp; �� They too are longpigs until they prove otherwise.&nbsp; The old and the headstrong will not survive the culling, but for you men we are allowing the old a chance that your women do not have.&nbsp; For white men, being old will only enhance your chances, as we seek to eliminate the breeders among the whites first.&nbsp; Not to say that your situation is better, given that we have room in the new America for three white slave bitch whores per twenty, making their odds of moving up the ladder three times as good as yours.
+
+&nbsp;&nbsp; �Now, the solution for you is to learn the tricks that will put you in good standing each culling day.&nbsp; For now, it is sufficient to make the first example, which is the purpose of this video to prepare you for.&nbsp; You will learn, for example, how to minimize suffering for your own culling.&nbsp; As in other things, even a culling has rules of obedience and it serves the longpig well to follow along.&nbsp; Now, before you is a longpig who has been selected as your example.&nbsp; It will set your first example.�
+
+&nbsp;&nbsp; I looked over at Jesse, and he was babbling, though he lacked the courage to actually make sounds.&nbsp; I felt for him.&nbsp; Still, I couldn�t do a thing for him.&nbsp; The way the video was going, it seemed that it was either him or one of the others of us, so I also felt a small amount of relief that it wasn�t me who�d been unlucky and been found in a bad category.
+
+&nbsp;&nbsp; �So, the first thing to know is that we use only parts of the longpig for slave food.&nbsp; Most of the food, as you know, in a human pig is located in the legs.&nbsp; Thus, we don�t make the pig suffer through more than the donation of those selected limbs, given that we also restrict the use of longpig meat and thus have limited demand.&nbsp; We will give the longpig the option of having our staff do the donations, or of doing the full amputations, meat processing and leather preparation on its own.&nbsp; The second option includes a local anesthesia designed to eliminate most of the pain of the operation and self-butchering.&nbsp; The first option does not.&nbsp; In other words, it will feel almost no pain if it does the work itself.&nbsp; Trust me when I tell you that it serves your little piggy hinds� interests to work diligently for the new order � even at this.&nbsp; 
+
+&nbsp;&nbsp; �Finally, after the longpig has carefully removed its leg limbs all of the way up to the crotch, cut all of the pork into edible bite sized portions, packaged the cuts for the slave meal cook, pre-scraped the leather sufficient for our purse tanners, and set even the tiniest toe bones, white and neatly stripped of sinew into the bone box, it will then be free to use its hands on the railing and move its carcass into the awaiting crematorium for its final journey to white boy hell.&nbsp; The tunicate bands and spinal anesthesia are designed to allow the longpig sufficient time to make itself into a nearly meatless living carcass.&nbsp; The carcass then has sufficient time to complete all of the assigned tasks of self disposal before pain sets in.&nbsp; There is a button in the oven, and all that the carcass needs to remember is to push it as soon as the door shuts behind it, completing its suicide.&nbsp; The flues will come on, and in time, the heat will become intense enough to finish the little job we have all been working towards.
+
+&nbsp;&nbsp; �You are entering the system near the thirty percent completion date of the overall project.&nbsp; This means that by this time next month, over half of the white male population will have been processed into useful meat and leather products.&nbsp; It is felt that with half of the white population properly disposed of, any risk of rebellion will effectively been eliminated, making the disposal of the second half of the population much easier.
+
+&nbsp;&nbsp; Any complaints will have been reduced to properly disposed carcasses.&nbsp; In three more months, we will have our desired quota of a pure minority below that of even the Asians, amounting to a small percentage and easily controlled.&nbsp; This is very exciting for us, as I�m sure it will be for you as you do your part to help us complete our mission at a world record setting pace.
+
+&nbsp;&nbsp; �Now, the pain of the oven is, of course, necessary, but relatively short-lived.&nbsp; Sometimes it takes a few minutes to get you cooking, but I personally enjoy watching a quick flame.&nbsp; A carcass jerking on the rail and waving its little arms around when it bursts into flames before passing out is thrilling.&nbsp; You will all get to enjoy it with us, so I hope that we can all enjoy the show.&nbsp; Some ovens are just better than others.
+
+&nbsp;&nbsp; �Of course, it may bulk at any of its tasks, but all tasks must be completed by the longpig and then, of course, by the former longpig�s remaining carcass.&nbsp; That�s you.&nbsp; If not, the longpig is left to suffer the pain of an un-anesthetized procedure or the completion of a longpig butchering or a carcass�s clean-up tasks at the hands of the willing and experienced staff.&nbsp; A time penalty is assessed if the longpig or carcass refuses to fully process itself.&nbsp; Once the carcass is in the oven, it is not unheard of for the staff to disable the oven�s internal self extermination button for as much as a day if the carcass has shown too much hesitation in serving the new order�s needs with sufficient zeal.&nbsp; Incompetence is similarly rewarded; we expect clean leather with no holes, neat packaging, and all bones white from clean scraping.&nbsp; The unwilling, weak willed or incompetent carcass is then stewed at low heat for as long as the air holds out.&nbsp; Trust me, an hour of suffering with two bloody leg stumps is more than sufficient time for a carcass to regret the delayed of the simple task of a carcass�s self-disposal.
+
+&nbsp;&nbsp; �All longpigs must attend all cullings, even those delayed by a full day of unnecessary suffering.&nbsp; Since all but one or two of you will eventually become processing longpigs and the subsequent self-exterminating carcass we all are so eager to watch burn itself up, it is best that you learn from the mistakes of any of those animals that might proceed you in the process of making productive meat and leather bi-products for the new order, so pay attention piggies, and remember, any disobedience or misconduct will surely win you the earliest possible processing date.�
+
+&nbsp;&nbsp; The video went blank.&nbsp; I couldn�t think.&nbsp; This was a nightmare.&nbsp; God, this was worse than Hitler.&nbsp; We were worse off then the Jews.&nbsp; All of a sudden, the markings on my body meant something entirely new.&nbsp; I think I was in shock, because I seemed to wake up with the black face of one of the women looking into my eyes and saying the word, �Pig!�
+
+
+
+Then I recalled the instructions she�d given us all while my mind was in limbo, and uttered back as instructed, �I am a pig!�&nbsp; She moved on, stopping in front of the rest of the man, them too saying the same line as the others of us, �I am a pig.�&nbsp; I guess we all knew what that meant the moment we�d been forced to say it clearly to the face of one of the captors.
+
+&nbsp;&nbsp; Then she said, �Now, next time I want you to tell me what I am.&nbsp; You will replay, �You are a human.�&nbsp; She walked in front of each of us, and when she came to me I said, �You are a human.�&nbsp; The lines were clear.
+
+&nbsp;&nbsp; �It is to your advantage that you remember this.&nbsp; You see, one of the criteria for an early culling is uppity behavior from a farm animal.&nbsp; The more you think of yourself as livestock, the better your chance of being one of the few who get to move up to the status of slave.&nbsp; Some of you may not think of slavery as a good option.&nbsp; Well, longpig ninety-two is about to convince you that slavery isn�t so bad, and in fact, is well worth working towards.�
+
+&nbsp;&nbsp; They were done with us, and went back to ninety-two.&nbsp; Oh my god, I couldn�t even think of him as Jesse.&nbsp; No, not if I was to survive, I couldn�t.&nbsp; He was a pig, just like me.&nbsp; And, they were just about to prove it.&nbsp; To top it off, we all were totally fatigued, dying of thirst and starving to death.&nbsp; I hoped beyond all measure that he�d heard the video as well as I had and that he opted to do the job himself.&nbsp; If not, we�d never make it a full day of watching him suffer.
+
+
+
+
+
+
+
+
+
+
+
+The Revolution�s Pig Contest, by counterparts199; part 03.
+
+&nbsp;&nbsp; I looked at the situation Jesse was in.&nbsp; He was hanging by his neck brace.&nbsp; His hands were cuffed behind him.&nbsp; The four side-track rails could be used to isolate any one of us.&nbsp; The four sidetracking rails were also connected together by a longer rail that ran parallel to the one the remaining forty-nine of us were stuck to.&nbsp; That one was also parallel to the far right wall.&nbsp; It ended at a black piece of metal framed glass that I�d previously ignored, thinking it some kind of spy window.&nbsp; It was tall, reaching a good seven feet at the top, and not quite coming to the floor, ending about a foot and a half up.&nbsp; I saw some kind of push button control to the side of it and a latch like that on a freezer for a handle.
+
+&nbsp;&nbsp; Two of the black guards were unlatching the rail stays that isolated the far ends of all of the three sidetracks from one another.&nbsp; This allowed a clear passage from the sidetrail Jesse was on to the black glass window at the far end corner of the warehouse.&nbsp; The only cinch left to remove was the one directly at the station Jesse had ended up at.&nbsp; He effectively couldn�t move either towards us, or down the parallel line towards the black window due to two fastened cinches holding bars over the tracks in either right angled direction.&nbsp; Whatever was going to happen was going to end up at that black window, I realized, but for now Jesse was a prisoner of the station he�d been left at and none of us could get any closer to him than we were.
+
+&nbsp;&nbsp; He was whimpering and struggling in his bondage, but the women ignored him.&nbsp; One of us at our line got to whimpering almost as much as Jesse was, and earned himself the sting of a cattle prod for his troubles.&nbsp; The message delivered that Jesse could whimper and struggle a little bit, given that he was the one on display, but the rest of us were to remain docile, least we interfere with all of the preparations.
+
+&nbsp;&nbsp; Finally a circular and sectional brass clamp was brought out of a toolbox that had been sitting in the corner of the far wall.&nbsp; Two of the women stood to the sides of Jesse, holding him in place as he tried to kick and squirm.&nbsp; It got to be a bit too much, so they backed off and delivered a sting of their wand to his nuts.
+
+&nbsp;&nbsp; Jesse went limp for just a few seconds, which was long enough for the first black guard to run the circular brass and rubber clamp up his foot, past his ankle, and then up to the top of his thigh.&nbsp; She connected a tool to the clamp, and then another of the women grabbed the clamp and shoved it so far up that his butt cheek bunched up.&nbsp; I could see the bulky, industrial grade clamp�s edge bang at Jesse�s crotch, bouncing his balls to the side.&nbsp; The first lady started cranking the tool in a circle, tightening the clamp once it was as high up the left leg as they could push it.&nbsp; There was some kind of brass spacers on the inside, preventing Jesse from being pinched, but the overall contraption was doing one massive pinch as they went well past snug and to the point of the flesh of Jesse�s upper leg bulging out an inch all the way around.&nbsp; I could see his leg start to blue up a bit even before they were done tightening it, telling me that the blood flow had stopped to the limb.
+
+&nbsp;&nbsp; The whole operation repeated itself as Jesse regained some of his lucidity and movement.&nbsp; He didn�t struggle, however, still fresh with memory of the last sting, no doubt.&nbsp; They had no trouble fitting the right leg clamp up past his toes, up his ankle, over his knee, and then up his thigh.&nbsp; He flinched as it brushed past his balls.&nbsp; The combination of the left and right clamps left no room for his privates, so they bulged out in front of the brass metal as if some hand was pushing them out and showing them off.&nbsp; They only half cranked the right leg, leaving the clamp tight enough to not slip, but not so tight as to cut off his circulation.
+
+&nbsp;&nbsp; One leg was blue, and other red as one of the ladies grabbed Jesse�s left leg.&nbsp; He stiffened and groaned.&nbsp; �No!&nbsp; Please!&nbsp; I�m not gay!&nbsp; There�s been a mistake!�
+
+&nbsp;&nbsp; The wand was raised to just in front of his face, causing him to quit his complaining in order to forestall the shock to his mouth.&nbsp; That was good enough for the guard, as she lowered the wand.&nbsp; The procedure continued, the one guard lifting the left leg up high while the other one pushed the large chopping block table under it.&nbsp; The block was deep enough to hold it lengthwise.&nbsp; Two leather clamps were belted over the leg from where the belts were fastened to the table.&nbsp; These were left loose enough for the leg to be moved some, but not enough for him to move the leg from side to side.
+
+&nbsp;&nbsp; A box was set in a slight depression near the far end of the table.&nbsp; The letter�s B O N E S, were painted in white on the box�s side.
+
+&nbsp;&nbsp; Finally, a hypodermic needle was taken out of the toolbox by the far wall, and sat upon the closest end of the table, just out of reach of Jesse, assuming he had his hands free, which he didn�t.
+
+&nbsp;&nbsp; The head guard lady looked at us after putting the hypo down, and said, �Since this is the first time for each of you, we won�t begin by asking this fag pig if he wants to do the work himself or not.&nbsp; Suffice to say, we will give him the option of completing the task instead, but much of the beginning work will be done by us, particularly on the first loin.&nbsp; In the future, the choice will be up front and you pigs will have to do everything yourselves or suffer the penalty of suffering under a guard administered slaughtering.&nbsp; The reason we are altering the process for this pig is that it doesn�t know the full process yet.&nbsp; As with all good instruction, first we tell, thus the video, then we demonstrate, and then finally we expect participation under guidance.&nbsp; So, this is step two, the demonstration part.&nbsp; It will be assumed that all of you piggies know how to do yourselves in the future, so pay attention or things will go very badly for you when it is your turn to be butchered and made into a carcass.�
+
+&nbsp;&nbsp; They had to be kidding, I thought.&nbsp; This was all some kind of psychological experiment.&nbsp; They couldn�t actually mean to go through with cutting off that man�s leg!
+
+&nbsp;&nbsp; The women nodded to another guard, and she picked up the straight razor.&nbsp; I saw her touch the man on the leg with it, and he flinched back, though he didn�t have anywhere much to go, given that he was already stretched pretty straight up and couldn�t back off much.&nbsp; Then she started shaving his leg.&nbsp; It was a dry shave, but the blade was sharp and she managed it without many nicks.
+
+&nbsp;&nbsp; So that was it, I thought.&nbsp; All of the fake slaughter talk was going to end up with them just shaving his leg.&nbsp; How could they play with us like this, I thought, angry with them for being so vile and careless with our emotions.
+
+&nbsp;&nbsp; The other lady was holding a bit of newspaper under the leg as the shaving went on, catching the hairs so that when it was over she just had to take the paper out the back end of the cart and let the hair fall to the floor.
+
+&nbsp;&nbsp; �As you can see, we shave the leg just before we skin it.&nbsp; This simplifies the tanning process and reduces the time the leather will need to sit in the hair absorbing chemicals.&nbsp; You will be allowed to either shave your legs one at a time, or both before the actual butchering begins.&nbsp; I suggest shaving both legs, as once the first cuts begin, you time with the anesthesia starts and any delays increase the risk of your regaining feeling in the limbs as they are still being severed.�
+
+&nbsp;&nbsp; She looked at Jesse and asked, �What is your choice, pig ninety-two?�
+
+&nbsp;&nbsp; He exhaled a sound like, �Uhh!�&nbsp; The head guard shrugged towards another guard who picked up the scalpel, but then the man said with a faltering voice, �The other leg first.&nbsp; Here,� and he lifted his own leg up, bending it at the knee, and then laying it over the table as if he were half sitting on it with his ass just off the edge so that it was still below his neck brace from which he was otherwise hanging himself.
+
+&nbsp;&nbsp; �Excellent choice.&nbsp; We�ll let you do the work yourself, pig, for being such a good first example.�&nbsp; She nodded to the third guard as second one put a piece of newspaper under the second leg and then backed off to the far end of the cart in order to be out of reach of the man as he shaved with the lethal straight razor.&nbsp; The third guard unfastened the man�s cuffs, taking them away and putting them into the toolbox.
+
+&nbsp;&nbsp; He shook his hands in front of him, fighting off the numbing of the cuffs.
+
+&nbsp;&nbsp; �The razor, pig.&nbsp; Or do you wish for us to do all of the work for you?� Asked the head guard.&nbsp; He reluctantly picked up the razor that was sitting on the table before him.&nbsp; I saw him looking at the steel cable that held it to the overhanging pipe of the cart.&nbsp; We were all calculating that, and we all knew that the extra foot or so of play wasn�t enough to formulate any reasonable assault upon the women.&nbsp; It was only enough play to reach down to the ankle and get the shaving job done.&nbsp; He had no choice he knew, and started shaving his right leg.&nbsp; It was unbelievable that he could do it.&nbsp; Then, as quickly as he�d started, the handcuffs came back out.&nbsp; A wand was aimed at his side, and he put his hands behind him in defense, allowing himself to be re-secured.&nbsp; The ladies helped him lift his right leg back down, and the moment of truth was suddenly upon us.
+
+&nbsp;&nbsp; They wouldn�t dare, I thought, having put all of my money on the idea that this was a psych deal meant to terrorize us and nothing more.
+
+&nbsp;&nbsp; �OK.&nbsp; So far this pig has done better than most beginning animals.&nbsp; Thus I feel quite charitable.&nbsp; Now, of course, this is, as you know, the first animal.&nbsp; In the future, you will all be expected to shave both legs without any of the hesitation exhibited in this demonstration.&nbsp; Still, for a first animal, this has been quite well done, allowances being made for the lack of a good example from which to follow.&nbsp; Matisha, you may proceed to the second part of the process,� the first guard said as she nodded to the second guard who was picking up the scalpel.
+
+&nbsp;&nbsp; She spoke as she worked, saying, �First we make a neat cut around the ankle.&nbsp; The skin below the ankle is too thin to be of any use in the purse industry.�&nbsp; She pulled the leather strap tighter, holding Jesse�s leg to the more snuggly as she slipped the tip of the scalpel across the top of his ankle.&nbsp; I thought it was fake, the pressure being so slight, and the blood being so weak.&nbsp; Jesse thought otherwise, screaming at the top of his lungs a few seconds later when the pressure of the ultra-sharp leg turned into a burning of real pain.
+
+&nbsp;&nbsp; �It will probably be a little hard to hear all of my instructions as the pig starts to squeal, but I will try to pause at key points in order to clarify the beginning and ending cuts in the proper order.&nbsp; It is important that you cut the leather off in a consistent and neat manner, or the leather is of less value to the purse makers,� continued the skinning guard as she held the trembling leg as best she could while making neat inch long cuts, continuing the circle around the ankle.&nbsp; It was hard work, I noticed, and not all that neat, though better than I could have done with such a jerking and trembling limb to work on.&nbsp; She paused when the first cut was done all around the ankle.
+
+&nbsp;&nbsp; The first guard then injected, �As you can tell, it is much better for the pig if he has been injected with a spinal injection that eliminates the pain of the process.&nbsp; Though experienced, Matisha simply can�t do a decent job of trimming the leather from the carcass.&nbsp; We don�t fault the longpig for squealing and jerking about under such circumstances, though we are quite angry with a pig that makes us do this work ourselves and thus sets us all up for a bad skinning.&nbsp; Any pig that makes us begin our work will, of course, have to pay a penalty.&nbsp; At this time the pig may decide to finish the work himself, not having passed the grace period for a spinal, but of course we have the choice of refusal.&nbsp; In any event, my personal policy is to assess ten minutes of extra pain beyond every minute of butchering as a price to be paid for not stepping up to the plate and helping us make a decent carcass of you.&nbsp; Please, continue, Matisha.�
+
+&nbsp;&nbsp; Jesse screamed upon hearing this.&nbsp; He yelled, �I can do it.&nbsp; I can.&nbsp; I promise.&nbsp; Please!!!�
+
+&nbsp;&nbsp; �Now, now, we can�t demonstrate fully if we don�t get to some of the real work, pig ninety-two, so be patient.�
+
+&nbsp;&nbsp; Then she started cutting deep along the shin of the leg, pausing over the knee and working carefully where the strap was laid over the leg by shifting the leg up and back.&nbsp; Then she was at the brass fittings, and started to work the scalpel right along the edge of the metal.&nbsp; She continually explained the process as she went.&nbsp; Sometimes we caught some of the words between breaths as Jesse yelled his lungs out.&nbsp; He passed out for just a couple of seconds, upon which time Matisha managed to lift his leg some and work under at the top of his thigh, and then back around.&nbsp; She was saying, �The fitting actually allows for a nicer cut at the top where the leather is thicker and of more value anyway, than it does near the ankle.&nbsp; Penalty is assessed if the pig fails to cut right up to the edge and maximize its leather production.�&nbsp; Jesse came back to his senses around the end of the sentence, and then screamed the last of his lungs dry as she started to peel the leather off of his meat.&nbsp; It came off, sometimes with the nudge of the knife, with a sucking sound that I�ll never forget.&nbsp; The meat actually came off of the thigh easiest, but at the shin it took a lot of coaxing by cuts to the sinew.
+
+&nbsp;&nbsp; Matisha spent a bit of time with a short knife, scraping away the sinew on the back of the �leather� before she draped it over the end of the cart and put the sinew into a disposal bin.&nbsp; It was taking more time than I�d even imagined such a horrible thing could take.
+
+&nbsp;&nbsp; Jesse was yelling harder than ever, but the noise was a lot less, almost as if he�d yelled his vocal cords into threads.&nbsp; I saw him pass out two more times before the, �leather,� was off of his leg, but it was never long enough to do him any real good as he was being made to endure the whole skinning without a drop of the chemicals in that precious hypodermic needle that he�d begged and begged right up to the point where real words were no longer possible from his babbling lips.
+
+&nbsp;&nbsp; I looked around, and every one of us was having trouble watching.&nbsp; Every so often someone would look away, and when caught, one of the guards came over the aimed a wand at him.&nbsp; We had no choice but to receive our instruction.&nbsp; The next tool was a large serrated knife.&nbsp; Without ceremony, the butcher set it down right on the meat at the very edge of the brass clamp and instructed, �The most meat is on the thigh, so we don�t waste any beyond that captured by the clamp itself.&nbsp; Slice neatly and straight to the pig�s bone, using a sawing motion.&nbsp; Once through, slice as best you can at a forty-five degree angle, to cut away as much as you can of the sides.&nbsp; Then use the smaller, non-serrated knife to nick away at the meat under the bone until all that remains is the bone itself.&nbsp; Scraping along toward the bone, you can leave a wide enough path to easily insert the saw and start the much harder job of sawing through the bone itself.&nbsp; A good butcher can do this in twenty or thirty seconds, but a longpig is much less experienced and averages several minutes.&nbsp; Don�t dawdle, piggies, because there is a lot of work remaining to do in butchering the loin and you simply cannot afford to allow yourself to live too long once you�ve become a carcass and have no further function in life than processing your meat for consumption.�
+
+&nbsp;&nbsp; She said all of this, of course, as she went through the process of cutting Jesse�s leg off and then sawing into his bone.&nbsp; It took her a whole minute to finish and lift the leg of red meat free.&nbsp; It was weird seeing it set down on the table sideways so that it was in easy reach of Jesse.&nbsp; His foot looked perfectly normal, though bluish, while the rest of it was meat and an occasional white thread of fat or tendon.&nbsp; It was almost as if I was sitting in an anatomy class, though I�d never been in one and only seen such things on TV.
+
+&nbsp;&nbsp; It struck me, through all of the horror, that my guess had been wrong.&nbsp; This was no show.&nbsp; This was real.&nbsp; This was extermination.&nbsp; I was really here.&nbsp; I was really a pig to them, and really going to die!&nbsp; It didn�t matter what I did.&nbsp; Some sick puppy had come up with this method and was laughing at us, but it didn�t matter one bit because we had no choice.&nbsp; They didn�t care if it was evil and they had been completely oblivious to Jesse�s begging and pleas.&nbsp; We were nothing to them, and the only hope of altering our fate was to do as they said in order to ease the pain of our own deaths.&nbsp; I felt utterly defeated.&nbsp; My best option was to fully participate in my own destruction.
+
+&nbsp;&nbsp; When the leg was fully presented, Matisha smiled up at us, and the head guard said, �There we have a fully dissected loin.&nbsp; The clamp prevents any bleeding beyond the blood that was in the leg to start with.&nbsp; As you can see, the pig is in a great deal of pain and was not enjoying any of the experience.&nbsp; My suggestion to all of you is to take the second option.&nbsp; The work involved is not really all that difficult, save for our insistence upon clean cutting and maximizing the amount of leather and meat made available to the slave cooks.&nbsp; Now, it is good to know that in cases where the pig has been uncooperative, slow at its work, particularly sloppy or otherwise disobedient, we find ourselves this far along in the process and disinclined to administer anesthesia well before this point.&nbsp; This would mean that the pig would have to wait through the entire process if it has waited anywhere nearly this long to request the second option.&nbsp; Further, as I have stated, there is a ten to one additional waiting period before we proceed to the extermination of the carcass.&nbsp; If I were you, I�d opt for the second option and do as good of a job as is, well, I almost said humanly possible, but you know what I mean.�
+
+&nbsp;&nbsp; One of the guards attached the tool to the right leg�s clamp and tightened it severely, cutting off final circulation to the last leg.
+
+&nbsp;&nbsp; The top guard looked at Jesse, hooking a finger under his eyelid so that he could see her speaking to him.&nbsp; �Do you wish for me to administer anesthesia, piggy?&nbsp; If so, then you will have to slaughter your own right leg.&nbsp; I�m worried that you might not be able to do the work after so much screaming and straining, but I�m willing to give you a chance, given that you�re just a demo pig!�
+
+&nbsp;&nbsp; �Yes.&nbsp; Please!&nbsp; I beg you,� he said, his voice a horse whisper of forceful air as he hyperventilated.
+
+&nbsp;&nbsp; The head guard picked up the hypo, and aimed it at his lower spine.&nbsp; She stuck it well in, and then probed as the man moaned and twisted in his neck brace.&nbsp; Then the plunger was pushed in, and a few seconds later we all noticed the man�s breathing come back to nearly normal.&nbsp; His eyes blinked, and he looked at his severed leg as if it was the first time he�d ever seen it.&nbsp; Obviously the pain had subsided, and though the rest of his body was probably racked with pain from the last few days and his twisting, I doubted he felt it by virtue of the comparison.
+
+&nbsp;&nbsp; Matisha continued with the demonstration, cutting the meat off of the leg muscle groups until several large steaks were laid out across the board.&nbsp; The leg itself was then cut at the joints, leaving it on three basic pieces, lower leg, upper leg and a rather normal looking foot.&nbsp; Then she cut the steaks with a few cleaves and then the knives, until it was in tiny filets.&nbsp; When she had the filets down to inch sized bites, she put them into a metal bin until the bin was full.&nbsp; Half of another one was filled before the meat was finished.&nbsp; She started scraping along the bones, finding a few more threads of meat to put into the bins.&nbsp; The upper leg bone was tossed into the bone box and the same process repeated on the lower leg until it was down to two long bones that were also put into the bone box when sufficiently white.&nbsp; The foot was another issue, requiring a lot of focus upon each bone as they were ripped away from the each others and the tissue, leaving a final mash of boneless foot meat and sinew.&nbsp; I think the foot took her more time than the whole rest of the job.&nbsp; The third guard put a box on the table labeled, waste, and the mash was put into it as well as other waste products unsuited to either the bone or meat bins.
+
+&nbsp;&nbsp; Jesse just watched this dumbly.&nbsp; Clearly he was in utter shock.
+
+&nbsp;&nbsp; �And with that, the left loin is fully prepared.&nbsp; The pig is halfway to making itself into a completed and disposal ready carcass at this time.&nbsp; Now, let�s see what the pig has learned,� said the head guard as she went around behind the pig and uncuffed it.
+
+&nbsp;&nbsp; It looked at its right leg.&nbsp; An unpleasant liveliness returned to his face as he was forced to confront the new horror.&nbsp; The guard to his right side nodded as if to tell him to go ahead and lift it onto the table so that he could make more of himself into meat.&nbsp; He moaned, but then put his right leg up on the table with a strain far more than physical.&nbsp; At that point he had his whole weight on the neck brace, but was able to relieve that some when the leg was up on the table.
+
+&nbsp;&nbsp; �You�ll need to use the scalpel first.&nbsp; You see how nice it is now to have made the decision to shave the second leg early.&nbsp; We do try to be considerate and not waste everybody�s time.&nbsp; I�m sure that you�re far more eager to make yourself into a carcass and get on with burning yourself up now that you are halfway into the process, don�t you agree, piggy?&nbsp; I said, don�t you agree?�
+
+&nbsp;&nbsp; �Uh! Yes,� he said, reaching down and picking up his anesthetized leg so that the knee was bent and he could easily reach his own ankle.&nbsp; Without instruction, he proceeded, as if he�d come to some conclusion that rushing ahead was a far better option than anything else.&nbsp; He stuck the scalpel into his own ankle in a way that had me thinking that he�d lost awareness that it was still attached to him.&nbsp; �Oh shit!� He moaned and breathed as he made a circle around the ankle.&nbsp; �Oh shit,� he repeated with each step of the process as he pulled a cut right up the top of the leg to the top of his thigh.&nbsp; He reached in by his balls and started making a circle cut on his thigh where the brass clamp was cutting off his circulation.&nbsp; �Oh shit!�&nbsp; He finished the circle.
+
+&nbsp;&nbsp; The condemned man peeled his skin off, not too carefully, ripping it near the ankle, for which the head guard made a comment about how such hasty skinning was apt to win a carcass unwanted delays in his cooking process.&nbsp; He reached for the big knife, but the head guard corrected him, saying, �You will need to scrape the back of the longpig leather clean, or we won�t be able to make a decent product out of the material.&nbsp; What woman would want a purse with patches of sinew all over it?&nbsp; We have to be careful to make something useful out of our pigs; this isn�t just for show, you know.&nbsp; We make something out of your sacrifice, you little oinker you.&nbsp; Go on, do it right or let us take over for you,� she threatened.
+
+&nbsp;&nbsp; The pig started scraping its own leg leather clean of sinew.&nbsp; The look of horror never left its face as it worked over the skin that had once been such a familiar part of its own body, wincing at each scrape.&nbsp; When the leather was clean enough, it gave it up and draped the finished product over the edge of the cart before quickly going back to the big knife.&nbsp; It was as if it was in a race and just couldn�t hold itself back from the job as it quickly cut the meat as close to the brass ring as it could, right down to the bone, which it wedge clear and started sawing on for all it was worth.&nbsp; The leg fell clear, and it grabbed at it, cutting the steaks off of it even faster than had the experienced guard.
+
+&nbsp;&nbsp; �As you can now see, longpigs, the pig has now reduced itself down to no more than a slaving carcass intent upon finishing before the drug wears off.&nbsp; We should all be very proud of its willingness to serve the new order and make something of itself that we can all celebrate.&nbsp; This is something you all should aspire to.&nbsp; Do you see how eager it is to serve, even as it knows that it has ceased to be a growing pig and thus it no longer has anything of value to contribute to society other than its already surrendered byproducts?&nbsp; I think that the demonstration is exceeding my personal expectations.&nbsp; Notice how nicely the meat is being self-cleaved into neat bite-sized units and how the carcass has managed to quickly scrap the first bone white.&nbsp; We expect each of you pigs to soon be self-processing and cost effective leather and meat manufacturing units.&nbsp; Very good, carcass ninety-two.�
+
+&nbsp;&nbsp; We all did watch, and it was incredible to watch a man doing that to himself.&nbsp; He was mad, of course, single minded in his haste to reduce his last leg bones, and then foot to meat and white bone matter.&nbsp; The tiny foot bones went into the bone bin and the foot pulp into the waste bin along with other veins, tendons and scraps, and then all of a sudden, the table was clear of all but a few bits and some blood that trickled off of it and into a drain that conveniently sat just below the station.&nbsp; I looked across the floor and saw that there was a drain under each of those four end stations, telling me much.&nbsp; This whole receiving area had been designed as a butchering room, I realized.&nbsp; It was a one stop operation.&nbsp; This was the last place any of us was intended to see, I instantly thought as the man before us hang there loosely from his neck.&nbsp; The brace wasn�t tight enough to strangle him, and his reduced weight probably helped him as well.&nbsp; There he was, a carcass, I understood.&nbsp; He had no legs.&nbsp; Oddly, this left his cock and balls as the lowest part of him, them dangling down and vulnerable.
+
+&nbsp;&nbsp; The guards noticed this as well.&nbsp; One of them came at him from behind and quickly put a plastic strap around his nuts.&nbsp; She cinched the tie-wrap tight enough to make us all flinch.&nbsp; The carcass didn�t feel much of anything and might not have even known it was happening due to his shock and the way the lady did her work from behind.&nbsp; His anesthesia was still working, it appeared, as she took out a sharp pocket knife and took a souvenir of his balls and nut sack.&nbsp; It was so quick and unexpected, and apparently not all that unusual, considering that neither of the other guards paid it much notice.&nbsp; They probably had testicle collections of their own; I sensed from the general lack of interest they paid the collection.
+
+&nbsp;&nbsp; In fact, the head guard was busy unfastening the bar that kept the man isolated and when loose the lack of a bar across the far parallel track allowed him a clear lane towards the black glass window that we all were looking at with almost as much dread as we�d felt when we�d seen the bloody nut sack dropped into a small metal thermos.&nbsp; The nut collecting guard went back to her job once she�d put her prize away, and shoved the carcass a couple of inches in the right direction.&nbsp; The other guard was busy wheeling the butcher table away and off to the back of the room near a doorway where she parked it and all of its products and utensils.
+
+&nbsp;&nbsp; The head guard went to the glass door and pushed in a code.&nbsp; The glass moved up into some slot in the upper wall, revealing a little room about five feet square.&nbsp; At the top of the room was a grate with a wide pipe beyond it.&nbsp; At the bottom was a large pan nearly four feet square, and around that about a dozen nozzles.&nbsp; Oh, damn, I thought as recognition hit me; they were flame flues.
+
+&nbsp;&nbsp; The metal bins labeled bones and waste were both set into the bottom of the oven between the idle flame jets.
+
+&nbsp;&nbsp; The head guard simply explained the end of the process.&nbsp; �The carcass will next want to hurry and get itself into the oven for burning.&nbsp; We have no further use for it, but the suffering of knowing what is to come must be excruciating for the carcass.&nbsp; This is unavoidable.&nbsp; It no longer has any desire to remain living, and is at this point it is more than willing to assist as best it can at speeding things along.&nbsp; This is a motivation above and beyond the simple fact that no more anesthesias is possible and any delays by either the carcass or by the need for punishment, is only further delayed by dallying about on the rails.&nbsp; Come along, you useless carcass; let�s get you finished.&nbsp; We�ve had enough fun with you and would like very much to help you kill yourself in order to assist the goals of the new order.&nbsp; One less white boy.�
+
+&nbsp;&nbsp; The carcass looked around the room, and then over at the table of meat and bones.&nbsp; Then it looked down at the brass rings that were the extent of its legs.&nbsp; Finally it seemed stuck on the view of its balls free penis.&nbsp; With a weakened body, it reached for the railing, and started to pull itself down the railway.&nbsp; It didn�t slow one bit as it reached the oven and put itself in.
+
+&nbsp;&nbsp; It wasn�t even through turning all of the way around when it got tired.&nbsp; The body had moved just enough to see the door come down before pausing from the strain of moving itself.&nbsp; A light came on inside of the oven, allowing us all a good view as the carcass waited as it finished the job of positioning itself for final extermination.
+
+&nbsp;&nbsp; �Like most white men, it isn�t smart enough to remember all of its instructions, so let�s hope that the carcass remembers the final instruction from the video.&nbsp; Remember?&nbsp; It will have to push the heat resistant button inside in order to engage the burners.&nbsp; I wonder if it can hear me inside of there?�&nbsp; She raised her voice, saying, �Push the button, stupid, and burn yourself up for us, please!&nbsp; Let�s get another white ass off my planet.&nbsp; That�s right; that one, idiot!�&nbsp; Then less loudly, �Like there are two buttons or something, dumb ass.�
+
+&nbsp;&nbsp; The man pushed the button as he wailed.&nbsp; No problem hearing him scream his torment at having to do that himself, I realized.&nbsp; Then nothing happened.&nbsp; He started squirming on the rail, but it wasn�t from heat, I understood.&nbsp; It was from the torment of waiting for what he�d initiated to start.
+
+&nbsp;&nbsp; �As you can see, we can either set the oven to light as soon as the carcass has initiated the request to burn itself up, or we can set it to a timer.&nbsp;&nbsp; A third option is to allow me to make the final moment possible by pushing in another sequence of numbers that shorten the timer to just a few seconds.&nbsp; It is much better, of course, for you to know that your final act of pushing the button will at least be quicker than this.&nbsp; For demonstration purposes, I like to make this clear.&nbsp; Now, as a demo, ninety-two has been quite excellent at helping us rid the world of one more white person.&nbsp; He has even done a fair job of butchering his useful parts for the new order�s uses.&nbsp; Therefore I feel that it is only right to finish this so that we can get the rest of you longpigs sorted out for the evening.
+
+&nbsp;&nbsp; She pushed in a code on the wall panel.
+
+&nbsp;&nbsp; There was a long pause.
+
+&nbsp;&nbsp; Then a jet of flame burst up from the floor on the near left side of the oven.&nbsp; They watched it, as did Jesse as he flinched away from the flaming jet that was just beyond touching him.
+
+&nbsp;&nbsp; �Damn cleanings!&nbsp; They always get carried away with that hose.&nbsp; Ashes clog up everything when they aren�t careful,� said one of the guards.
+
+&nbsp;&nbsp; �I suppose we should try to do something about it.&nbsp; It doesn�t seem to want to clear by itself,� said the head guard as she punched in a few buttons of code.
+
+&nbsp;&nbsp; �Shit!� Barked the last guard as she went to the tool box and pulled out a wire bristled grill brush.&nbsp; The door opened.&nbsp; We could all feel the room warming from the release of heat.&nbsp; The guard reached in, scrubbing out the first right side flame nozzle and the second one down on the left.
+
+&nbsp;&nbsp; �That might do it,� she said, though it was hard to hear her for all of the wailing and whimpering the carcass just above and beyond her reach was doing.&nbsp; The legs were dripping a little puss and blood, but she didn�t go in far enough to get dripped on.&nbsp; She moved clear, and they closed the door again.
+
+&nbsp;&nbsp; �OK.&nbsp; You can push the button again,� said the head guard in a voice loud enough to possibly be heard by the carcass in the oven.
+
+&nbsp;&nbsp; The carcass wailed like a banshee, but managed to jab at the wall, missing the button on the first three tries before hitting it with a click that we all could faintly hear.&nbsp; The first jet lit, but no more.
+
+&nbsp;&nbsp; �Shit!&nbsp; Here, let me try it,� said the second guard.&nbsp; The door flew open, and she pulled a small can of lighter fluid out of her pocket, squirting a liberal amount on the carcass�s face and upper body.&nbsp; They quickly dropped the door.
+
+&nbsp;&nbsp; �OK.&nbsp; Hit the button again.&nbsp; I think we�ve got it now,� said the chief guard.
+
+&nbsp;&nbsp; Another wail of effort, and the button was hit the first time.&nbsp; A single jet ignited.&nbsp; It heated the oven slowly, taking a half minute, it seemed, before I could see the building of some white smoke near the inside top of the oven window.
+
+&nbsp;&nbsp; The carcass, of course, was squirming all over in its neck brace, hands flaying back behind him as it attempted to keep his arms clear of the flame.&nbsp; Then the body burst into flames, mostly over the upper body and head.&nbsp; Arms started flying all over the place.
+
+&nbsp;&nbsp; In a second leaping change, the whole body then burst into flame, flames rolling out from under the mass of bleeding stumps as if it was some kind of log in the fireplace.&nbsp; The leaping about only intensified as the carcass continued to live, somehow, in the midst of the burning mass or white hot flames.
+
+&nbsp;&nbsp; Next, the nozzles must have cleared, for two lines of nozzles suddenly shot lines of blue flame upwards to both sides of the white hot flaming body.&nbsp; Black smoke rolled near the top of the oven, the body generating too much smoke to be handled all at once by the exhaust pipe up beyond the roof grate.
+
+&nbsp;&nbsp; It seemed like at least a full minute before Jesse stopped dancing.&nbsp; Then what was left of him was just a lump, consuming itself in a rolling mass of human fuel.&nbsp; We were made to watch it dwindle and then drop in two masses, head and torso, over and into the waste pan and bone pan that sat on the wider ash pan between the jets of fire.&nbsp; Soon the whole oven window was one massive rolling flame.&nbsp; The red panel of buttons showed a display of the heat, it reaching upwards and climbing to well over 1800 degrees Fahrenheit.
+
+&nbsp;&nbsp; �Well, we�re done here.&nbsp; The oven will turn itself off in a couple of hours and need it will take at least a quarter day to bring the heat down and have a slave in here to trash the ashes.&nbsp; No point in us waiting around for all of that, now is there, piggies.&nbsp; I�m sure that you are all famished and in need of a little rest.&nbsp; So, without any further delay, let us get all of this meat settled in,� said the head guard.
+
+&nbsp;&nbsp; She nodded to a second guard and a set of doors opened to the back left of the room, almost as if it was a second crematorium, but of course this one was a real door that went all the way to the floor.&nbsp; It was steel, and looked very secure.&nbsp; I followed the head in front of me as I walked through.&nbsp; All forty-nine of us did, each a sheep in the hands of a mere three black females.
+
+
+
+
+
+Review This Story
+ || Email Author:  counterparts199
+
+
+MORE BDSM STORIES @ SEX STORIES POST
+
+
+
+
+
